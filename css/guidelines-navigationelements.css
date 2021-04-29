@@ -1,7 +1,7 @@
 /* screen - guidelines-navigationelements */
 
-.animate-enter10 {
-  animation: animate-enter10-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter6 {
+  animation: animate-enter6-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1267,7 +1267,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter10-frames {
+@keyframes animate-enter6-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

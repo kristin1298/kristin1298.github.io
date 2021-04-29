@@ -1,7 +1,7 @@
 /* screen - guidelines-buttons */
 
-.animate-enter13 {
-  animation: animate-enter13-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter14 {
+  animation: animate-enter14-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1233,7 +1233,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter13-frames {
+@keyframes animate-enter14-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
