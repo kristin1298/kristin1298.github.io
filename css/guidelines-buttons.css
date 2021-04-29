@@ -1,0 +1,1240 @@
+/* screen - guidelines-buttons */
+
+.animate-enter13 {
+  animation: animate-enter13-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-buttons {
+  background-color: var(--coconut);
+  display: block;
+  height: 100vh;
+  margin: 0px;
+  min-height: 8099px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-buttons .a-button-is-a-f-ns-and-machines-C61RwL {
+  background-color: transparent;
+  height: 86px;
+  left: calc(49.66% - 373px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: 752px;
+}
+.guidelines-buttons .accessibility-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: 91px;
+}
+.guidelines-buttons .accessibility-o-ily-tested-here-C61RwL {
+  background-color: transparent;
+  bottom: calc(47.24% - 55px);
+  height: 117px;
+  left: calc(41.56% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 380px;
+}
+.guidelines-buttons .accessible-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(46.79% - 168px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-buttons .accessible-VMr6Om {
+  background-color: transparent;
+  bottom: calc(48.54% - 19px);
+  height: 39px;
+  left: calc(36.14% - 54px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+.guidelines-buttons .active-interactive-and-enabled-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(38.32% - 96px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.15% - 10px);
+  white-space: nowrap;
+  width: 250px;
+}
+.guidelines-buttons .bannerbuttons-C61RwL {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.guidelines-buttons .best-practice-tips-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(34.44% - 81px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 913px;
+  white-space: nowrap;
+  width: 236px;
+}
+.guidelines-buttons .best-practice-tips-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: 125px;
+}
+.guidelines-buttons .button-states-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.82% - 67px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(44.27% - 17px);
+  white-space: nowrap;
+  width: 182px;
+}
+.guidelines-buttons .buttons-C61RwL {
+  background-color: transparent;
+  height: 63px;
+  left: calc(33.26% - 59px);
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  white-space: nowrap;
+  width: 176px;
+}
+.guidelines-buttons .buttons-VMr6Om {
+  background-color: transparent;
+  bottom: 375px;
+  height: 21px;
+  left: calc(33.22% - 58px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 174px;
+}
+.guidelines-buttons .buttons-are-use-new-upload-etc-C61RwL {
+  background-color: transparent;
+  bottom: 316px;
+  height: 45px;
+  left: calc(38.18% - 153px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 401px;
+}
+.guidelines-buttons .buttons-communi-d-links-matters-C61RwL {
+  background-color: transparent;
+  bottom: 428px;
+  height: 69px;
+  left: calc(43.28% - 251px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 580px;
+}
+.guidelines-buttons .buttons-mzXdH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 517px;
+  white-space: nowrap;
+  width: 57px;
+}
+.guidelines-buttons .buttonstates-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(45.72% - 165px);
+  width: 640px;
+}
+.guidelines-buttons .colors-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 351px;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-buttons .content-of-this-page-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: fixed;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 147px;
+}
+.guidelines-buttons .design-guide-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(29.82% - 29px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 96px;
+}
+.guidelines-buttons .design-process-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(18.43% - 21px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 113px;
+}
+.guidelines-buttons .disabled-curren-noninteractive-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(40.51% - 138px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.51% - 10px);
+  white-space: nowrap;
+  width: 340px;
+}
+.guidelines-buttons .easy-to-find-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.32% - 57px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.68% - 9px);
+  white-space: nowrap;
+  width: 158px;
+}
+.guidelines-buttons .easytofind-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(23.23% - 84px);
+  width: 640px;
+}
+.guidelines-buttons .ebene-2-SZqgts {
+  background-color: transparent;
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: calc(50.00% - 12px);
+  width: 24px;
+}
+.guidelines-buttons .ellipse-273-6tzNvg {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 20px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+.guidelines-buttons .fonts-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 433px;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-buttons .gruppe-496-GCEBCP {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: calc(37.96% - 215px);
+  position: absolute;
+  top: calc(50.00% - 24px);
+  width: 566px;
+}
+.guidelines-buttons .gruppe-497-C61RwL {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-buttons .gutenberg-principle-C61RwL {
+  background-color: transparent;
+  bottom: calc(35.53% - 14px);
+  height: 39px;
+  left: calc(38.74% - 104px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 268px;
+}
+.guidelines-buttons .gutenberg-principle-IIDm0E {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-buttons .gutenbergprinciple-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(33.25% - 120px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-buttons .here-lTDZZU {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-buttons .hover-curser-ab-ractive-element-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(40.38% - 135px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.07% - 10px);
+  white-space: nowrap;
+  width: 335px;
+}
+.guidelines-buttons .icons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 474px;
+  white-space: nowrap;
+  width: 41px;
+}
+.guidelines-buttons .if-the-primary-again-to-tap-it-C61RwL {
+  background-color: transparent;
+  bottom: 983px;
+  height: 117px;
+  left: calc(41.08% - 149px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 362px;
+}
+.guidelines-buttons .if-the-primary-econdary-action-C61RwL {
+  background-color: transparent;
+  bottom: calc(19.58% - 23px);
+  height: 117px;
+  left: calc(41.32% - 153px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 371px;
+}
+.guidelines-buttons .komponente-25-1-C61RwL {
+  background-color: transparent;
+  bottom: calc(46.65% - 9px);
+  cursor: pointer;
+  height: 19px;
+  left: calc(36.45% - 11px);
+  position: absolute;
+  width: 31px;
+}
+.guidelines-buttons .komponente-44-1-C61RwL {
+  background-color: transparent;
+  bottom: calc(39.47% - 7px);
+  cursor: pointer;
+  height: 19px;
+  position: absolute;
+  right: calc(49.07% - 69px);
+  width: 140px;
+}
+.guidelines-buttons .layout-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 269px;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-buttons .linie-465-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: 958px;
+  width: 44px;
+}
+.guidelines-buttons .linie-465-VMr6Om {
+  background-color: transparent;
+  bottom: calc(40.87% - 2px);
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 44px;
+}
+.guidelines-buttons .linie-470-C61RwL {
+  background-color: transparent;
+  bottom: 521px;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 44px;
+}
+.guidelines-buttons .links-C61RwL {
+  background-color: transparent;
+  bottom: 261px;
+  height: 21px;
+  left: calc(33.22% - 58px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 174px;
+}
+.guidelines-buttons .links-are-used-ann-profile-etc-C61RwL {
+  background-color: transparent;
+  bottom: 202px;
+  height: 45px;
+  left: calc(38.18% - 153px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 401px;
+}
+.guidelines-buttons .logo-GCEBCP {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  cursor: pointer;
+  height: 25px;
+  left: 160px;
+  position: absolute;
+  width: 151px;
+}
+.guidelines-buttons .make-it-look-clickable-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(39.34% - 115px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(37.07% - 14px);
+  white-space: nowrap;
+  width: 293px;
+}
+.guidelines-buttons .make-sure-your-ses-for-buttons-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(40.03% - 128px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.29% - 45px);
+  width: 321px;
+}
+.guidelines-buttons .makeitlookclickable-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(38.22% - 138px);
+  width: 640px;
+}
+.guidelines-buttons .most-users-star-n-at-the-bottom-C61RwL {
+  background-color: transparent;
+  bottom: calc(26.85% - 31px);
+  height: 117px;
+  left: calc(41.08% - 149px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 362px;
+}
+.guidelines-buttons .navigation-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 392px;
+  white-space: nowrap;
+  width: 78px;
+}
+.guidelines-buttons .pfad-1373-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(42.60% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+.guidelines-buttons .pfad-1374-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.84% - 7px);
+  top: 1px;
+  width: 18px;
+}
+.guidelines-buttons .pfad-1375-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.86% - 1px);
+  top: 1px;
+  width: 4px;
+}
+.guidelines-buttons .pfad-1376-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 20px;
+  top: 1px;
+  width: 18px;
+}
+.guidelines-buttons .pfad-1377-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 16px;
+}
+.guidelines-buttons .pfad-1378-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+.guidelines-buttons .pfad-1379-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+.guidelines-buttons .pfad-1380-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: calc(19.24% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.guidelines-buttons .pfad-895-6tzNvg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 9px;
+}
+.guidelines-buttons .primary-action-10-C61RwL {
+  background-color: transparent;
+  bottom: calc(21.14% - 8px);
+  height: 39px;
+  left: calc(38.28% - 95px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+.guidelines-buttons .primary-action-20-C61RwL {
+  background-color: transparent;
+  bottom: 1124px;
+  height: 39px;
+  left: calc(38.28% - 95px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+.guidelines-buttons .primaryaction1-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(18.26% - 66px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-buttons .primaryaction2-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: 833px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-buttons .process-in-prog-ting-the-action-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(40.76% - 143px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.97% - 10px);
+  white-space: nowrap;
+  width: 350px;
+}
+.guidelines-buttons .rechteck-560-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(37.92% - 182px);
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-562-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(22.81% - 109px);
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-564-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(30.42% - 146px);
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-566-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: 1158px;
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-568-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(45.65% - 219px);
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-616-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 35px #00000029;
+  height: 503px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+}
+.guidelines-buttons .rechteck-663-C61RwL {
+  background-color: var(--chetwode-blue);
+  border-radius: 2px;
+  height: 26px;
+  left: 190px;
+  position: fixed;
+  top: 517px;
+  width: 3px;
+}
+.guidelines-buttons .rechteck-757-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(17.76% - 85px);
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-759-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(25.37% - 122px);
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-760-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(32.98% - 158px);
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-761-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 773px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-buttons .rechteck-824-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(46.86% - 225px);
+  box-shadow: 0px 2px 25px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-buttons .resources-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 158px;
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 77px;
+}
+.guidelines-buttons .search-SZqgts {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(45.45% - 12px);
+  height: 26px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  width: 171px;
+}
+.guidelines-buttons .search-SZqgts::placeholder {
+  color: #2021215c;
+}
+.guidelines-buttons .secondary-secon-rms-of-priority-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(40.76% - 143px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.61% - 10px);
+  white-space: nowrap;
+  width: 350px;
+}
+.guidelines-buttons .span0-IRX7gw {
+
+}
+.guidelines-buttons .span0-PedYmV {
+
+}
+.guidelines-buttons .span0-ThkTKi {
+
+}
+.guidelines-buttons .span0-abxTTU {
+
+}
+.guidelines-buttons .span0-o5sPx5 {
+
+}
+.guidelines-buttons .span0-qysbb0 {
+
+}
+.guidelines-buttons .span0-wWBmHe {
+
+}
+.guidelines-buttons .span1-IRX7gw {
+
+}
+.guidelines-buttons .span1-PedYmV {
+
+}
+.guidelines-buttons .span1-ThkTKi {
+
+}
+.guidelines-buttons .span1-abxTTU {
+
+}
+.guidelines-buttons .span1-o5sPx5 {
+
+}
+.guidelines-buttons .span1-qysbb0 {
+
+}
+.guidelines-buttons .span1-wWBmHe {
+
+}
+.guidelines-buttons .span2-IRX7gw {
+
+}
+.guidelines-buttons .span2-o5sPx5 {
+
+}
+.guidelines-buttons .the-principle-s-ve-less-attenti-C61RwL {
+  background-color: transparent;
+  bottom: calc(39.68% - 46px);
+  height: 117px;
+  left: calc(45.45% - 293px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 644px;
+}
+.guidelines-buttons .the-right-size-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.87% - 68px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1248px;
+  white-space: nowrap;
+  width: 184px;
+}
+.guidelines-buttons .the-size-of-you-dy-back-in-2003-C61RwL {
+  background-color: transparent;
+  height: 165px;
+  left: calc(40.82% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1311px;
+  width: 352px;
+}
+.guidelines-buttons .therightsize-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: 1218px;
+  width: 640px;
+}
+.guidelines-buttons .top-vs-bottom-C61RwL {
+  background-color: transparent;
+  bottom: calc(28.34% - 11px);
+  height: 39px;
+  left: calc(37.06% - 72px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 193px;
+}
+.guidelines-buttons .topvsbottom-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(25.75% - 93px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-buttons .understandable-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(30.73% - 111px);
+  width: 640px;
+}
+.guidelines-buttons .understandable-VMr6Om {
+  background-color: transparent;
+  height: 39px;
+  left: calc(37.51% - 80px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.88% - 12px);
+  white-space: nowrap;
+  width: 214px;
+}
+.guidelines-buttons .usage-of-buttons-C61RwL {
+  background-color: transparent;
+  bottom: calc(41.18% - 16px);
+  height: 39px;
+  left: calc(34.34% - 79px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 231px;
+}
+.guidelines-buttons .usage-of-buttons-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 599px;
+  white-space: nowrap;
+  width: 124px;
+}
+.guidelines-buttons .we-open-a-web-p-sign-it-clearly-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: calc(41.16% - 150px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(23.62% - 22px);
+  width: 365px;
+}
+.guidelines-buttons .when-designing-s-involved-here-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: calc(39.78% - 124px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.77% - 21px);
+  width: 311px;
+}
+.guidelines-buttons .when-it-comes-t-to-follow-when-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: calc(46.25% - 308px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 987px;
+  width: 666px;
+}
+.guidelines-buttons .when-to-use-buttons-or-links-C61RwL {
+  background-color: transparent;
+  bottom: 531px;
+  height: 39px;
+  left: calc(37.74% - 145px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 383px;
+}
+.guidelines-buttons .when-to-use-buttons-or-links-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 640px;
+  white-space: nowrap;
+  width: 204px;
+}
+.guidelines-buttons .whenever-a-user-f-their-actions-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: calc(41.56% - 158px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.22% - 31px);
+  width: 380px;
+}
+.guidelines-buttons .while-reading-c-of-the-content-C61RwL {
+  background-color: transparent;
+  bottom: calc(34.51% - 24px);
+  height: 69px;
+  left: calc(40.66% - 141px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 346px;
+}
+.guidelines-buttons .x01-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1214px;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x01-VMr6Om {
+  background-color: transparent;
+  bottom: calc(36.12% - 6px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x02-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.20% - 4px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x02-VMr6Om {
+  background-color: transparent;
+  bottom: calc(28.95% - 5px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x03-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.38% - 5px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x03-VMr6Om {
+  background-color: transparent;
+  bottom: calc(21.77% - 4px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x04-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.56% - 6px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x04-VMr6Om {
+  background-color: transparent;
+  bottom: 1180px;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x05-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.73% - 7px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-buttons .x06-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.09% - 8px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+@keyframes animate-enter13-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

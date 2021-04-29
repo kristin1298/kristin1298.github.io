@@ -1,0 +1,2736 @@
+/* screen - guidelines-colors */
+
+.animate-enter9 {
+  animation: animate-enter9-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-colors {
+  background-color: var(--coconut);
+  display: block;
+  height: 100vh;
+  margin: 0px;
+  min-height: 9720px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-colors .accessibility-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: 91px;
+}
+.guidelines-colors .activity-Nxhxrq {
+  background-color: transparent;
+  bottom: calc(48.15% - 10px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+.guidelines-colors .activity-hV1s0x {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 53px;
+}
+.guidelines-colors .aggressiveness-hV1s0x {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 58px;
+  text-align: left;
+  white-space: nowrap;
+  width: 113px;
+}
+.guidelines-colors .anger-hV1s0x {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.90% - 10px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-colors .artificial-TWYX0v {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.36% - 13px);
+  text-align: left;
+  top: calc(43.12% - 9px);
+  white-space: nowrap;
+  width: 59px;
+}
+.guidelines-colors .artificial-WSCP6e {
+  background-color: transparent;
+  bottom: calc(25.59% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.16% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 59px;
+}
+.guidelines-colors .artificiality-ToxedY {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(19.63% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+.guidelines-colors .avoid-using-gra-miliar-to-users-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: calc(40.63% - 140px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.69% - 24px);
+  width: 345px;
+}
+.guidelines-colors .bannercolors-C61RwL {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.guidelines-colors .besides-aesthet-ant-the-user-to-C61RwL {
+  background-color: transparent;
+  height: 141px;
+  left: calc(41.53% - 157px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(19.76% - 28px);
+  width: 379px;
+}
+.guidelines-colors .bitterness-uuLza6 {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(20.12% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+.guidelines-colors .black-jZek9g {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 76px;
+}
+.guidelines-colors .blue-3OEtxU {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 61px;
+}
+.guidelines-colors .boastfulness-Nxhxrq {
+  background-color: transparent;
+  bottom: calc(37.57% - 8px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 76px;
+  text-align: left;
+  white-space: nowrap;
+  width: 94px;
+}
+.guidelines-colors .boredom-ARkcuT {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.26% - 14px);
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+.guidelines-colors .boredom-lhtMCB {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.26% - 14px);
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+.guidelines-colors .brown-Pg7D70 {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 87px;
+}
+.guidelines-colors .buttons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 599px;
+  white-space: nowrap;
+  width: 57px;
+}
+.guidelines-colors .caring-TWYX0v {
+  background-color: transparent;
+  bottom: calc(35.53% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.32% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 46px;
+}
+.guidelines-colors .cheap-Nxhxrq {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.27% - 11px);
+  text-align: left;
+  top: calc(39.77% - 8px);
+  white-space: nowrap;
+  width: 45px;
+}
+.guidelines-colors .cheap-WSCP6e {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.08% - 11px);
+  text-align: left;
+  top: calc(42.38% - 9px);
+  white-space: nowrap;
+  width: 45px;
+}
+.guidelines-colors .childish-TWYX0v {
+  background-color: transparent;
+  bottom: calc(24.86% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.66% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 57px;
+}
+.guidelines-colors .cleanliness-ARkcuT {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-colors .closure-jZek9g {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.12% - 12px);
+  text-align: left;
+  white-space: nowrap;
+  width: 54px;
+}
+.guidelines-colors .cmyk-is-the-col-at-accuracy-and-C61RwL {
+  background-color: transparent;
+  bottom: calc(43.77% - 72px);
+  height: 165px;
+  left: calc(40.84% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 353px;
+}
+.guidelines-colors .coldness-3OEtxU {
+  background-color: transparent;
+  bottom: calc(46.84% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.26% - 14px);
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+.guidelines-colors .color-meaning-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(37.17% - 74px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1825px;
+  white-space: nowrap;
+  width: 198px;
+}
+.guidelines-colors .color-psychology-C61RwL {
+  background-color: transparent;
+  bottom: calc(39.11% - 15px);
+  height: 39px;
+  left: calc(34.40% - 80px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 234px;
+}
+.guidelines-colors .color-psychology-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 435px;
+  white-space: nowrap;
+  width: 124px;
+}
+.guidelines-colors .color-saturatio-aturated-colors-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(39.41% - 117px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.82% - 51px);
+  width: 296px;
+}
+.guidelines-colors .color-saturation-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(37.60% - 82px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(42.82% - 17px);
+  white-space: nowrap;
+  width: 218px;
+}
+.guidelines-colors .colormeaning-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(19.18% - 69px);
+  width: 640px;
+}
+.guidelines-colors .colors-C61RwL {
+  background-color: transparent;
+  height: 63px;
+  left: calc(32.73% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  white-space: nowrap;
+  width: 148px;
+}
+.guidelines-colors .colors-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 353px;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-colors .colors-can-spea-connotation-for-C61RwL {
+  background-color: transparent;
+  height: 146px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(48.17% - 386px);
+  text-align: left;
+  top: 425px;
+  width: 801px;
+}
+.guidelines-colors .colors-can-spea-nnotation-for-a-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: calc(48.54% - 352px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 984px;
+  width: 725px;
+}
+.guidelines-colors .colorsaturation-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(43.96% - 158px);
+  width: 640px;
+}
+.guidelines-colors .content-of-this-page-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: fixed;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 147px;
+}
+.guidelines-colors .conviviality-Pg7D70 {
+  background-color: transparent;
+  bottom: calc(35.63% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.guidelines-colors .danger-hV1s0x {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.58% - 12px);
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 51px;
+}
+.guidelines-colors .denotative-colo-ne-of-your-bran-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.71% - 94px);
+  height: 189px;
+  left: calc(40.84% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 353px;
+}
+.guidelines-colors .denotative-colors-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(38.03% - 90px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.81% - 19px);
+  white-space: nowrap;
+  width: 237px;
+}
+.guidelines-colors .design-guide-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(29.82% - 29px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 96px;
+}
+.guidelines-colors .design-process-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(18.43% - 21px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 113px;
+}
+.guidelines-colors .desolation-ARkcuT {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(19.46% - 15px);
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 77px;
+}
+.guidelines-colors .desolation-lhtMCB {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(19.46% - 15px);
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 77px;
+}
+.guidelines-colors .detonativecolors-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.84% - 179px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-colors .different-studi-rand-or-product-C61RwL {
+  background-color: transparent;
+  bottom: calc(38.14% - 26px);
+  height: 69px;
+  left: calc(46.89% - 320px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 683px;
+}
+.guidelines-colors .dignity-ToxedY {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+.guidelines-colors .discretion-lhtMCB {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 72px;
+}
+.guidelines-colors .dont-use-cmyk-C61RwL {
+  background-color: transparent;
+  bottom: calc(45.20% - 18px);
+  height: 39px;
+  left: calc(37.56% - 81px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 216px;
+}
+.guidelines-colors .dontusecmyk-C61RwL {
+  background-color: transparent;
+  bottom: calc(43.64% - 157px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-colors .drama-jZek9g {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.02% - 12px);
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-colors .ebene-2-SZqgts {
+  background-color: transparent;
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: calc(50.00% - 12px);
+  width: 24px;
+}
+.guidelines-colors .elegance-jZek9g {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.24% - 9px);
+  white-space: nowrap;
+  width: 66px;
+}
+.guidelines-colors .ellipse-273-6tzNvg {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 20px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+.guidelines-colors .emptiness-ARkcuT {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(19.63% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+.guidelines-colors .energy-Nxhxrq {
+  background-color: transparent;
+  bottom: calc(25.49% - 5px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-colors .energy-hV1s0x {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-colors .faithfulness-3OEtxU {
+  background-color: transparent;
+  bottom: calc(35.99% - 8px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+.guidelines-colors .fashionable-ToxedY {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.guidelines-colors .fonts-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 517px;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-colors .fun-WSCP6e {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 25px;
+}
+.guidelines-colors .functionality-lhtMCB {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 90px;
+}
+.guidelines-colors .gentleness-TWYX0v {
+  background-color: transparent;
+  bottom: calc(24.86% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 80px;
+}
+.guidelines-colors .grayscale-first-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(37.10% - 72px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1245px;
+  white-space: nowrap;
+  width: 195px;
+}
+.guidelines-colors .grayscalefirst-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: 1215px;
+  width: 640px;
+}
+.guidelines-colors .great-contrasts-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(37.41% - 78px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.83% - 12px);
+  white-space: nowrap;
+  width: 209px;
+}
+.guidelines-colors .greatcontrasts-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(31.57% - 114px);
+  width: 640px;
+}
+.guidelines-colors .green-uuLza6 {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-colors .grey-lhtMCB {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 63px;
+}
+.guidelines-colors .grief-jZek9g {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(26.05% - 9px);
+  text-align: left;
+  white-space: nowrap;
+  width: 34px;
+}
+.guidelines-colors .gruppe-496-GCEBCP {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: calc(37.96% - 215px);
+  position: absolute;
+  top: calc(50.00% - 24px);
+  width: 566px;
+}
+.guidelines-colors .gruppe-497-C61RwL {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .gruppe-666-ToxedY {
+  background-color: transparent;
+  height: 16px;
+  left: 60px;
+  position: absolute;
+  top: calc(34.27% - 5px);
+  width: 16px;
+}
+.guidelines-colors .gruppe-667-ToxedY {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: calc(28.49% - 5px);
+  top: calc(34.27% - 5px);
+  width: 16px;
+}
+.guidelines-colors .gruppe-745-C61RwL {
+  background: linear-gradient(229.94deg, #9454e9 0.8%, #c8aaf1 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(33.55% - 161px);
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  left: calc(42.65% - 239px);
+  position: absolute;
+  width: 560px;
+}
+.guidelines-colors .gruppe-746-C61RwL {
+  background: linear-gradient(229.4deg, #4182e1 0%, #9cdbff 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(33.55% - 161px);
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 560px;
+}
+.guidelines-colors .gruppe-747-C61RwL {
+  background: linear-gradient(229.4deg, #3ebf61 0%, #a1e0b2 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(27.27% - 131px);
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  left: calc(42.65% - 239px);
+  position: absolute;
+  width: 560px;
+}
+.guidelines-colors .gruppe-748-C61RwL {
+  background: linear-gradient(229.4deg, #f4f43e 0%, #fffdb7 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(27.27% - 131px);
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 560px;
+}
+.guidelines-colors .gruppe-749-C61RwL {
+  background: linear-gradient(229.4deg, #ffad03 0%, #ffba7e 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(21.00% - 101px);
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  left: calc(42.65% - 239px);
+  position: absolute;
+  width: 560px;
+}
+.guidelines-colors .gruppe-750-C61RwL {
+  background: linear-gradient(229.4deg, #cf2626 0%, #f97979 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(21.00% - 101px);
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 560px;
+}
+.guidelines-colors .gruppe-751-C61RwL {
+  background: linear-gradient(229.4deg, #fa7fbc 0%, #ffbadd 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: 1360px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  left: calc(42.65% - 239px);
+  position: absolute;
+  width: 560px;
+}
+.guidelines-colors .gruppe-752-C61RwL {
+  background: linear-gradient(229.4deg, #8a3c28 0%, #d57962 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: 1360px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 560px;
+}
+.guidelines-colors .gruppe-753-C61RwL {
+  background: linear-gradient(229.4deg, #393939 0%, #595959 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: 780px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  left: calc(42.65% - 239px);
+  position: absolute;
+  width: 560px;
+}
+.guidelines-colors .gruppe-754-C61RwL {
+  background-color: var(--black);
+  border-radius: 12px;
+  bottom: 780px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 560px;
+}
+.guidelines-colors .gruppe-755-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 200px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 480px;
+  left: calc(42.65% - 239px);
+  position: absolute;
+  width: 560px;
+}
+.guidelines-colors .hardness-3OEtxU {
+  background-color: transparent;
+  bottom: calc(36.17% - 8px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(20.93% - 14px);
+  text-align: left;
+  white-space: nowrap;
+  width: 68px;
+}
+.guidelines-colors .harmony-Pg7D70 {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.02% - 9px);
+  white-space: nowrap;
+  width: 64px;
+}
+.guidelines-colors .harmony-uuLza6 {
+  background-color: transparent;
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 64px;
+}
+.guidelines-colors .hatred-hV1s0x {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.02% - 12px);
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-colors .here-K0aVJQ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-colors .hope-3OEtxU {
+  background-color: transparent;
+  bottom: calc(46.83% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37px;
+}
+.guidelines-colors .icons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: 41px;
+}
+.guidelines-colors .if-you-want-to-chology-go-here-C61RwL {
+  background-color: transparent;
+  height: 45px;
+  left: calc(40.79% - 143px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(21.16% - 10px);
+  width: 351px;
+}
+.guidelines-colors .imagination-ToxedY {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+.guidelines-colors .immaturity-uuLza6 {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(19.13% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 79px;
+}
+.guidelines-colors .innocence-ARkcuT {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+.guidelines-colors .innocence-TWYX0v {
+  background-color: transparent;
+  bottom: calc(46.21% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+.guidelines-colors .insecurity-ToxedY {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(20.45% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 71px;
+}
+.guidelines-colors .intellect-jZek9g {
+  background-color: transparent;
+  bottom: calc(35.41% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 58px;
+}
+.guidelines-colors .introversion-Pg7D70 {
+  background-color: transparent;
+  bottom: 66px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(18.14% - 16px);
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+.guidelines-colors .joy-WSCP6e {
+  background-color: transparent;
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 23px;
+}
+.guidelines-colors .joy-of-life-Nxhxrq {
+  background-color: transparent;
+  bottom: calc(36.82% - 8px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 68px;
+}
+.guidelines-colors .joy-of-life-uuLza6 {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 68px;
+}
+.guidelines-colors .komponente-10-1-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.04% - 11px);
+  position: absolute;
+  top: calc(21.39% - 4px);
+  width: 31px;
+}
+.guidelines-colors .layout-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 269px;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-colors .laziness-Pg7D70 {
+  background-color: transparent;
+  bottom: calc(35.73% - 8px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.40% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 60px;
+}
+.guidelines-colors .laziness-ihBcyw {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.40% - 13px);
+  text-align: left;
+  top: calc(42.92% - 9px);
+  white-space: nowrap;
+  width: 60px;
+}
+.guidelines-colors .lie-Nxhxrq {
+  background-color: transparent;
+  bottom: 68px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(28.04% - 5px);
+  text-align: left;
+  white-space: nowrap;
+  width: 18px;
+}
+.guidelines-colors .lightness-ARkcuT {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 67px;
+}
+.guidelines-colors .lightness-WSCP6e {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 67px;
+}
+.guidelines-colors .linie-456-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: 956px;
+  width: 44px;
+}
+.guidelines-colors .linie-457-C61RwL {
+  background-color: transparent;
+  bottom: calc(38.86% - 2px);
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 44px;
+}
+.guidelines-colors .linie-57-3OEtxU {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.26% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-ARkcuT {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-Nxhxrq {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.30% - 6px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-Pg7D70 {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.70% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-RwvOJU {
+  background-color: transparent;
+  height: calc(100.00% + 4px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 4px);
+}
+.guidelines-colors .linie-57-TWYX0v {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.70% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-WSCP6e {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-hV1s0x {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-jZek9g {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-lhtMCB {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-57-uuLza6 {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-3OEtxU {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.26% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-4cQ67v {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(31.52% - 6px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-7kfj0Y {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-ARkcuT {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-Gafpq8 {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-JL2QDI {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-Nxhxrq {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.30% - 6px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-Pg7D70 {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.70% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-RwvOJU {
+  background-color: transparent;
+  height: calc(100.00% + 4px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 4px);
+}
+.guidelines-colors .linie-58-TWYX0v {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.70% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-WRQePb {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-WSCP6e {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-enrqYZ {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(33.48% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-fxGGR6 {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-hV1s0x {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-ihBcyw {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-jZek9g {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-lhtMCB {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-qcP9Q8 {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-rZoVAR {
+  background-color: transparent;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.33% - 6px);
+  top: calc(34.13% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-uuLza6 {
+  background-color: transparent;
+  height: 20px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.91% - 7px);
+  width: 20px;
+}
+.guidelines-colors .linie-58-xxl5KM {
+  background-color: transparent;
+  height: calc(100.00% + 4px);
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% + 4px);
+}
+.guidelines-colors .liveliness-WSCP6e {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 67px;
+}
+.guidelines-colors .logo-GCEBCP {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  cursor: pointer;
+  height: 25px;
+  left: 160px;
+  position: absolute;
+  width: 151px;
+}
+.guidelines-colors .loneliness-ToxedY {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(19.96% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 74px;
+}
+.guidelines-colors .love-TWYX0v {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.12% - 9px);
+  white-space: nowrap;
+  width: 31px;
+}
+.guidelines-colors .love-hV1s0x {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 31px;
+}
+.guidelines-colors .misery-ARkcuT {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.73% - 12px);
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-colors .misery-lhtMCB {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.73% - 12px);
+  text-align: left;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-colors .naturalness-uuLza6 {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.guidelines-colors .navigation-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: 78px;
+}
+.guidelines-colors .negation-jZek9g {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.57% - 14px);
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 64px;
+}
+.guidelines-colors .neutrality-lhtMCB {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 68px;
+}
+.guidelines-colors .optimism-Nxhxrq {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.52% - 9px);
+  white-space: nowrap;
+  width: 69px;
+}
+.guidelines-colors .orange-WSCP6e {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 99px;
+}
+.guidelines-colors .originality-ToxedY {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 71px;
+}
+.guidelines-colors .passivity-3OEtxU {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.57% - 14px);
+  text-align: left;
+  top: calc(42.48% - 9px);
+  white-space: nowrap;
+  width: 64px;
+}
+.guidelines-colors .passivity-Pg7D70 {
+  background-color: transparent;
+  bottom: calc(25.05% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.77% - 14px);
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+.guidelines-colors .perfection-ARkcuT {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 74px;
+}
+.guidelines-colors .persistence-uuLza6 {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(18.11% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+.guidelines-colors .pfad-1373-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(42.60% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+.guidelines-colors .pfad-1374-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.84% - 7px);
+  top: 1px;
+  width: 18px;
+}
+.guidelines-colors .pfad-1375-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.86% - 1px);
+  top: 1px;
+  width: 4px;
+}
+.guidelines-colors .pfad-1376-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 20px;
+  top: 1px;
+  width: 18px;
+}
+.guidelines-colors .pfad-1377-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 16px;
+}
+.guidelines-colors .pfad-1378-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+.guidelines-colors .pfad-1379-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+.guidelines-colors .pfad-1380-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: calc(19.24% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.guidelines-colors .pfad-895-6tzNvg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 9px;
+}
+.guidelines-colors .pink-TWYX0v {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 61px;
+}
+.guidelines-colors .pleasure-WSCP6e {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 63px;
+}
+.guidelines-colors .poverty-Pg7D70 {
+  background-color: transparent;
+  bottom: calc(46.41% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.17% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+.guidelines-colors .pure-grayscale-and-black-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(40.58% - 139px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.84% - 10px);
+  white-space: nowrap;
+  width: 343px;
+}
+.guidelines-colors .puregrayscaleandblack-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(25.37% - 91px);
+  width: 640px;
+}
+.guidelines-colors .purity-ARkcuT {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-colors .purple-ToxedY {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 89px;
+}
+.guidelines-colors .pushy-Nxhxrq {
+  background-color: transparent;
+  bottom: calc(48.90% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.42% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 44px;
+}
+.guidelines-colors .pushy-WSCP6e {
+  background-color: transparent;
+  bottom: calc(46.94% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.42% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 44px;
+}
+.guidelines-colors .rebellion-jZek9g {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(21.73% - 14px);
+  text-align: left;
+  white-space: nowrap;
+  width: 63px;
+}
+.guidelines-colors .rechteck-10-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(49.84% - 239px);
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-colors .rechteck-10-VMr6Om {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(43.89% - 211px);
+  width: 1180px;
+}
+.guidelines-colors .rechteck-10-mzXdH9 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(37.61% - 181px);
+  width: 1180px;
+}
+.guidelines-colors .rechteck-1540-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(18.78% - 90px);
+  width: 1180px;
+}
+.guidelines-colors .rechteck-1542-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: 1155px;
+  width: 1180px;
+}
+.guidelines-colors .rechteck-1548-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(25.05% - 120px);
+  width: 1180px;
+}
+.guidelines-colors .rechteck-1549-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(31.33% - 150px);
+  width: 1180px;
+}
+.guidelines-colors .rechteck-1682-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(43.56% - 209px);
+  box-shadow: 0px 1px 30px #00000029;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-colors .rechteck-616-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  height: 462px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+}
+.guidelines-colors .rechteck-663-C61RwL {
+  background-color: var(--chetwode-blue);
+  border-radius: 2px;
+  height: 26px;
+  left: 190px;
+  position: fixed;
+  top: 353px;
+  width: 3px;
+}
+.guidelines-colors .red-hV1s0x {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 54px;
+}
+.guidelines-colors .resources-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 158px;
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 77px;
+}
+.guidelines-colors .search-SZqgts {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(45.45% - 12px);
+  height: 26px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  width: 171px;
+}
+.guidelines-colors .search-SZqgts::placeholder {
+  color: #2021215c;
+}
+.guidelines-colors .security-Pg7D70 {
+  background-color: transparent;
+  bottom: calc(24.95% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 58px;
+}
+.guidelines-colors .seduction-TWYX0v {
+  background-color: transparent;
+  bottom: calc(35.53% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 72px;
+}
+.guidelines-colors .self-control-jZek9g {
+  background-color: transparent;
+  bottom: calc(46.09% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-colors .selfishness-Nxhxrq {
+  background-color: transparent;
+  bottom: calc(26.24% - 6px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(18.41% - 15px);
+  text-align: left;
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-colors .sensuality-Pg7D70 {
+  background-color: transparent;
+  bottom: calc(46.31% - 10px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 74px;
+}
+.guidelines-colors .sensuality-ToxedY {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 74px;
+}
+.guidelines-colors .showy-WSCP6e {
+  background-color: transparent;
+  bottom: calc(36.27% - 8px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.83% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-colors .sickly-TWYX0v {
+  background-color: transparent;
+  bottom: calc(46.21% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.90% - 10px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-colors .silence-3OEtxU {
+  background-color: transparent;
+  bottom: 66px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 52px;
+}
+.guidelines-colors .simplicity-lhtMCB {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 70px;
+}
+.guidelines-colors .sobriety-ARkcuT {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.36% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 59px;
+}
+.guidelines-colors .sobriety-lhtMCB {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.36% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 59px;
+}
+.guidelines-colors .some-colors-go-essary-to-do-so-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(41.03% - 148px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.79% - 37px);
+  width: 360px;
+}
+.guidelines-colors .span0-xGV5G1 {
+
+}
+.guidelines-colors .span1-xGV5G1 {
+
+}
+.guidelines-colors .span2-xGV5G1 {
+
+}
+.guidelines-colors .strength-hV1s0x {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+.guidelines-colors .strength-jZek9g {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+.guidelines-colors .sympathy-3OEtxU {
+  background-color: transparent;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(42.39% - 9px);
+  white-space: nowrap;
+  width: 71px;
+}
+.guidelines-colors .temperament-hV1s0x {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 98px;
+}
+.guidelines-colors .tenderness-TWYX0v {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.guidelines-colors .the-60-30-10-is-ther-complement-C61RwL {
+  background-color: transparent;
+  height: 213px;
+  left: calc(40.63% - 140px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.21% - 81px);
+  width: 345px;
+}
+.guidelines-colors .the-60-30-10-ratio-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(39.51% - 119px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.82% - 14px);
+  white-space: nowrap;
+  width: 300px;
+}
+.guidelines-colors .thoughtfulness-lhtMCB {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+.guidelines-colors .toxicity-uuLza6 {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(23.27% - 12px);
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 53px;
+}
+.guidelines-colors .tranquility-uuLza6 {
+  background-color: transparent;
+  bottom: calc(46.19% - 10px);
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 72px;
+}
+.guidelines-colors .triviality-uuLza6 {
+  background-color: transparent;
+  bottom: calc(35.51% - 7px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(22.47% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 57px;
+}
+.guidelines-colors .unfaithfulness-ToxedY {
+  background-color: transparent;
+  bottom: calc(24.84% - 5px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 67px;
+  text-align: left;
+  white-space: nowrap;
+  width: 104px;
+}
+.guidelines-colors .usage-of-colors-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(33.98% - 72px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 910px;
+  white-space: nowrap;
+  width: 213px;
+}
+.guidelines-colors .usage-of-colors-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 394px;
+  white-space: nowrap;
+  width: 114px;
+}
+.guidelines-colors .vanity-ToxedY {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(24.61% - 11px);
+  text-align: left;
+  top: calc(43.14% - 9px);
+  white-space: nowrap;
+  width: 44px;
+}
+.guidelines-colors .warmth-Nxhxrq {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.guidelines-colors .warmth-Pg7D70 {
+  background-color: transparent;
+  bottom: 66px;
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.guidelines-colors .we-like-to-play-nts-this-will-s-C61RwL {
+  background-color: transparent;
+  height: 141px;
+  left: calc(41.53% - 157px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1313px;
+  width: 379px;
+}
+.guidelines-colors .white-ARkcuT {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 79px;
+}
+.guidelines-colors .wisdom-3OEtxU {
+  background-color: transparent;
+  bottom: calc(25.15% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 58px;
+}
+.guidelines-colors .wisdom-jZek9g {
+  background-color: transparent;
+  bottom: calc(24.74% - 5px);
+  height: 21px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 58px;
+}
+.guidelines-colors .x01-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1212px;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x02-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1792px;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x03-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.44% - 4px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x04-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.42% - 5px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x05-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.40% - 6px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x06-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(42.37% - 7px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x07-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.35% - 8px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x08-C61RwL {
+  background-color: transparent;
+  bottom: calc(45.67% - 8px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-colors .x603010ratio-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(37.77% - 136px);
+  width: 640px;
+}
+.guidelines-colors .yellow-Nxhxrq {
+  background-color: transparent;
+  height: 39px;
+  left: 60px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 90px;
+}
+.guidelines-colors .youth-uuLza6 {
+  background-color: transparent;
+  bottom: 65px;
+  height: 21px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+@keyframes animate-enter9-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

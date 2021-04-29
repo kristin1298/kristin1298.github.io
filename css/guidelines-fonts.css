@@ -1,0 +1,1964 @@
+/* screen - guidelines-fonts */
+
+.animate-enter11 {
+  animation: animate-enter11-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-fonts {
+  background-color: var(--coconut);
+  display: block;
+  height: 100vh;
+  margin: 0px;
+  min-height: 10044px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-fonts .accessibility-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: 91px;
+}
+.guidelines-fonts .arvo-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(36.60% - 13px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.52% - 9px);
+  white-space: nowrap;
+  width: 35px;
+}
+.guidelines-fonts .avoid-these-typo-errors-C61RwL {
+  background-color: transparent;
+  bottom: calc(47.60% - 19px);
+  height: 39px;
+  left: calc(36.09% - 113px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 313px;
+}
+.guidelines-fonts .avoid-these-typo-errors-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 640px;
+  white-space: nowrap;
+  width: 166px;
+}
+.guidelines-fonts .bannerfonts-C61RwL {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.guidelines-fonts .bona-nova-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.48% - 30px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.41% - 6px);
+  white-space: nowrap;
+  width: 79px;
+}
+.guidelines-fonts .buttons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 763px;
+  white-space: nowrap;
+  width: 57px;
+}
+.guidelines-fonts .choice-of-font-C61RwL {
+  background-color: transparent;
+  bottom: calc(38.45% - 15px);
+  height: 39px;
+  left: calc(37.04% - 71px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 192px;
+}
+.guidelines-fonts .choiceoffont-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(36.72% - 132px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .colorable-P4Ijtg {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .colors-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 351px;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-fonts .content-of-this-page-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: fixed;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 147px;
+}
+.guidelines-fonts .contrast-checker-C61RwL {
+  background-color: transparent;
+  bottom: 357px;
+  height: 39px;
+  left: calc(34.34% - 79px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 231px;
+}
+.guidelines-fonts .contrast-checker-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 681px;
+  white-space: nowrap;
+  width: 125px;
+}
+.guidelines-fonts .design-guide-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(29.82% - 29px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 96px;
+}
+.guidelines-fonts .design-process-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(18.43% - 21px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 113px;
+}
+.guidelines-fonts .dont-use-bold-f-nu-never-artifi-C61RwL {
+  background-color: transparent;
+  bottom: calc(19.61% - 28px);
+  height: 141px;
+  left: calc(40.20% - 132px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 328px;
+}
+.guidelines-fonts .download-here-1x45IF {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-GuGgPo {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-TwbyyN {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-ZejSuv {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-hjxkko {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-kxAYw2 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-tHnF0G {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-wlvtvi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .download-here-xGyGxu {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.guidelines-fonts .ebene-2-SZqgts {
+  background-color: transparent;
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: calc(50.00% - 12px);
+  width: 24px;
+}
+.guidelines-fonts .ellipse-273-6tzNvg {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 20px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+.guidelines-fonts .emphasis-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(18.75% - 68px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .emphasis-VMr6Om {
+  background-color: transparent;
+  bottom: calc(21.06% - 8px);
+  height: 39px;
+  left: calc(35.81% - 48px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 133px;
+}
+.guidelines-fonts .example-if-the-t-is-15-16-24px-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(40.90% - 205px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.53% - 10px);
+  white-space: nowrap;
+  width: 502px;
+}
+.guidelines-fonts .font-family-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.77% - 6px);
+  height: 21px;
+  left: calc(45.19% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+.guidelines-fonts .font-mix-C61RwL {
+  background-color: transparent;
+  bottom: calc(32.65% - 13px);
+  height: 39px;
+  left: calc(35.52% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.guidelines-fonts .font-size-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.30% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.44% - 10px);
+  white-space: nowrap;
+  width: 67px;
+}
+.guidelines-fonts .font-size-and-scaling-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(35.47% - 101px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.83% - 18px);
+  white-space: nowrap;
+  width: 285px;
+}
+.guidelines-fonts .font-size-and-scaling-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 599px;
+  white-space: nowrap;
+  width: 152px;
+}
+.guidelines-fonts .font-style-italic-C61RwL {
+  background-color: transparent;
+  bottom: calc(26.86% - 10px);
+  height: 39px;
+  left: calc(37.34% - 77px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 206px;
+}
+.guidelines-fonts .font-superfamily-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.77% - 6px);
+  height: 21px;
+  left: calc(35.69% - 45px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 127px;
+}
+.guidelines-fonts .font-weight-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(47.71% - 41px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: calc(48.44% - 10px);
+  white-space: nowrap;
+  width: 86px;
+}
+.guidelines-fonts .fontmix-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(30.73% - 111px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .fonts-C61RwL {
+  background-color: transparent;
+  height: 63px;
+  left: calc(32.37% - 41px);
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  white-space: nowrap;
+  width: 128px;
+}
+.guidelines-fonts .fonts-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 435px;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-fonts .fontstyleitalic-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(24.74% - 89px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .garamond-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.42% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.21% - 7px);
+  white-space: nowrap;
+  width: 76px;
+}
+.guidelines-fonts .gruppe-496-GCEBCP {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: calc(37.96% - 215px);
+  position: absolute;
+  top: calc(50.00% - 24px);
+  width: 566px;
+}
+.guidelines-fonts .gruppe-497-C61RwL {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-fonts .headlines-20px-C61RwL {
+  background-color: transparent;
+  height: 26px;
+  left: calc(32.86% - 51px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.03% - 13px);
+  white-space: nowrap;
+  width: 155px;
+}
+.guidelines-fonts .here-an-example-the-font-roboto-C61RwL {
+  background-color: transparent;
+  bottom: calc(31.28% - 7px);
+  height: 21px;
+  left: calc(40.20% - 132px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 328px;
+}
+.guidelines-fonts .icons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 722px;
+  white-space: nowrap;
+  width: 41px;
+}
+.guidelines-fonts .if-possible-do-ext-to-the-left-C61RwL {
+  background-color: transparent;
+  bottom: 1386px;
+  height: 117px;
+  left: calc(40.53% - 138px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 341px;
+}
+.guidelines-fonts .image-00LGpa {
+  background-color: transparent;
+  height: 19px;
+  left: calc(41.14% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(40.70% - 8px);
+  width: 12px;
+}
+.guidelines-fonts .image-2P4qUJ {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.04% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 1910px;
+  width: 11px;
+}
+.guidelines-fonts .image-3kIbHG {
+  background-color: transparent;
+  height: 19px;
+  left: calc(40.51% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.24% - 6px);
+  width: 12px;
+}
+.guidelines-fonts .image-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.04% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 11px;
+}
+.guidelines-fonts .image-HlKRTo {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.06% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(28.45% - 5px);
+  width: 12px;
+}
+.guidelines-fonts .image-J1YQmd {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.06% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.67% - 5px);
+  width: 12px;
+}
+.guidelines-fonts .image-QL5zbd {
+  background-color: transparent;
+  height: 19px;
+  left: calc(38.36% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(43.55% - 8px);
+  width: 12px;
+}
+.guidelines-fonts .image-QxM5SU {
+  background-color: transparent;
+  height: 19px;
+  left: calc(40.60% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 1622px;
+  width: 11px;
+}
+.guidelines-fonts .image-R7WrHk {
+  background-color: transparent;
+  height: 19px;
+  left: calc(39.99% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.79% - 7px);
+  width: 12px;
+}
+.guidelines-fonts .image-VMr6Om {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.04% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 1622px;
+  width: 11px;
+}
+.guidelines-fonts .image-VkPPtx {
+  background-color: transparent;
+  height: 19px;
+  left: calc(40.67% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(28.45% - 5px);
+  width: 12px;
+}
+.guidelines-fonts .image-YWzA7M {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.06% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.24% - 6px);
+  width: 12px;
+}
+.guidelines-fonts .image-a5WPlX {
+  background-color: transparent;
+  height: 19px;
+  left: calc(40.36% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(25.67% - 5px);
+  width: 12px;
+}
+.guidelines-fonts .image-a73nmY {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.06% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.79% - 7px);
+  width: 12px;
+}
+.guidelines-fonts .image-mzXdH9 {
+  background-color: transparent;
+  height: 19px;
+  left: calc(39.29% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 1334px;
+  width: 11px;
+}
+.guidelines-fonts .image-qr8e7q {
+  background-color: transparent;
+  height: 19px;
+  left: calc(38.29% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 1910px;
+  width: 11px;
+}
+.guidelines-fonts .image-rxvq3k {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.06% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(40.70% - 8px);
+  width: 12px;
+}
+.guidelines-fonts .image-x5xjB4 {
+  background-color: transparent;
+  height: 19px;
+  left: calc(35.06% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(43.55% - 8px);
+  width: 12px;
+}
+.guidelines-fonts .inter-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(36.59% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1906px;
+  white-space: nowrap;
+  width: 34px;
+}
+.guidelines-fonts .justified-text-C61RwL {
+  background-color: transparent;
+  bottom: 1527px;
+  height: 39px;
+  left: calc(36.87% - 68px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 184px;
+}
+.guidelines-fonts .justifiedtext-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: 1236px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .komponente-11-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(42.50% - 45px);
+  position: absolute;
+  top: 1334px;
+  width: 106px;
+}
+.guidelines-fonts .komponente-12-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(43.88% - 47px);
+  position: absolute;
+  top: 1622px;
+  width: 106px;
+}
+.guidelines-fonts .komponente-13-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(41.46% - 44px);
+  position: absolute;
+  top: 1910px;
+  width: 106px;
+}
+.guidelines-fonts .komponente-14-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(43.61% - 46px);
+  position: absolute;
+  top: calc(25.67% - 5px);
+  width: 106px;
+}
+.guidelines-fonts .komponente-15-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(43.94% - 47px);
+  position: absolute;
+  top: calc(28.45% - 5px);
+  width: 106px;
+}
+.guidelines-fonts .komponente-16-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(43.77% - 46px);
+  position: absolute;
+  top: calc(31.24% - 6px);
+  width: 106px;
+}
+.guidelines-fonts .komponente-17-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(43.22% - 46px);
+  position: absolute;
+  top: calc(37.79% - 7px);
+  width: 106px;
+}
+.guidelines-fonts .komponente-18-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(44.43% - 47px);
+  position: absolute;
+  top: calc(40.70% - 8px);
+  width: 106px;
+}
+.guidelines-fonts .komponente-19-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: calc(41.51% - 44px);
+  position: absolute;
+  top: calc(43.55% - 8px);
+  width: 106px;
+}
+.guidelines-fonts .komponente-20-1-C61RwL {
+  background-color: transparent;
+  bottom: 200px;
+  cursor: pointer;
+  height: 19px;
+  left: calc(31.32% - 21px);
+  position: absolute;
+  width: 68px;
+}
+.guidelines-fonts .layout-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 269px;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-fonts .left-aligned-te-lutter-balanced-C61RwL {
+  background-color: transparent;
+  bottom: 830px;
+  height: 93px;
+  left: calc(40.82% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 352px;
+}
+.guidelines-fonts .left-alignment-C61RwL {
+  background-color: transparent;
+  bottom: 947px;
+  height: 39px;
+  left: calc(37.14% - 73px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 197px;
+}
+.guidelines-fonts .leftalignment-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: 656px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .light-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.46% - 6px);
+  height: 21px;
+  left: calc(45.19% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 123px;
+}
+.guidelines-fonts .line-height-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  right: calc(38.93% - 32px);
+  text-align: left;
+  top: calc(48.44% - 10px);
+  white-space: nowrap;
+  width: 81px;
+}
+.guidelines-fonts .linie-456-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: 958px;
+  width: 44px;
+}
+.guidelines-fonts .linie-460-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(21.66% - 1px);
+  width: 44px;
+}
+.guidelines-fonts .linie-461-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.83% - 1px);
+  width: 44px;
+}
+.guidelines-fonts .linie-462-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.12% - 2px);
+  width: 44px;
+}
+.guidelines-fonts .linie-463-C61RwL {
+  background-color: transparent;
+  bottom: calc(47.33% - 2px);
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 44px;
+}
+.guidelines-fonts .linie-464-C61RwL {
+  background-color: transparent;
+  bottom: 346px;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 44px;
+}
+.guidelines-fonts .logo-GCEBCP {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  cursor: pointer;
+  height: 25px;
+  left: 160px;
+  position: absolute;
+  width: 151px;
+}
+.guidelines-fonts .medium-C61RwL {
+  background-color: transparent;
+  bottom: calc(29.76% - 6px);
+  height: 21px;
+  left: calc(45.19% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 123px;
+}
+.guidelines-fonts .navigation-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 392px;
+  white-space: nowrap;
+  width: 78px;
+}
+.guidelines-fonts .never-mix-more-ont-superfamily-C61RwL {
+  background-color: transparent;
+  bottom: calc(31.82% - 22px);
+  height: 69px;
+  left: calc(40.10% - 130px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 324px;
+}
+.guidelines-fonts .never-write-lon-ing-in-the-text-C61RwL {
+  background-color: transparent;
+  bottom: calc(26.01% - 18px);
+  height: 69px;
+  left: calc(41.67% - 160px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 384px;
+}
+.guidelines-fonts .pfad-1064-C61RwL {
+  background-color: transparent;
+  height: 91px;
+  left: calc(35.32% - 98px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.39% - 38px);
+  width: 276px;
+}
+.guidelines-fonts .pfad-1065-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: calc(46.15% - 301px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(39.46% - 37px);
+  width: 653px;
+}
+.guidelines-fonts .pfad-1066-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: calc(41.01% - 205px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(36.59% - 30px);
+  width: 500px;
+}
+.guidelines-fonts .pfad-1067-C61RwL {
+  background-color: transparent;
+  height: 81px;
+  left: calc(40.54% - 202px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(30.02% - 24px);
+  width: 498px;
+}
+.guidelines-fonts .pfad-1068-C61RwL {
+  background-color: transparent;
+  height: 82px;
+  left: calc(42.77% - 244px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(27.22% - 22px);
+  width: 571px;
+}
+.guidelines-fonts .pfad-1069-C61RwL {
+  background-color: transparent;
+  height: 115px;
+  left: calc(38.24% - 157px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(24.39% - 28px);
+  width: 410px;
+}
+.guidelines-fonts .pfad-1070-C61RwL {
+  background-color: transparent;
+  height: 89px;
+  left: calc(34.80% - 86px);
+  object-fit: cover;
+  position: absolute;
+  top: 1761px;
+  width: 246px;
+}
+.guidelines-fonts .pfad-1071-C61RwL {
+  background-color: transparent;
+  height: 116px;
+  left: calc(43.48% - 256px);
+  object-fit: cover;
+  position: absolute;
+  top: 1473px;
+  width: 590px;
+}
+.guidelines-fonts .pfad-1072-C61RwL {
+  background-color: transparent;
+  height: 91px;
+  left: calc(37.39% - 138px);
+  object-fit: cover;
+  position: absolute;
+  top: 1182px;
+  width: 369px;
+}
+.guidelines-fonts .pfad-1373-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(42.60% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+.guidelines-fonts .pfad-1374-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.84% - 7px);
+  top: 1px;
+  width: 18px;
+}
+.guidelines-fonts .pfad-1375-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.86% - 1px);
+  top: 1px;
+  width: 4px;
+}
+.guidelines-fonts .pfad-1376-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 20px;
+  top: 1px;
+  width: 18px;
+}
+.guidelines-fonts .pfad-1377-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.guidelines-fonts .pfad-1378-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+.guidelines-fonts .pfad-1379-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+.guidelines-fonts .pfad-1380-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: calc(19.24% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.guidelines-fonts .pfad-895-6tzNvg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 9px;
+}
+.guidelines-fonts .pharagraph-16px-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(32.28% - 40px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.58% - 10px);
+  white-space: nowrap;
+  width: 123px;
+}
+.guidelines-fonts .rechteck-342-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(42.62% - 205px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .rechteck-352-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(36.55% - 175px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .rechteck-357-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(30.49% - 146px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .rechteck-362-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(24.42% - 117px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .rechteck-616-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  height: 626px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+}
+.guidelines-fonts .rechteck-663-C61RwL {
+  background-color: var(--chetwode-blue);
+  border-radius: 2px;
+  height: 26px;
+  left: 190px;
+  position: fixed;
+  top: 435px;
+  width: 3px;
+}
+.guidelines-fonts .rechteck-874-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(18.36% - 88px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .rechteck-881-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 1176px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .rechteck-950-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 596px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-fonts .regular-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(46.94% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.58% - 10px);
+  white-space: nowrap;
+  width: 56px;
+}
+.guidelines-fonts .regular-VMr6Om {
+  background-color: transparent;
+  bottom: calc(30.11% - 6px);
+  height: 21px;
+  left: calc(45.19% - 56px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 123px;
+}
+.guidelines-fonts .regular-light-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.92% - 10px);
+  height: 21px;
+  left: calc(48.00% - 47px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+.guidelines-fonts .regular-or-bold-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(48.34% - 53px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(49.07% - 10px);
+  white-space: nowrap;
+  width: 110px;
+}
+.guidelines-fonts .resources-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 158px;
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 77px;
+}
+.guidelines-fonts .roboto-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.46% - 6px);
+  height: 21px;
+  left: calc(35.61% - 44px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 123px;
+}
+.guidelines-fonts .roboto-VMr6Om {
+  background-color: transparent;
+  height: 21px;
+  left: calc(36.96% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1330px;
+  white-space: nowrap;
+  width: 53px;
+}
+.guidelines-fonts .roboto-mono-C61RwL {
+  background-color: transparent;
+  bottom: calc(29.76% - 6px);
+  height: 21px;
+  left: calc(35.93% - 50px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 139px;
+}
+.guidelines-fonts .roboto-slab-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.11% - 6px);
+  height: 21px;
+  left: calc(35.61% - 44px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 123px;
+}
+.guidelines-fonts .roboto-slab-VMr6Om {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.66% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.67% - 9px);
+  white-space: nowrap;
+  width: 88px;
+}
+.guidelines-fonts .rockwell-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.22% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(37.75% - 8px);
+  white-space: nowrap;
+  width: 66px;
+}
+.guidelines-fonts .sans-serif-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.36% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.63% - 5px);
+  white-space: nowrap;
+  width: 73px;
+}
+.guidelines-fonts .sans-serif-font-also-be-used-to-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: calc(44.96% - 283px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 988px;
+  white-space: nowrap;
+  width: 630px;
+}
+.guidelines-fonts .sans-serif-fonts-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(34.00% - 73px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 913px;
+  white-space: nowrap;
+  width: 214px;
+}
+.guidelines-fonts .sans-serif-fonts-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: 114px;
+}
+.guidelines-fonts .search-SZqgts {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(45.45% - 12px);
+  height: 26px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  width: 171px;
+}
+.guidelines-fonts .search-SZqgts::placeholder {
+  color: #2021215c;
+}
+.guidelines-fonts .secondary-text-13-14px-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.92% - 10px);
+  height: 21px;
+  left: calc(33.24% - 58px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 175px;
+}
+.guidelines-fonts .serif-fonts-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(32.62% - 46px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(21.28% - 8px);
+  white-space: nowrap;
+  width: 142px;
+}
+.guidelines-fonts .serif-fonts-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 517px;
+  white-space: nowrap;
+  width: 76px;
+}
+.guidelines-fonts .serif-fonts-are-appears-more-t-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(46.81% - 319px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.21% - 26px);
+  white-space: nowrap;
+  width: 681px;
+}
+.guidelines-fonts .slab-serif-fonts-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(33.84% - 70px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(33.49% - 13px);
+  white-space: nowrap;
+  width: 206px;
+}
+.guidelines-fonts .slab-serif-fonts-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: 110px;
+}
+.guidelines-fonts .slab-serifs-are-he-typeface-and-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(43.97% - 264px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.50% - 40px);
+  width: 601px;
+}
+.guidelines-fonts .span0-d6LKxF {
+
+}
+.guidelines-fonts .span1-d6LKxF {
+
+}
+.guidelines-fonts .text-alignment-C61RwL {
+  background-color: transparent;
+  bottom: calc(44.25% - 17px);
+  height: 39px;
+  left: calc(37.25% - 75px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 202px;
+}
+.guidelines-fonts .textalignment-C61RwL {
+  background-color: transparent;
+  border-radius: 12px;
+  bottom: calc(42.71% - 154px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-fonts .texts-should-al-decorated-fonts-C61RwL {
+  background-color: transparent;
+  bottom: calc(37.48% - 35px);
+  height: 93px;
+  left: calc(40.40% - 136px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 336px;
+}
+.guidelines-fonts .the-line-height-50-of-the-curre-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: calc(45.81% - 300px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.71% - 32px);
+  width: 654px;
+}
+.guidelines-fonts .typography-is-a-optimize-readab-C61RwL {
+  background-color: transparent;
+  height: 116px;
+  left: calc(48.45% - 350px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: 723px;
+}
+.guidelines-fonts .use-online-cont-e-accessibility-C61RwL {
+  background-color: transparent;
+  bottom: 252px;
+  height: 69px;
+  left: calc(38.67% - 162px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 420px;
+}
+.guidelines-fonts .when-it-comes-t-hen-using-fonts-C61RwL {
+  background-color: transparent;
+  bottom: calc(46.70% - 32px);
+  height: 69px;
+  left: calc(44.68% - 278px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 622px;
+}
+.guidelines-fonts .when-you-align-n-picking-up-wh-C61RwL {
+  background-color: transparent;
+  bottom: calc(42.62% - 91px);
+  height: 213px;
+  left: calc(40.84% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 353px;
+}
+.guidelines-fonts .work-sans-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(37.46% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1618px;
+  white-space: nowrap;
+  width: 78px;
+}
+.guidelines-fonts .x01-C61RwL {
+  background-color: transparent;
+  bottom: calc(44.70% - 8px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x02-C61RwL {
+  background-color: transparent;
+  bottom: calc(38.92% - 7px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x03-C61RwL {
+  background-color: transparent;
+  bottom: calc(33.14% - 6px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x03-weights-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.21% - 7px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x04-C61RwL {
+  background-color: transparent;
+  bottom: calc(27.35% - 5px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x04-weights-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.63% - 5px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x04-weights-VMr6Om {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.52% - 9px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x05-C61RwL {
+  background-color: transparent;
+  bottom: calc(21.57% - 4px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x06-C61RwL {
+  background-color: transparent;
+  bottom: 1582px;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x06-weights-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1618px;
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x06-weights-VMr6Om {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.41% - 6px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x06-weights-mzXdH9 {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.67% - 9px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x07-C61RwL {
+  background-color: transparent;
+  bottom: 1002px;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-fonts .x07-weights-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(37.75% - 8px);
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x18-weights-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1906px;
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x18-weights-VMr6Om {
+  background-color: transparent;
+  height: 21px;
+  left: calc(31.56% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1330px;
+  white-space: nowrap;
+  width: 82px;
+}
+.guidelines-fonts .x195-21-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.92% - 10px);
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(39.59% - 24px);
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+.guidelines-fonts .x24-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(40.89% - 8px);
+  text-align: left;
+  top: calc(49.58% - 10px);
+  white-space: nowrap;
+  width: 20px;
+}
+.guidelines-fonts .x30-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(40.49% - 13px);
+  text-align: left;
+  top: calc(49.07% - 10px);
+  white-space: nowrap;
+  width: 33px;
+}
+@keyframes animate-enter11-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}

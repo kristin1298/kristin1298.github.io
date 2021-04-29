@@ -1,0 +1,1274 @@
+/* screen - guidelines-navigationelements */
+
+.animate-enter10 {
+  animation: animate-enter10-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-navigationelements {
+  background-color: var(--coconut);
+  display: block;
+  height: 100vh;
+  margin: 0px;
+  min-height: 10282px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-navigationelements .accessibility-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: 91px;
+}
+.guidelines-navigationelements .bannernavigation-C61RwL {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.guidelines-navigationelements .breadcrumbs-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(41.50% - 149px);
+  width: 640px;
+}
+.guidelines-navigationelements .breadcrumbs-VMr6Om {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.82% - 67px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.50% - 16px);
+  white-space: nowrap;
+  width: 182px;
+}
+.guidelines-navigationelements .burger-menue-C61RwL {
+  background-color: transparent;
+  bottom: calc(22.37% - 9px);
+  height: 39px;
+  left: calc(37.02% - 71px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 191px;
+}
+.guidelines-navigationelements .burgermenue-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.16% - 73px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .buttons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 599px;
+  white-space: nowrap;
+  width: 57px;
+}
+.guidelines-navigationelements .cascading-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(23.97% - 86px);
+  width: 640px;
+}
+.guidelines-navigationelements .cascading-VMr6Om {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.04% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(23.51% - 9px);
+  white-space: nowrap;
+  width: 144px;
+}
+.guidelines-navigationelements .cascading-navig-ontains-clickab-C61RwL {
+  background-color: transparent;
+  height: 213px;
+  left: calc(41.08% - 149px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.54% - 52px);
+  width: 362px;
+}
+.guidelines-navigationelements .colors-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 351px;
+  white-space: nowrap;
+  width: 48px;
+}
+.guidelines-navigationelements .content-of-this-page-C61RwL {
+  background-color: transparent;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: fixed;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 147px;
+}
+.guidelines-navigationelements .content-slider-C61RwL {
+  background-color: transparent;
+  bottom: 1711px;
+  height: 39px;
+  left: calc(36.99% - 70px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 190px;
+}
+.guidelines-navigationelements .contentslider-C61RwL {
+  background-color: transparent;
+  bottom: 1420px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .design-guide-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(29.82% - 29px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 96px;
+}
+.guidelines-navigationelements .design-process-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(18.43% - 21px);
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 113px;
+}
+.guidelines-navigationelements .drop-down-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.08% - 53px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1248px;
+  white-space: nowrap;
+  width: 146px;
+}
+.guidelines-navigationelements .dropdown-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: 1218px;
+  width: 640px;
+}
+.guidelines-navigationelements .ebene-2-SZqgts {
+  background-color: transparent;
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: calc(50.00% - 12px);
+  width: 24px;
+}
+.guidelines-navigationelements .ellipse-273-6tzNvg {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 20px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+.guidelines-navigationelements .fly-out-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(35.01% - 32px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1828px;
+  white-space: nowrap;
+  width: 92px;
+}
+.guidelines-navigationelements .flyout-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(18.12% - 65px);
+  width: 640px;
+}
+.guidelines-navigationelements .fonts-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 517px;
+  white-space: nowrap;
+  width: 42px;
+}
+.guidelines-navigationelements .footer-C61RwL {
+  background-color: transparent;
+  bottom: calc(35.11% - 126px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .footer-VMr6Om {
+  background-color: transparent;
+  bottom: calc(36.85% - 14px);
+  height: 39px;
+  left: calc(34.95% - 31px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 89px;
+}
+.guidelines-navigationelements .fullscreen-C61RwL {
+  background-color: transparent;
+  bottom: 260px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .fullscreen-VMr6Om {
+  background-color: transparent;
+  bottom: 551px;
+  height: 39px;
+  left: calc(35.96% - 50px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 140px;
+}
+.guidelines-navigationelements .gruppe-1156-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 190px;
+  position: absolute;
+  top: 394px;
+  width: 93px;
+}
+.guidelines-navigationelements .gruppe-496-GCEBCP {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: calc(37.96% - 215px);
+  position: absolute;
+  top: calc(50.00% - 24px);
+  width: 566px;
+}
+.guidelines-navigationelements .gruppe-497-C61RwL {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-navigationelements .gruppe-759-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/tabs@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 360px;
+  position: absolute;
+  right: 220px;
+  top: calc(29.81% - 107px);
+  width: 640px;
+}
+.guidelines-navigationelements .here-are-a-few-ugh-the-content-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.29% - 14px);
+  height: 45px;
+  left: calc(46.89% - 320px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 683px;
+}
+.guidelines-navigationelements .here-you-can-fi-ugh-the-content-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: calc(42.80% - 242px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 988px;
+  white-space: nowrap;
+  width: 565px;
+}
+.guidelines-navigationelements .icon-tab-bar-C61RwL {
+  background-color: transparent;
+  bottom: calc(28.03% - 11px);
+  height: 39px;
+  left: calc(36.41% - 59px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 162px;
+}
+.guidelines-navigationelements .icons-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: 41px;
+}
+.guidelines-navigationelements .icontabbar-C61RwL {
+  background-color: transparent;
+  bottom: calc(26.00% - 94px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .in-page-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(35.18% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.83% - 14px);
+  white-space: nowrap;
+  width: 101px;
+}
+.guidelines-navigationelements .in-page-tab-bar-C61RwL {
+  background-color: transparent;
+  bottom: calc(42.52% - 17px);
+  height: 39px;
+  left: calc(37.27% - 76px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 203px;
+}
+.guidelines-navigationelements .in-page-tab-bar-VMr6Om {
+  background-color: transparent;
+  bottom: 1131px;
+  height: 39px;
+  left: calc(37.27% - 76px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 203px;
+}
+.guidelines-navigationelements .inpage-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(35.66% - 128px);
+  width: 640px;
+}
+.guidelines-navigationelements .inpagetabbar-C61RwL {
+  background-color: transparent;
+  bottom: calc(40.96% - 147px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .inpagetabbarmobile-C61RwL {
+  background-color: transparent;
+  bottom: 840px;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .layout-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 269px;
+  white-space: nowrap;
+  width: 50px;
+}
+.guidelines-navigationelements .linie-456-C61RwL {
+  background-color: transparent;
+  bottom: calc(30.86% - 1px);
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  width: 44px;
+}
+.guidelines-navigationelements .linie-459-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: calc(30.81% - 14px);
+  object-fit: cover;
+  position: absolute;
+  top: 958px;
+  width: 44px;
+}
+.guidelines-navigationelements .logo-GCEBCP {
+  background-color: transparent;
+  bottom: calc(50.00% - 13px);
+  cursor: pointer;
+  height: 25px;
+  left: 160px;
+  position: absolute;
+  width: 151px;
+}
+.guidelines-navigationelements .menu-items-are-ove-the-content-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: calc(40.71% - 142px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.94% - 28px);
+  width: 348px;
+}
+.guidelines-navigationelements .navigation-C61RwL {
+  background-color: transparent;
+  height: 63px;
+  left: calc(34.59% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  white-space: nowrap;
+  width: 243px;
+}
+.guidelines-navigationelements .navigation-desi-nteractions-des-C61RwL {
+  background-color: transparent;
+  height: 146px;
+  left: calc(48.25% - 346px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: 718px;
+}
+.guidelines-navigationelements .navigation-elem-mobile-devices-C61RwL {
+  background-color: transparent;
+  bottom: calc(31.07% - 12px);
+  height: 39px;
+  left: calc(41.82% - 223px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 533px;
+}
+.guidelines-navigationelements .navigation-elem-nts-for-desktop-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(39.16% - 172px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 913px;
+  white-space: nowrap;
+  width: 439px;
+}
+.guidelines-navigationelements .navigation-elem-nts-for-desktop-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 435px;
+  white-space: nowrap;
+  width: 233px;
+}
+.guidelines-navigationelements .navigation-elements-for-mobile-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: 224px;
+}
+.guidelines-navigationelements .navigation-oILqYH {
+  background-color: transparent;
+  bottom: 5px;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+.guidelines-navigationelements .pagina-C61RwL {
+  background-color: transparent;
+  bottom: calc(46.81% - 168px);
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  width: 640px;
+}
+.guidelines-navigationelements .pagina-VMr6Om {
+  background-color: transparent;
+  bottom: calc(48.18% - 19px);
+  height: 39px;
+  left: calc(35.07% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 95px;
+}
+.guidelines-navigationelements .pfad-1373-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(42.60% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+.guidelines-navigationelements .pfad-1374-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.84% - 7px);
+  top: 1px;
+  width: 18px;
+}
+.guidelines-navigationelements .pfad-1375-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(29.86% - 1px);
+  top: 1px;
+  width: 4px;
+}
+.guidelines-navigationelements .pfad-1376-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 20px;
+  top: 1px;
+  width: 18px;
+}
+.guidelines-navigationelements .pfad-1377-FV3pGc {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.guidelines-navigationelements .pfad-1378-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+.guidelines-navigationelements .pfad-1379-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+.guidelines-navigationelements .pfad-1380-FV3pGc {
+  background-color: transparent;
+  height: 100%;
+  left: calc(19.24% - 4px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+.guidelines-navigationelements .pfad-895-6tzNvg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 9px;
+}
+.guidelines-navigationelements .rechteck-10-2P4qUJ {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(29.57% - 142px);
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-3kIbHG {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(19.79% - 95px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(34.93% - 168px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-HlKRTo {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(46.77% - 224px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 161px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-J1YQmd {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(41.40% - 199px);
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-QxM5SU {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(23.65% - 114px);
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-R7WrHk {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 780px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-VMr6Om {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: 1158px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-VkPPtx {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(40.85% - 196px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-YWzA7M {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: calc(25.71% - 123px);
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-a5WPlX {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(47.32% - 227px);
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-a73nmY {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 1360px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-mzXdH9 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(17.73% - 85px);
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-qr8e7q {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  top: calc(35.48% - 170px);
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-10-rxvq3k {
+  background-color: var(--white);
+  border-radius: 12px;
+  bottom: 200px;
+  box-shadow: 0px 1px 30px #00000019;
+  height: 480px;
+  position: absolute;
+  right: 160px;
+  width: 1180px;
+}
+.guidelines-navigationelements .rechteck-616-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000019;
+  height: 462px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+}
+.guidelines-navigationelements .rechteck-663-oILqYH {
+  background-color: var(--chetwode-blue);
+  border-radius: 2px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.guidelines-navigationelements .resources-GCEBCP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 158px;
+  text-align: left;
+  top: calc(47.83% - 10px);
+  white-space: nowrap;
+  width: 77px;
+}
+.guidelines-navigationelements .search-SZqgts {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(45.45% - 12px);
+  height: 26px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  width: 171px;
+}
+.guidelines-navigationelements .search-SZqgts::placeholder {
+  color: #2021215c;
+}
+.guidelines-navigationelements .step-by-step-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(36.53% - 61px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.16% - 18px);
+  white-space: nowrap;
+  width: 168px;
+}
+.guidelines-navigationelements .stepbystep-C61RwL {
+  background-color: transparent;
+  height: 360px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: calc(47.35% - 170px);
+  width: 640px;
+}
+.guidelines-navigationelements .tabs-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: calc(34.52% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.17% - 11px);
+  white-space: nowrap;
+  width: 66px;
+}
+.guidelines-navigationelements .the-breadcrumb-e-so-that-the-u-C61RwL {
+  background-color: transparent;
+  height: 165px;
+  left: calc(41.05% - 148px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(41.62% - 69px);
+  width: 361px;
+}
+.guidelines-navigationelements .the-burger-menu-vices-make-sure-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.40% - 43px);
+  height: 213px;
+  left: calc(40.87% - 145px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 354px;
+}
+.guidelines-navigationelements .the-drop-down-n-er-activates-it-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(40.84% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1311px;
+  width: 353px;
+}
+.guidelines-navigationelements .the-footer-are-faq-or-contact-C61RwL {
+  background-color: transparent;
+  bottom: calc(35.75% - 42px);
+  height: 117px;
+  left: calc(41.13% - 150px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 364px;
+}
+.guidelines-navigationelements .the-fullscreen-ssible-can-be-d-C61RwL {
+  background-color: transparent;
+  bottom: 386px;
+  height: 141px;
+  left: calc(40.89% - 145px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 355px;
+}
+.guidelines-navigationelements .the-in-page-nav-t-is-directly-o-C61RwL {
+  background-color: transparent;
+  height: 141px;
+  left: calc(41.05% - 148px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.81% - 50px);
+  width: 361px;
+}
+.guidelines-navigationelements .the-pagination-below-the-cont-C61RwL {
+  background-color: transparent;
+  bottom: calc(47.04% - 66px);
+  height: 141px;
+  left: calc(41.18% - 151px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 366px;
+}
+.guidelines-navigationelements .the-step-by-ste-this-navigation-C61RwL {
+  background-color: transparent;
+  height: 117px;
+  left: calc(40.87% - 145px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(47.13% - 55px);
+  width: 354px;
+}
+.guidelines-navigationelements .the-tab-bar-is-fferent-content-C61RwL {
+  background-color: transparent;
+  bottom: calc(41.58% - 39px);
+  height: 93px;
+  left: calc(40.89% - 145px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 355px;
+}
+.guidelines-navigationelements .the-tab-bar-is-fferent-content-VMr6Om {
+  background-color: transparent;
+  bottom: 1036px;
+  height: 69px;
+  left: calc(39.88% - 126px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 315px;
+}
+.guidelines-navigationelements .this-type-of-ta-elements-or-oth-C61RwL {
+  background-color: transparent;
+  bottom: calc(26.51% - 44px);
+  height: 165px;
+  left: calc(40.82% - 144px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 352px;
+}
+.guidelines-navigationelements .with-fly-out-na-nd-space-saving-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: calc(40.20% - 132px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1892px;
+  white-space: nowrap;
+  width: 328px;
+}
+.guidelines-navigationelements .with-the-conten-g-or-by-swiping-C61RwL {
+  background-color: transparent;
+  bottom: 1570px;
+  height: 117px;
+  left: calc(40.40% - 136px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 336px;
+}
+.guidelines-navigationelements .x01-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1214px;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x01-VMr6Om {
+  background-color: transparent;
+  bottom: calc(28.51% - 5px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x02-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1794px;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x02-VMr6Om {
+  background-color: transparent;
+  bottom: calc(22.86% - 4px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x03-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(23.13% - 4px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x03-VMr6Om {
+  background-color: transparent;
+  bottom: 1766px;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x04-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.78% - 5px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x04-VMr6Om {
+  background-color: transparent;
+  bottom: 1186px;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x05-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.43% - 6px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x05-VMr6Om {
+  background-color: transparent;
+  bottom: 606px;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x06-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.08% - 7px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x07-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.73% - 8px);
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x08-C61RwL {
+  background-color: transparent;
+  bottom: calc(48.62% - 8px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x09-C61RwL {
+  background-color: transparent;
+  bottom: calc(42.97% - 7px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.guidelines-navigationelements .x10-C61RwL {
+  background-color: transparent;
+  bottom: calc(37.32% - 6px);
+  height: 17px;
+  left: calc(33.63% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+@keyframes animate-enter10-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
