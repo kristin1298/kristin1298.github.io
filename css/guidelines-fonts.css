@@ -1,7 +1,7 @@
 /* screen - guidelines-fonts */
 
-.animate-enter11 {
-  animation: animate-enter11-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter9 {
+  animation: animate-enter9-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1957,7 +1957,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 33px;
 }
-@keyframes animate-enter11-frames {
+@keyframes animate-enter9-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

@@ -1,7 +1,7 @@
 /* screen - guidelines-colors */
 
-.animate-enter5 {
-  animation: animate-enter5-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter7 {
+  animation: animate-enter7-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -2729,7 +2729,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 41px;
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter7-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

@@ -1,34 +1,31 @@
 /* screen - homepage */
 
-.animate-enter3 {
-  animation: animate-enter3-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter {
+  animation: animate-enter-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .homepage {
   background-color: var(--coconut);
   display: block;
-  height: 100vh;
-  margin: 0px;
-  min-height: 3625px;
-  min-width: 1920px;
+  height: 3625px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 100%;
+  width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
 .homepage .apply-what-you-have-learned-OtUnre {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(22.90% - 9px);
+  top: 30px;
   white-space: nowrap;
-  width: calc(100.00% - 108px);
+  width: auto;
 }
 .homepage .bannerhome-C61RwL {
   background-color: transparent;
@@ -37,72 +34,73 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   position: absolute;
   top: 90px;
-  width: 100%;
+  width: 1920px;
 }
 .homepage .design-guide-Ab0iYm {
   background-color: transparent;
-  bottom: 10.53%;
   cursor: pointer;
-  height: 21px;
-  left: 0px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
   text-decoration: underline;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 96px;
 }
 .homepage .design-guide-C61RwL {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
   top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .homepage .design-process-C61RwL {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
   top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .homepage .ebene-2-1nQLJJ {
   background-color: transparent;
+  flex-shrink: 1;
   height: 24px;
-  left: 25px;
-  position: absolute;
-  top: calc(50.00% - 12px);
+  position: relative;
   width: 24px;
 }
 .homepage .ebene-2-C61RwL {
   background-color: transparent;
   height: 100px;
+  left: 910px;
   position: absolute;
-  right: calc(50.00% - 50px);
-  top: calc(43.94% - 44px);
+  top: 1549px;
   width: 100px;
 }
 .homepage .ellipse-250-2FPvRF {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
-  bottom: 0px;
   height: 57px;
   left: 0px;
   position: absolute;
-  width: 100%;
+  top: 1170px;
+  width: 57px;
 }
 .homepage .ellipse-250-2VA0c5 {
   background-color: var(--chetwode-blue);
@@ -110,8 +108,8 @@ opacity: 0;transform: translate(0, 25px);
   height: 57px;
   left: 0px;
   position: absolute;
-  top: calc(50.00% - 28px);
-  width: 100%;
+  top: 585px;
+  width: 57px;
 }
 .homepage .ellipse-250-xnk0ta {
   background-color: var(--chetwode-blue);
@@ -120,7 +118,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 57px;
 }
 .homepage .ellipse-273-Ym1yJN {
   background-color: transparent;
@@ -133,104 +131,119 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .get-an-overview-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(49.77% - 107px);
+  height: auto;
+  left: 848px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(33.18% - 13px);
+  top: 1190px;
   white-space: nowrap;
-  width: 216px;
+  width: auto;
 }
 .homepage .gruppe-1036-C61RwL {
   background-color: transparent;
-  bottom: 293px;
   height: 1227px;
+  left: 932px;
   position: absolute;
-  right: calc(49.97% - 28px);
+  top: 2105px;
   width: 57px;
 }
 .homepage .gruppe-47-8iatwi {
   background-color: transparent;
+  flex-shrink: 1;
   height: 31px;
-  left: calc(49.35% - 12px);
   position: relative;
-  top: calc(50.00% - 15px);
   width: 25px;
 }
 .homepage .gruppe-496-C61RwL {
+  align-items: flex-start;
   background-color: var(--white-lilac);
   border-radius: 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 48px;
-  left: calc(37.96% - 215px);
+  justify-content: flex-start;
+  left: 514px;
+  min-width: 566px;
+  padding: 11.0px 24.0px;
   position: absolute;
   top: 21px;
-  width: 566px;
+  width: auto;
 }
 .homepage .gruppe-616-C61RwL {
   background-color: transparent;
-  bottom: 200px;
   height: 170px;
+  left: 1089px;
   position: absolute;
-  right: calc(23.74% - 117px);
+  top: 3255px;
   width: 492px;
 }
 .homepage .gruppe-617-C61RwL {
   background-color: transparent;
-  bottom: calc(21.63% - 47px);
   height: 218px;
-  left: calc(26.29% - 117px);
+  left: 388px;
   position: absolute;
+  top: 2670px;
   width: 444px;
 }
 .homepage .gruppe-618-C61RwL {
   background-color: transparent;
-  bottom: calc(39.23% - 76px);
   height: 194px;
+  left: 1089px;
   position: absolute;
-  right: calc(21.43% - 114px);
+  top: 2085px;
   width: 534px;
 }
 .homepage .gruppe-723-C61RwL {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 50.5px;
   box-shadow: 0px 0px 15px #0000001a;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 101px;
+  justify-content: flex-start;
+  left: 910px;
+  min-width: 101px;
+  padding: 35.1px 37.7px;
   position: absolute;
-  right: calc(49.97% - 50px);
-  top: calc(24.21% - 24px);
-  width: 101px;
+  top: 853px;
+  width: auto;
 }
 .homepage .here-2sJKf9 {
   background-color: transparent;
-  bottom: 10.53%;
   cursor: pointer;
-  height: 21px;
-  left: 0px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 36px;
+  position: relative;
   text-align: left;
   text-decoration: underline;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 36px;
 }
 .homepage .improve-your-wo-to-your-designs-OtUnre {
   background-color: transparent;
-  bottom: calc(25.60% - 12px);
-  height: 45px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 92px);
+  top: 93px;
+  width: 400px;
 }
 .homepage .improve-your-work-C61RwL {
   background-color: transparent;
-  height: 63px;
+  height: auto;
   left: 160px;
   letter-spacing: 0.00px;
   line-height: 50px;
@@ -238,27 +251,39 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   top: 450px;
   white-space: nowrap;
-  width: 416px;
+  width: auto;
 }
 .homepage .komponente-3-1-Ievvxw {
+  align-items: flex-start;
   background-color: transparent;
-  bottom: calc(30.86% - 6px);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
-  left: calc(26.60% - 9px);
+  justify-content: flex-start;
+  left: 133px;
+  min-width: 36px;
   position: absolute;
-  width: 34px;
+  top: 121px;
+  width: auto;
 }
 .homepage .komponente-4-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
-  bottom: calc(21.27% - 4px);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
-  left: calc(22.89% - 22px);
+  justify-content: flex-start;
+  left: 418px;
+  min-width: 96px;
   position: absolute;
-  width: 94px;
+  top: 2839px;
+  width: auto;
 }
 .homepage .learn-design-principles-VMwTyA {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
@@ -266,23 +291,23 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   top: 30px;
   white-space: nowrap;
-  width: 314px;
+  width: auto;
 }
 .homepage .learn-more-abou-he-design-guide-VMwTyA {
   background-color: transparent;
-  bottom: 32px;
-  height: 93px;
+  height: auto;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 92px);
+  top: 93px;
+  width: 352px;
 }
 .homepage .linie-393-2VA0c5 {
   background-color: transparent;
-  height: calc(100.00% - 55px);
-  left: calc(50.00% - 1px);
+  height: 1172px;
+  left: 28px;
   object-fit: cover;
   position: absolute;
   top: 28px;
@@ -291,28 +316,34 @@ opacity: 0;transform: translate(0, 25px);
 .homepage .linie-399-C61RwL {
   background-color: transparent;
   height: 4px;
-  left: calc(45.10% - 20px);
+  left: 846px;
   object-fit: cover;
   position: absolute;
-  top: calc(34.12% - 1px);
+  top: 1236px;
   width: 44px;
 }
 .homepage .linie-53-VgC0o0 {
   background-color: transparent;
-  height: calc(100.00% + 3px);
+  height: 34px;
+  left: 11px;
   object-fit: cover;
   position: absolute;
-  right: calc(49.91% - 1px);
   top: -2px;
   width: 3px;
 }
 .homepage .logo-C61RwL {
+  align-items: center;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 25px;
+  justify-content: flex-start;
   left: 160px;
+  min-width: 151px;
   position: absolute;
   top: 32px;
-  width: 151px;
+  width: auto;
 }
 .homepage .on-this-website-design-elements-C61RwL {
   background-color: transparent;
@@ -320,7 +351,7 @@ opacity: 0;transform: translate(0, 25px);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-weight: 400;
-  height: 116px;
+  height: auto;
   left: 160px;
   letter-spacing: 0.00px;
   line-height: 30px;
@@ -329,81 +360,96 @@ opacity: 0;transform: translate(0, 25px);
   top: 536px;
   width: 613px;
 }
+.homepage .overlap-group-exFKkL {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 25px;
+  margin-left: 0px;
+  margin-top: -0.0px;
+  position: relative;
+  width: 19px;
+}
 .homepage .pfad-1-VgC0o0 {
   background-color: transparent;
-  bottom: -2px;
   height: 15px;
   left: -2px;
   object-fit: cover;
   position: absolute;
+  top: 18px;
   width: 17px;
 }
 .homepage .pfad-1350-WxfySK {
   background-color: transparent;
-  height: calc(100.00% + 30px);
+  height: 130px;
   left: -15px;
   object-fit: cover;
   position: absolute;
   top: -14px;
-  width: calc(100.00% + 30px);
+  width: 130px;
 }
 .homepage .pfad-1373-exFKkL {
   background-color: transparent;
-  height: calc(100.00% - 1px);
-  left: calc(42.60% - 8px);
+  flex-shrink: 1;
+  height: 24px;
+  margin-bottom: 0.0px;
+  margin-left: 9px;
   object-fit: cover;
-  position: absolute;
-  top: 1px;
+  position: relative;
   width: 19px;
 }
 .homepage .pfad-1374-exFKkL {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  flex-shrink: 1;
+  height: 24px;
+  margin-left: 4px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  right: calc(39.84% - 7px);
-  top: 1px;
+  position: relative;
   width: 18px;
 }
 .homepage .pfad-1375-exFKkL {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  flex-shrink: 1;
+  height: 24px;
+  margin-left: 4px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  right: calc(29.85% - 1px);
-  top: 1px;
+  position: relative;
   width: 4px;
 }
 .homepage .pfad-1376-exFKkL {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  flex-shrink: 1;
+  height: 24px;
+  margin-bottom: 0.0px;
+  margin-left: 5px;
   object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: 1px;
+  position: relative;
   width: 18px;
 }
 .homepage .pfad-1377-exFKkL {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  flex-shrink: 1;
+  height: 24px;
+  margin-left: 4px;
+  margin-top: 0.01px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 16px;
 }
-.homepage .pfad-1378-exFKkL {
+.homepage .pfad-1378-EwonSQ {
   background-color: transparent;
-  height: 100%;
+  height: 25px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
   width: 19px;
 }
-.homepage .pfad-1379-exFKkL {
+.homepage .pfad-1379-EwonSQ {
   background-color: transparent;
-  height: 100%;
+  height: 25px;
   left: 14px;
   object-fit: cover;
   position: absolute;
@@ -411,39 +457,41 @@ opacity: 0;transform: translate(0, 25px);
   width: 4px;
 }
 .homepage .pfad-1380-exFKkL {
+  align-self: flex-start;
   background-color: transparent;
-  height: 100%;
-  left: calc(19.24% - 4px);
+  flex-shrink: 1;
+  height: 25px;
+  margin-left: 6px;
+  margin-top: -0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 0px;
+  position: relative;
   width: 21px;
 }
 .homepage .pfad-2-VgC0o0 {
   background-color: transparent;
-  bottom: -2px;
   height: 15px;
+  left: 10px;
   object-fit: cover;
   position: absolute;
-  right: -2px;
+  top: 18px;
   width: 17px;
 }
 .homepage .pfad-841-WxfySK {
   background-color: transparent;
-  bottom: calc(47.44% - 29px);
   height: 61px;
+  left: 28px;
   object-fit: cover;
   position: absolute;
-  right: calc(42.45% - 21px);
+  top: 21px;
   width: 51px;
 }
 .homepage .pfad-895-Ym1yJN {
   background-color: transparent;
-  bottom: 0px;
   height: 9px;
+  left: 15px;
   object-fit: cover;
   position: absolute;
-  right: 0px;
+  top: 15px;
   width: 9px;
 }
 .homepage .polygon-5-Ievvxw {
@@ -452,16 +500,16 @@ opacity: 0;transform: translate(0, 25px);
   left: -22px;
   object-fit: cover;
   position: absolute;
-  top: calc(11.34% - 9px);
+  top: 13px;
   width: 80px;
 }
 .homepage .polygon-5-VMwTyA {
   background-color: transparent;
   height: 75px;
+  left: 386px;
   object-fit: cover;
   position: absolute;
-  right: -22px;
-  top: calc(9.44% - 7px);
+  top: 14px;
   width: 80px;
 }
 .homepage .polygon-6-Ievvxw {
@@ -470,16 +518,16 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: calc(20.73% - 6px);
+  top: 34px;
   width: 35px;
 }
 .homepage .polygon-6-VMwTyA {
   background-color: transparent;
   height: 30px;
+  left: 409px;
   object-fit: cover;
   position: absolute;
-  right: 0px;
-  top: calc(18.09% - 5px);
+  top: 34px;
   width: 35px;
 }
 .homepage .polygon-7-OtUnre {
@@ -488,7 +536,7 @@ opacity: 0;transform: translate(0, 25px);
   left: -22px;
   object-fit: cover;
   position: absolute;
-  top: calc(14.21% - 11px);
+  top: 13px;
   width: 80px;
 }
 .homepage .polygon-8-OtUnre {
@@ -497,7 +545,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: calc(24.29% - 7px);
+  top: 34px;
   width: 35px;
 }
 .homepage .rechteck-1-C61RwL {
@@ -507,37 +555,37 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .homepage .rechteck-1335-Ievvxw {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
+  height: 194px;
   left: 34px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 34px);
+  width: 500px;
 }
 .homepage .rechteck-1335-VMwTyA {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
+  height: 218px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 34px);
+  width: 410px;
 }
 .homepage .rechteck-1339-OtUnre {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
+  height: 170px;
   left: 34px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 34px);
+  width: 458px;
 }
 .homepage .rechteck-572-C61RwL {
   background-color: #d4d6de;
@@ -545,32 +593,33 @@ opacity: 0;transform: translate(0, 25px);
   height: 584px;
   left: 440px;
   position: absolute;
-  top: calc(42.98% - 251px);
-  width: calc(100.00% - 880px);
+  top: 1307px;
+  width: 1040px;
 }
 .homepage .resources-C61RwL {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: 158px;
   text-align: left;
   top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .homepage .search-1nQLJJ {
+  align-self: center;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
+  flex-shrink: 1;
   height: 26px;
-  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
+  margin-left: 14px;
   padding: 0;
-  position: absolute;
+  position: relative;
   resize: none;
   text-align: left;
   width: 171px;
@@ -598,28 +647,28 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .to-create-an-ap-comes-to-action-Ievvxw {
   background-color: transparent;
-  bottom: calc(25.60% - 18px);
-  height: 69px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 88px);
+  top: 93px;
+  width: 446px;
 }
 .homepage .understand-the-design-process-Ievvxw {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(19.35% - 8px);
+  top: 30px;
   white-space: nowrap;
-  width: calc(100.00% - 115px);
+  width: auto;
 }
-@keyframes animate-enter3-frames {
+@keyframes animate-enter-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

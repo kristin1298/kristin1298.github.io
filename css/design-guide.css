@@ -1,7 +1,7 @@
 /* screen - design-guide */
 
-.animate-enter {
-  animation: animate-enter-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter1 {
+  animation: animate-enter1-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -29,18 +29,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .avoid-these-typo-errors-TQCOxc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 166px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .bannerdesignguide-C61RwL {
   background-color: transparent;
@@ -53,33 +50,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .best-practice-tips-NzCmYq {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 125px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .breakpoints-for-fferent-devices-4ePuEV {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 233px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .buttons-C61RwL {
   background-color: transparent;
@@ -96,33 +87,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .color-deficiencies-D7eZ4t {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 129px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .color-psychology-P0EDAw {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 124px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .colors-C61RwL {
   background-color: transparent;
@@ -139,33 +124,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .contrast-checker-NUOs9q {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 123px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .contrast-checker-jLJAzz {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 123px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .design-guide-C61RwL {
   background-color: transparent;
@@ -185,40 +164,35 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .design-guide-GCEBCP {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: 21px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
+  right: calc(29.82% - 29px);
   text-align: left;
+  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: auto;
+  width: 96px;
 }
 .design-guide .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: 21px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
+  right: calc(18.43% - 21px);
   text-align: left;
+  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: auto;
+  width: 113px;
 }
 .design-guide .ebene-2-SZqgts {
   background-color: transparent;
-  flex-shrink: 1;
   height: 24px;
-  position: relative;
+  left: 25px;
+  position: absolute;
+  top: calc(50.00% - 12px);
   width: 24px;
 }
 .design-guide .ellipse-273-6tzNvg {
@@ -232,18 +206,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .font-size-and-scaling-xq7GOB {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 152px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .fonts-C61RwL {
   background-color: transparent;
@@ -262,361 +233,211 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  height: 430px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1600px;
+  width: 100%;
 }
 .design-guide .gruppe-1085-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 221px;
   position: absolute;
   top: 4895px;
-  width: auto;
+  width: 221px;
 }
 .design-guide .gruppe-1086-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 141px;
   position: absolute;
   top: 4852px;
-  width: auto;
+  width: 141px;
 }
 .design-guide .gruppe-1087-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 141px;
   position: absolute;
   top: 4809px;
-  width: auto;
+  width: 141px;
 }
 .design-guide .gruppe-1088-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 225px;
   position: absolute;
   top: 4400px;
-  width: auto;
+  width: 225px;
 }
 .design-guide .gruppe-1089-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 125px;
   position: absolute;
   top: 4357px;
-  width: auto;
+  width: 125px;
 }
 .design-guide .gruppe-1090-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 96px;
   position: absolute;
   top: 4314px;
-  width: auto;
+  width: 96px;
 }
 .design-guide .gruppe-1091-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 142px;
   position: absolute;
   top: 4271px;
-  width: auto;
+  width: 142px;
 }
 .design-guide .gruppe-1092-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 151px;
   position: absolute;
   top: 4228px;
-  width: auto;
+  width: 151px;
 }
 .design-guide .gruppe-1093-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 131px;
   position: absolute;
   top: 3648px;
-  width: auto;
+  width: 131px;
 }
 .design-guide .gruppe-1094-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 93px;
   position: absolute;
   top: 3691px;
-  width: auto;
+  width: 93px;
 }
 .design-guide .gruppe-1095-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 127px;
   position: absolute;
   top: 3733px;
-  width: auto;
+  width: 127px;
 }
 .design-guide .gruppe-1096-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 169px;
   position: absolute;
   top: 3776px;
-  width: auto;
+  width: 169px;
 }
 .design-guide .gruppe-1097-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 183px;
   position: absolute;
   top: 3818px;
-  width: auto;
+  width: 183px;
 }
 .design-guide .gruppe-1098-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 140px;
   position: absolute;
   top: 3861px;
-  width: auto;
+  width: 140px;
 }
 .design-guide .gruppe-1100-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 250px;
   position: absolute;
   top: 3083px;
-  width: auto;
+  width: 250px;
 }
 .design-guide .gruppe-1101-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 241px;
   position: absolute;
   top: 3126px;
-  width: auto;
+  width: 241px;
 }
 .design-guide .gruppe-1102-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 131px;
   position: absolute;
   top: 2488px;
-  width: auto;
+  width: 131px;
 }
 .design-guide .gruppe-1103-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 141px;
   position: absolute;
   top: 2531px;
-  width: auto;
+  width: 141px;
 }
 .design-guide .gruppe-1104-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 146px;
   position: absolute;
   top: 1908px;
-  width: auto;
+  width: 146px;
 }
 .design-guide .gruppe-1105-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 232px;
   position: absolute;
   top: 1951px;
-  width: auto;
+  width: 232px;
 }
 .design-guide .gruppe-1106-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 207px;
   position: absolute;
   top: 1994px;
-  width: auto;
+  width: 207px;
 }
 .design-guide .gruppe-1107-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 140px;
   position: absolute;
   top: 2037px;
-  width: auto;
+  width: 140px;
 }
 .design-guide .gruppe-1108-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 168px;
   position: absolute;
   top: 1415px;
-  width: auto;
+  width: 168px;
 }
 .design-guide .gruppe-1109-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 122px;
   position: absolute;
   top: 1372px;
-  width: auto;
+  width: 122px;
 }
 .design-guide .gruppe-1110-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 250px;
   position: absolute;
   top: 1329px;
-  width: auto;
+  width: 250px;
 }
 .design-guide .gruppe-1125-C61RwL {
   background-color: transparent;
@@ -628,75 +449,47 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1126-C61RwL {
-  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 1770px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1127-C61RwL {
-  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 2350px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1128-C61RwL {
-  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 2930px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1129-C61RwL {
-  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 3510px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1130-C61RwL {
   background-color: transparent;
@@ -708,79 +501,52 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1131-C61RwL {
-  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 4090px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-47-0xSpCQ {
   background-color: transparent;
-  flex-shrink: 1;
   height: 31px;
+  left: calc(49.35% - 12px);
   position: relative;
+  top: calc(50.00% - 15px);
   width: 25px;
 }
 .design-guide .gruppe-496-GCEBCP {
-  align-items: flex-start;
   background-color: var(--white-lilac);
   border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 203px;
-  min-width: 566px;
-  padding: 11.0px 24.0px;
-  position: relative;
-  width: auto;
+  left: calc(37.96% - 215px);
+  position: absolute;
+  top: calc(50.00% - 24px);
+  width: 566px;
 }
 .design-guide .gruppe-497-C61RwL {
-  align-items: center;
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .design-guide .gruppe-721-C61RwL {
-  align-items: flex-start;
   background-color: var(--white);
   border-radius: 50.5px;
   box-shadow: 0px 0px 15px #0000001a;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 101px;
-  justify-content: flex-start;
   left: 910px;
-  min-width: 101px;
-  padding: 35.1px 37.7px;
   position: absolute;
   top: 853px;
-  width: auto;
+  width: 101px;
 }
 .design-guide .here-you-get-an-re-treated-here-C61RwL {
   background-color: transparent;
@@ -796,18 +562,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .how-to-build-icons-bksA6i {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 134px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .icons-C61RwL {
   background-color: transparent;
@@ -824,18 +587,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .inspiration-and-free-icon-sets-znKD29 {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 208px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .layout-C61RwL {
   background-color: transparent;
@@ -915,42 +675,33 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .linie-53-dd6Tqo {
   background-color: transparent;
-  height: 34px;
-  left: 11px;
+  height: calc(100.00% + 3px);
   object-fit: cover;
   position: absolute;
+  right: calc(49.91% - 1px);
   top: -2px;
   width: 3px;
 }
 .design-guide .logo-GCEBCP {
-  align-items: center;
   background-color: transparent;
-  box-sizing: border-box;
+  bottom: calc(50.00% - 13px);
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
   height: 25px;
-  justify-content: flex-start;
-  margin-top: 0.0px;
-  min-width: 151px;
-  position: relative;
-  width: auto;
+  left: 160px;
+  position: absolute;
+  width: 151px;
 }
 .design-guide .make-your-designs-accessible-WVzxnx {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 215px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .navigation-C61RwL {
   background-color: transparent;
@@ -967,188 +718,169 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .navigation-elem-nts-for-desktop-CzVPfa {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 233px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .navigation-elements-for-mobile-nShJbz {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 224px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .old-vs-new-xKXIHE {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 79px;
-  position: relative;
+  position: absolute;
+  right: -2px;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
-}
-.design-guide .overlap-group-FV3pGc {
-  align-self: flex-start;
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 25px;
-  margin-left: 0px;
-  margin-top: -0.0px;
-  position: relative;
-  width: 19px;
+  width: 79px;
 }
 .design-guide .overviewaccessibility-fQ4YiQ {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
+  height: 100%;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 1312px;
 }
 .design-guide .overviewbuttons-9UDOxM {
   background-color: transparent;
-  height: 430px;
-  left: 288px;
+  height: calc(100.00% - 1px);
   object-fit: cover;
   position: absolute;
+  right: 1px;
   top: 0px;
   width: 1312px;
 }
 .design-guide .overviewcolors-4j9Fxa {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
-  object-fit: cover;
-  position: relative;
-  width: 1312px;
-}
-.design-guide .overviewfonts-ZxJczG {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
-  object-fit: cover;
-  position: relative;
-  width: 1312px;
-}
-.design-guide .overviewicons-W8JIii {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
-  object-fit: cover;
-  position: relative;
-  width: 1312px;
-}
-.design-guide .overviewlayout-juugUx {
-  background-color: transparent;
-  height: 430px;
+  height: 100%;
   left: 288px;
   object-fit: cover;
   position: absolute;
   top: 0px;
+  width: calc(100.00% - 288px);
+}
+.design-guide .overviewfonts-ZxJczG {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 1312px;
+}
+.design-guide .overviewicons-W8JIii {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 1312px;
+}
+.design-guide .overviewlayout-juugUx {
+  background-color: transparent;
+  height: 100%;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 288px);
 }
 .design-guide .overviewnavigation-Ww0XKU {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
+  height: 100%;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 1312px;
 }
 .design-guide .pfad-1-dd6Tqo {
   background-color: transparent;
+  bottom: -2px;
   height: 15px;
   left: -2px;
   object-fit: cover;
   position: absolute;
-  top: 18px;
   width: 17px;
 }
 .design-guide .pfad-1373-FV3pGc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-bottom: 0.0px;
-  margin-left: 9px;
+  height: calc(100.00% - 1px);
+  left: calc(42.60% - 8px);
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 1px;
   width: 19px;
 }
 .design-guide .pfad-1374-FV3pGc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-left: 4px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 1px);
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: calc(39.84% - 7px);
+  top: 1px;
   width: 18px;
 }
 .design-guide .pfad-1375-FV3pGc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-left: 4px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 1px);
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: calc(29.85% - 1px);
+  top: 1px;
   width: 4px;
 }
 .design-guide .pfad-1376-FV3pGc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-bottom: 0.0px;
-  margin-left: 5px;
+  height: calc(100.00% - 1px);
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 20px;
+  top: 1px;
   width: 18px;
 }
 .design-guide .pfad-1377-FV3pGc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-left: 4px;
-  margin-top: 0.01px;
+  height: calc(100.00% - 1px);
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 16px;
 }
-.design-guide .pfad-1378-TjUFiP {
+.design-guide .pfad-1378-FV3pGc {
   background-color: transparent;
-  height: 25px;
+  height: 100%;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
   width: 19px;
 }
-.design-guide .pfad-1379-TjUFiP {
+.design-guide .pfad-1379-FV3pGc {
   background-color: transparent;
-  height: 25px;
+  height: 100%;
   left: 14px;
   object-fit: cover;
   position: absolute;
@@ -1156,84 +888,75 @@ opacity: 0;transform: translate(0, 25px);
   width: 4px;
 }
 .design-guide .pfad-1380-FV3pGc {
-  align-self: flex-start;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 25px;
-  margin-left: 6px;
-  margin-top: -0.0px;
+  height: 100%;
+  left: calc(19.24% - 4px);
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 0px;
   width: 21px;
 }
 .design-guide .pfad-1393-4ePuEV {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.91px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 5px;
   width: 7px;
 }
 .design-guide .pfad-1394-MmVsjo {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1395-URIgw9 {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1396-D7eZ4t {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1397-WVzxnx {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1398-sIHXco {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1399-NUOs9q {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1400-C61RwL {
@@ -1246,270 +969,242 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .design-guide .pfad-1401-ZZ9A2h {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1402-P0EDAw {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1403-nShJbz {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1404-CzVPfa {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1405-PGNe38 {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1406-Z6R0rE {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1407-WN0Gkh {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1408-xq7GOB {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1409-TQCOxc {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1410-jLJAzz {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1411-bksA6i {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1412-NzCmYq {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.09px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 5px;
   width: 7px;
 }
 .design-guide .pfad-1413-xKXIHE {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.18px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 5px;
   width: 7px;
 }
 .design-guide .pfad-1414-tf2XAf {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.27px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 5px;
   width: 7px;
 }
 .design-guide .pfad-1415-znKD29 {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1416-3VzUxC {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-top: 0.0px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1417-mb3VxH {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.08px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 6px;
   width: 7px;
 }
 .design-guide .pfad-1418-1IS7zo {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
-  height: 8px;
-  margin-bottom: 0.17px;
+  height: calc(100.00% - 11px);
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 5px;
   width: 7px;
 }
 .design-guide .pfad-2-dd6Tqo {
   background-color: transparent;
+  bottom: -2px;
   height: 15px;
-  left: 10px;
   object-fit: cover;
   position: absolute;
-  top: 18px;
+  right: -2px;
   width: 17px;
 }
 .design-guide .pfad-895-6tzNvg {
   background-color: transparent;
+  bottom: 0px;
   height: 9px;
-  left: 15px;
   object-fit: cover;
   position: absolute;
-  top: 15px;
+  right: 0px;
   width: 9px;
 }
 .design-guide .rechteck-614-9UDOxM {
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  height: 430px;
+  height: calc(100.00% - 1px);
   left: 0px;
   position: absolute;
   top: 1px;
-  width: 1600px;
+  width: 100%;
 }
 .design-guide .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: 21px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
+  right: 158px;
   text-align: left;
+  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: auto;
+  width: 77px;
 }
 .design-guide .rules-for-buttons-3VzUxC {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 124px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .sans-serif-fonts-PGNe38 {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 114px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .search-SZqgts {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
+  bottom: calc(45.45% - 12px);
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 14px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
   width: 171px;
@@ -1519,140 +1214,113 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .serif-fonts-Z6R0rE {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 76px;
-  position: relative;
+  position: absolute;
+  right: -2px;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: 76px;
 }
 .design-guide .slab-serif-fonts-WN0Gkh {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 110px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .tips-for-a-great-dark-mode-sIHXco {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 190px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-buttons-mb3VxH {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 124px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-colors-ZZ9A2h {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 114px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-grids-MmVsjo {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 105px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-icons-tf2XAf {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 108px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-whitespace-URIgw9 {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 151px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .when-to-use-buttons-or-links-1IS7zo {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 204px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
-@keyframes animate-enter-frames {
+@keyframes animate-enter1-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

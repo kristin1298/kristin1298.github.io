@@ -1,7 +1,7 @@
 /* screen - design-process */
 
-.animate-enter2 {
-  animation: animate-enter2-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter4 {
+  animation: animate-enter4-frames 0.60s ease-in-out 0.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1303,7 +1303,7 @@ opacity: 0;transform: translate(0, 25px);
   right: calc(30.15% - 33px);
   width: 109px;
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter4-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
