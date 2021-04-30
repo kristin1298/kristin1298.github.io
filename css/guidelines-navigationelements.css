@@ -185,26 +185,32 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 200px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-navigationelements .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 113px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -234,10 +240,9 @@ opacity: 0;transform: translate(0, 25px);
   background-image: url(../img/ebene-2-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
+  flex-shrink: 1;
   height: 25px;
-  left: 23px;
-  position: absolute;
-  top: 10px;
+  position: relative;
   width: 25px;
 }
 .guidelines-navigationelements .fly-out-C61RwL {
@@ -317,13 +322,19 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-navigationelements .gruppe-1156-astSH4 {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 26px;
+  justify-content: flex-start;
   left: 30px;
+  min-width: 95px;
   position: absolute;
   top: 204px;
-  width: 95px;
+  width: auto;
 }
 .guidelines-navigationelements .gruppe-1168-C61RwL {
   background-color: var(--white);
@@ -338,22 +349,36 @@ opacity: 0;transform: translate(0, 25px);
 opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .gruppe-496-GCEBCP {
+  align-items: flex-start;
   background-color: var(--white-lilac);
   border-radius: 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
   height: 48px;
-  left: 514px;
-  position: absolute;
-  top: 21px;
-  width: 566px;
+  justify-content: flex-start;
+  margin-left: 201px;
+  min-width: 566px;
+  padding: 10px 23px;
+  position: relative;
+  width: auto;
 }
 .guidelines-navigationelements .gruppe-497-C61RwL {
+  align-items: center;
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 90px;
+  justify-content: flex-end;
   left: 0px;
+  min-width: 1920px;
+  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: 1920px;
+  width: auto;
 }
 .guidelines-navigationelements .gruppe-759-C61RwL {
   background-color: transparent;
@@ -521,11 +546,10 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: 26px;
-  left: 160px;
   object-fit: cover;
-  position: absolute;
-  top: 32px;
+  position: relative;
   width: 153px;
 }
 .guidelines-navigationelements .menu-items-are-ove-the-content-C61RwL {
@@ -553,13 +577,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .navigation-bQlxLl {
   background-color: transparent;
+  flex-shrink: 1;
   height: auto;
-  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 14px;
+  min-height: 21px;
+  min-width: 78px;
+  position: relative;
   text-align: left;
-  top: 0px;
   white-space: nowrap;
   width: auto;
 }
@@ -798,37 +824,40 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .rechteck-663-bQlxLl {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
+  flex-shrink: 1;
   height: 26px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
+  position: relative;
   width: 3px;
 }
 .guidelines-navigationelements .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 77px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-navigationelements .search-SZqgts {
+  align-self: center;
   background-color: transparent;
   border: 0;
+  flex-shrink: 1;
   height: 26px;
-  left: 63px;
   letter-spacing: 0.00px;
   line-height: 20px;
+  margin-left: 15px;
   padding: 0;
-  position: absolute;
+  position: relative;
   resize: none;
   text-align: left;
-  top: 11px;
   width: 475px;
 }
 .guidelines-navigationelements .search-SZqgts::placeholder {

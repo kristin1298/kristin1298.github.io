@@ -35,15 +35,18 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .avoid-these-typo-errors-PngSPK {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 166px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .bannerdesignguide-C61RwL {
   background-color: transparent;
@@ -58,27 +61,33 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .best-practice-tips-B6FddB {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 125px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .breakpoints-for-fferent-devices-kSleWw {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 233px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .buttons-C61RwL {
   background-color: transparent;
@@ -95,27 +104,33 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .color-deficiencies-sxROfv {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 129px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .color-psychology-8SOaIp {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 124px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .colors-C61RwL {
   background-color: transparent;
@@ -132,27 +147,33 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .contrast-checker-5dRcjU {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 123px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .contrast-checker-kv5RIr {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 123px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .design-guide-C61RwL {
   background-color: transparent;
@@ -172,26 +193,32 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .design-guide-GCEBCP {
   background-color: transparent;
+  flex-shrink: 1;
   height: auto;
-  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 200px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .design-guide .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 113px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -200,23 +227,25 @@ opacity: 0;transform: translate(0, 25px);
   background-image: url(../img/ebene-2-10@1x.png);
   background-position: 50% 50%;
   background-size: cover;
+  flex-shrink: 1;
   height: 25px;
-  left: 23px;
-  position: absolute;
-  top: 10px;
+  position: relative;
   width: 25px;
 }
 .design-guide .font-size-and-scaling-ZbTrxz {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 152px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .fonts-C61RwL {
   background-color: transparent;
@@ -235,11 +264,11 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  height: 100%;
+  height: 430px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1600px;
 }
 .design-guide .gruppe-1125-C61RwL {
   background-color: transparent;
@@ -251,88 +280,144 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1126-C61RwL {
+  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
   top: 1680px;
-  width: 1600px;
+  width: auto;
 }
 .design-guide .gruppe-1127-C61RwL {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
   top: 2260px;
-  width: 1600px;
+  width: auto;
 }
 .design-guide .gruppe-1128-C61RwL {
+  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
   top: 2840px;
-  width: 1600px;
+  width: auto;
 }
 .design-guide .gruppe-1129-C61RwL {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
   top: 3420px;
-  width: 1600px;
+  width: auto;
 }
 .design-guide .gruppe-1130-C61RwL {
+  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
   top: 4581px;
-  width: 1600px;
+  width: auto;
 }
 .design-guide .gruppe-1131-C61RwL {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
   top: 4000px;
-  width: 1600px;
+  width: auto;
 }
 .design-guide .gruppe-496-GCEBCP {
+  align-items: flex-start;
   background-color: var(--white-lilac);
   border-radius: 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
   height: 48px;
-  left: 514px;
-  position: absolute;
-  top: 21px;
-  width: 566px;
+  justify-content: flex-start;
+  margin-left: 201px;
+  min-width: 566px;
+  padding: 10px 23px;
+  position: relative;
+  width: auto;
 }
 .design-guide .gruppe-497-C61RwL {
+  align-items: center;
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 90px;
+  justify-content: flex-end;
   left: 0px;
+  min-width: 1920px;
+  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: 1920px;
+  width: auto;
 }
 .design-guide .here-you-get-an-re-treated-here-C61RwL {
   background-color: transparent;
@@ -348,15 +433,18 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .how-to-build-icons-1eOwQW {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 134px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .icons-C61RwL {
   background-color: transparent;
@@ -373,215 +461,368 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .inspiration-and-free-icon-sets-G76uWd {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 208px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .komponente-73-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 125px;
   position: absolute;
   top: 4267px;
-  width: 125px;
+  width: auto;
 }
 .design-guide .komponente-74-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 225px;
   position: absolute;
   top: 4310px;
-  width: 225px;
+  width: auto;
 }
 .design-guide .komponente-75-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 96px;
   position: absolute;
   top: 4224px;
-  width: 96px;
+  width: auto;
 }
 .design-guide .komponente-76-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 142px;
   position: absolute;
   top: 4181px;
-  width: 142px;
+  width: auto;
 }
 .design-guide .komponente-77-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 151px;
   position: absolute;
   top: 4138px;
-  width: 151px;
+  width: auto;
 }
 .design-guide .komponente-78-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 221px;
   position: absolute;
   top: 4805px;
-  width: 221px;
+  width: auto;
 }
 .design-guide .komponente-79-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 141px;
   position: absolute;
   top: 4762px;
-  width: 141px;
+  width: auto;
 }
 .design-guide .komponente-80-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 141px;
   position: absolute;
   top: 4719px;
-  width: 141px;
+  width: auto;
 }
 .design-guide .komponente-81-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 140px;
   position: absolute;
   top: 3771px;
-  width: 140px;
+  width: auto;
 }
 .design-guide .komponente-82-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 183px;
   position: absolute;
   top: 3728px;
-  width: 183px;
+  width: auto;
 }
 .design-guide .komponente-83-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 169px;
   position: absolute;
   top: 3686px;
-  width: 169px;
+  width: auto;
 }
 .design-guide .komponente-84-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 127px;
   position: absolute;
   top: 3643px;
-  width: 127px;
+  width: auto;
 }
 .design-guide .komponente-85-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 93px;
   position: absolute;
   top: 3601px;
-  width: 93px;
+  width: auto;
 }
 .design-guide .komponente-86-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 131px;
   position: absolute;
   top: 3558px;
-  width: 131px;
+  width: auto;
 }
 .design-guide .komponente-87-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 241px;
   position: absolute;
   top: 3036px;
-  width: 241px;
+  width: auto;
 }
 .design-guide .komponente-88-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 250px;
   position: absolute;
   top: 2993px;
-  width: 250px;
+  width: auto;
 }
 .design-guide .komponente-89-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 141px;
   position: absolute;
   top: 2441px;
-  width: 141px;
+  width: auto;
 }
 .design-guide .komponente-90-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 131px;
   position: absolute;
   top: 2398px;
-  width: 131px;
+  width: auto;
 }
 .design-guide .komponente-91-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 140px;
   position: absolute;
   top: 1947px;
-  width: 140px;
+  width: auto;
 }
 .design-guide .komponente-92-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 207px;
   position: absolute;
   top: 1904px;
-  width: 207px;
+  width: auto;
 }
 .design-guide .komponente-93-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 232px;
   position: absolute;
   top: 1861px;
-  width: 232px;
+  width: auto;
 }
 .design-guide .komponente-94-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 146px;
   position: absolute;
   top: 1818px;
-  width: 146px;
+  width: auto;
 }
 .design-guide .komponente-95-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 168px;
   position: absolute;
   top: 1325px;
-  width: 168px;
+  width: auto;
 }
 .design-guide .komponente-96-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 122px;
   position: absolute;
   top: 1282px;
-  width: 122px;
+  width: auto;
 }
 .design-guide .komponente-97-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 220px;
+  min-width: 250px;
   position: absolute;
   top: 1239px;
-  width: 250px;
+  width: auto;
 }
 .design-guide .layout-C61RwL {
   background-color: transparent;
@@ -662,24 +903,26 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: 26px;
-  left: 160px;
   object-fit: cover;
-  position: absolute;
-  top: 32px;
+  position: relative;
   width: 153px;
 }
 .design-guide .make-your-designs-accessible-vQgHTa {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 215px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .navigation-C61RwL {
   background-color: transparent;
@@ -696,68 +939,90 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .navigation-elem-nts-for-desktop-ppXcOh {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 233px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .navigation-elements-for-mobile-INlcf1 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 224px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .old-vs-new-DtUutc {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: -2px;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 79px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: 79px;
+  width: auto;
 }
 .design-guide .overviewaccessibility-fQ4YiQ {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .overviewbuttons-9UDOxM {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .overviewcolors-4j9Fxa {
   background-color: transparent;
-  height: 100%;
-  left: 288px;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 288px);
+  position: relative;
+  width: 1312px;
 }
 .design-guide .overviewfonts-ZxJczG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 430px;
+  object-fit: cover;
+  position: relative;
+  width: 1312px;
+}
+.design-guide .overviewicons-W8JIii {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 430px;
+  object-fit: cover;
+  position: relative;
+  width: 1312px;
+}
+.design-guide .overviewlayout-juugUx {
   background-color: transparent;
   height: 430px;
   left: 288px;
@@ -766,94 +1031,82 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 1312px;
 }
-.design-guide .overviewicons-W8JIii {
-  background-color: transparent;
-  height: 100%;
-  left: 288px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 288px);
-}
-.design-guide .overviewlayout-juugUx {
-  background-color: transparent;
-  height: 100%;
-  left: 288px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 288px);
-}
 .design-guide .overviewnavigation-Ww0XKU {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .pfad-1393-kSleWw {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.91px;
   object-fit: cover;
-  position: absolute;
-  top: calc(45.89% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1394-tZdNQo {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1395-d6q1wf {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1396-sxROfv {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1397-vQgHTa {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1398-oNRgMI {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1399-5dRcjU {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1400-C61RwL {
@@ -866,203 +1119,230 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .design-guide .pfad-1401-hHwIl2 {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1402-8SOaIp {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1403-INlcf1 {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1404-ppXcOh {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1405-kV5Jrz {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1406-xexbVU {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1407-cjD28W {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1408-ZbTrxz {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1409-PngSPK {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1410-kv5RIr {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1411-1eOwQW {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: calc(49.99% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1412-B6FddB {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.09px;
   object-fit: cover;
-  position: absolute;
-  top: calc(49.59% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1413-DtUutc {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.18px;
   object-fit: cover;
-  position: absolute;
-  top: calc(49.18% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1414-zARyJa {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.27px;
   object-fit: cover;
-  position: absolute;
-  top: calc(48.77% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1415-G76uWd {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: calc(49.99% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1416-N5QM04 {
+  align-self: center;
   background-color: transparent;
-  bottom: calc(49.99% - 4px);
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1417-mGEHbe {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.08px;
   object-fit: cover;
-  position: absolute;
-  top: calc(49.62% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1418-LBCV8J {
+  align-self: center;
   background-color: transparent;
+  flex-shrink: 1;
   height: 8px;
-  left: 0px;
+  margin-bottom: 0.17px;
   object-fit: cover;
-  position: absolute;
-  top: calc(49.23% - 4px);
+  position: relative;
   width: 7px;
 }
 .design-guide .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 77px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .design-guide .rules-for-buttons-N5QM04 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 124px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .sans-serif-fonts-kV5Jrz {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 114px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .scrollto-C61RwL {
   background-color: transparent;
@@ -1075,17 +1355,18 @@ opacity: 0;transform: translate(0, 25px);
   width: 140px;
 }
 .design-guide .search-SZqgts {
+  align-self: center;
   background-color: transparent;
   border: 0;
+  flex-shrink: 1;
   height: 26px;
-  left: 63px;
   letter-spacing: 0.00px;
   line-height: 20px;
+  margin-left: 15px;
   padding: 0;
-  position: absolute;
+  position: relative;
   resize: none;
   text-align: left;
-  top: 11px;
   width: 475px;
 }
 .design-guide .search-SZqgts::placeholder {
@@ -1093,111 +1374,138 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .serif-fonts-xexbVU {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: -2px;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 76px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: 76px;
+  width: auto;
 }
 .design-guide .slab-serif-fonts-cjD28W {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 110px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .tips-for-a-great-dark-mode-oNRgMI {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 190px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .usage-of-buttons-mGEHbe {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 124px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .usage-of-colors-hHwIl2 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 114px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .usage-of-grids-tZdNQo {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 105px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .usage-of-icons-zARyJa {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 108px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .usage-of-whitespace-d6q1wf {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 151px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .when-to-use-buttons-or-links-LBCV8J {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 204px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 @keyframes animate-enter-frames {
 
