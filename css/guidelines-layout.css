@@ -1,9 +1,9 @@
 /* screen - guidelines-accessibility-1 */
 
-.animate-enter4 {
-  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter20 {
+  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-1 {
   background-color: #fdfdfe;
@@ -14,7 +14,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-1 .accessibility-C61RwL {
   --z-index: 28;
@@ -73,7 +73,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 784px;
 }
 .guidelines-accessibility-1 .all-colors-C61RwL {
-  --z-index: 54;
+  --z-index: 53;
   background-color: transparent;
   color: #212121;
   font-family: 'Roboto', Helvetica;
@@ -92,7 +92,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-accessibility-1 .all-colors-VMr6Om {
-  --z-index: 66;
+  --z-index: 65;
   background-color: transparent;
   color: #212121;
   font-family: 'Roboto', Helvetica;
@@ -110,13 +110,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-1 .animate-enter2 {
-  animation: animate-enter2-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-1 .animate-enter18 {
+  animation: animate-enter18-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-1 .animate-enter3 {
-  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-1 .animate-enter19 {
+  animation: animate-enter19-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -169,7 +169,7 @@ opacity: 0;transform: translate(0, 25px);
 opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-1 .blue-deficiency-C61RwL {
-  --z-index: 59;
+  --z-index: 58;
   background-color: transparent;
   color: #212121;
   font-family: 'Roboto', Helvetica;
@@ -208,7 +208,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-accessibility-1 .color-blindness-C61RwL {
-  --z-index: 60;
+  --z-index: 59;
   background-color: transparent;
   color: #212121;
   font-family: 'Roboto', Helvetica;
@@ -599,72 +599,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 1317px;
   width: 17px;
 }
-.guidelines-accessibility-1 .ellipse-475-zMCnEc {
-  --z-index: 0;
-  background-color: #7a7cf2;
-  border-radius: 14px;
-  height: 28px;
-  left: 12px;
-  opacity: 0.75;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 24px);
-}
-.guidelines-accessibility-1 .ellipse-477-zMCnEc {
-  --z-index: 5;
-  background-color: #efe642;
-  border-radius: 14px/14.5px;
-  bottom: 0px;
-  height: 29px;
-  left: 12px;
-  opacity: 0.75;
-  position: absolute;
-  width: calc(100.00% - 24px);
-}
-.guidelines-accessibility-1 .ellipse-478-zMCnEc {
-  --z-index: 1;
-  background-color: #f49a25;
-  border-radius: 14.5px;
-  bottom: 4px;
-  height: 29px;
-  left: 0px;
-  opacity: 0.75;
-  position: absolute;
-  width: 29px;
-}
-.guidelines-accessibility-1 .ellipse-479-zMCnEc {
-  --z-index: 2;
-  background-color: #e7392c;
-  border-radius: 14.5px;
-  height: 29px;
-  left: 0px;
-  opacity: 0.75;
-  position: absolute;
-  top: 6px;
-  width: 29px;
-}
-.guidelines-accessibility-1 .ellipse-480-zMCnEc {
-  --z-index: 3;
-  background-color: #27bcff;
-  border-radius: 14px/14.5px;
-  height: 29px;
-  opacity: 0.75;
-  position: absolute;
-  right: 0px;
-  top: 6px;
-  width: 28px;
-}
-.guidelines-accessibility-1 .ellipse-481-zMCnEc {
-  --z-index: 4;
-  background-color: #62b247;
-  border-radius: 14px;
-  bottom: 5px;
-  height: 28px;
-  opacity: 0.75;
-  position: absolute;
-  right: 0px;
-  width: 28px;
-}
 .guidelines-accessibility-1 .emotional-aspect-C61RwL {
   --z-index: 44;
   background-color: transparent;
@@ -718,7 +652,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-accessibility-1 .green-deficiency-C61RwL {
-  --z-index: 57;
+  --z-index: 56;
   background-color: transparent;
   color: #212121;
   font-family: 'Roboto', Helvetica;
@@ -736,18 +670,8 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-1 .gruppe-1124-XZ3zO2 {
-  --z-index: 1;
-  background-color: transparent;
-  height: calc(100.00% + 32px);
-  left: -4px;
-  opacity: 1;
-  position: absolute;
-  top: -16px;
-  width: calc(100.00% + 9px);
-}
 .guidelines-accessibility-1 .gruppe-1132-C61RwL {
-  --z-index: 65;
+  --z-index: 64;
   background-color: transparent;
   cursor: pointer;
   height: 23px;
@@ -758,7 +682,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 43px;
 }
 .guidelines-accessibility-1 .gruppe-1133-C61RwL {
-  --z-index: 68;
+  --z-index: 67;
   background-color: transparent;
   cursor: pointer;
   height: 23px;
@@ -769,7 +693,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 43px;
 }
 .guidelines-accessibility-1 .gruppe-1134-C61RwL {
-  --z-index: 69;
+  --z-index: 68;
   background-color: transparent;
   cursor: pointer;
   height: 23px;
@@ -780,7 +704,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 43px;
 }
 .guidelines-accessibility-1 .gruppe-1135-C61RwL {
-  --z-index: 70;
+  --z-index: 69;
   background-color: transparent;
   cursor: pointer;
   height: 23px;
@@ -884,12 +808,14 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-accessibility-1 .gruppe-maskieren-32-C61RwL {
-  --z-index: 53;
+  --z-index: 70;
   background-color: transparent;
+  background-image: url(../img/gruppe-maskieren-32@1x.png);
+  background-size: 100% 100%;
   height: 23px;
   left: 799px;
+  object-fit: cover;
   opacity: 1;
-  overflow: hidden;
   position: absolute;
   top: 1314px;
   width: 43px;
@@ -1314,7 +1240,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 270px;
 }
 .guidelines-accessibility-1 .normal-C61RwL {
-  --z-index: 56;
+  --z-index: 55;
   background-color: transparent;
   background-image: url(../img/normal-1@1x.png);
   background-size: 100% 100%;
@@ -1327,7 +1253,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-accessibility-1 .pfad-1439-C61RwL {
-  --z-index: 61;
+  --z-index: 60;
   background-color: transparent;
   background-image: url(../img/pfad-1393@1x.png);
   background-size: 100% 100%;
@@ -1340,7 +1266,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .guidelines-accessibility-1 .pfad-1440-C61RwL {
-  --z-index: 62;
+  --z-index: 61;
   background-color: transparent;
   background-image: url(../img/pfad-1393@1x.png);
   background-size: 100% 100%;
@@ -1353,7 +1279,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .guidelines-accessibility-1 .pfad-1441-C61RwL {
-  --z-index: 63;
+  --z-index: 62;
   background-color: transparent;
   background-image: url(../img/pfad-1393@1x.png);
   background-size: 100% 100%;
@@ -1366,7 +1292,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .guidelines-accessibility-1 .pfad-1442-C61RwL {
-  --z-index: 64;
+  --z-index: 63;
   background-color: transparent;
   background-image: url(../img/pfad-1393@1x.png);
   background-size: 100% 100%;
@@ -1379,7 +1305,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .guidelines-accessibility-1 .pfad-1443-C61RwL {
-  --z-index: 67;
+  --z-index: 66;
   background-color: transparent;
   background-image: url(../img/pfad-1393@1x.png);
   background-size: 100% 100%;
@@ -1585,17 +1511,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.guidelines-accessibility-1 .rechteck-1690-XZ3zO2 {
-  --z-index: 0;
-  background-color: #4a4a4a;
-  border-radius: 12px;
-  height: 100%;
-  left: 0px;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
 .guidelines-accessibility-1 .rechteck-48-SZqgts {
   --z-index: 0;
   background-color: #f7f8fc;
@@ -1692,7 +1607,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 3px;
 }
 .guidelines-accessibility-1 .red-deficiency-C61RwL {
-  --z-index: 58;
+  --z-index: 57;
   background-color: transparent;
   color: #212121;
   font-family: 'Roboto', Helvetica;
@@ -2019,7 +1934,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-accessibility-1 .x01-VMr6Om {
-  --z-index: 55;
+  --z-index: 54;
   background-color: transparent;
   color: #7a7cf2;
   font-family: 'Roboto', Helvetica;
@@ -2208,27 +2123,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter18-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter3-frames {
+@keyframes animate-enter19-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter4-frames {
+@keyframes animate-enter20-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-layout */
 
-.animate-enter7 {
-  animation: animate-enter7-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter4 {
+  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-layout {
   background-color: #fdfdfe;
@@ -2239,7 +2154,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-layout .a-digital-layou-er-and-the-user-C61RwL {
   --z-index: 40;
@@ -2298,13 +2213,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .animate-enter5 {
-  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-layout .animate-enter6 {
-  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter3 {
+  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -4152,27 +4067,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter2-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter6-frames {
+@keyframes animate-enter3-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter7-frames {
+@keyframes animate-enter4-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-2 */
 
-.animate-enter26 {
-  animation: animate-enter26-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter23 {
+  animation: animate-enter23-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-2 {
   background-color: #fdfdfe;
@@ -4183,7 +4098,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-2 .accessibility-C61RwL {
   --z-index: 26;
@@ -4260,13 +4175,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-2 .animate-enter24 {
-  animation: animate-enter24-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-2 .animate-enter21 {
+  animation: animate-enter21-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-2 .animate-enter25 {
-  animation: animate-enter25-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-2 .animate-enter22 {
+  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -6303,27 +6218,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter24-frames {
+@keyframes animate-enter21-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter25-frames {
+@keyframes animate-enter22-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter26-frames {
+@keyframes animate-enter23-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-3 */
 
-.animate-enter29 {
-  animation: animate-enter29-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter26 {
+  animation: animate-enter26-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-3 {
   background-color: #fdfdfe;
@@ -6334,7 +6249,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-3 .accessibility-6HPaeV {
   --z-index: 0;
@@ -6411,13 +6326,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-3 .animate-enter27 {
-  animation: animate-enter27-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-3 .animate-enter24 {
+  animation: animate-enter24-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-3 .animate-enter28 {
-  animation: animate-enter28-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-3 .animate-enter25 {
+  animation: animate-enter25-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -8464,27 +8379,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter27-frames {
+@keyframes animate-enter24-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter28-frames {
+@keyframes animate-enter25-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter29-frames {
+@keyframes animate-enter26-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-4 */
 
-.animate-enter32 {
-  animation: animate-enter32-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter29 {
+  animation: animate-enter29-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-4 {
   background-color: #fdfdfe;
@@ -8495,7 +8410,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-4 .accessibility-C61RwL {
   --z-index: 26;
@@ -8572,13 +8487,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-4 .animate-enter30 {
-  animation: animate-enter30-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-4 .animate-enter27 {
+  animation: animate-enter27-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-4 .animate-enter31 {
-  animation: animate-enter31-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-4 .animate-enter28 {
+  animation: animate-enter28-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -10625,27 +10540,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter30-frames {
+@keyframes animate-enter27-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter31-frames {
+@keyframes animate-enter28-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter32-frames {
+@keyframes animate-enter29-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-5 */
 
-.animate-enter35 {
-  animation: animate-enter35-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter38 {
+  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-5 {
   background-color: #fdfdfe;
@@ -10656,7 +10571,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-5 .accessibility-C61RwL {
   --z-index: 26;
@@ -10733,13 +10648,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-5 .animate-enter33 {
-  animation: animate-enter33-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-5 .animate-enter36 {
+  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-5 .animate-enter34 {
-  animation: animate-enter34-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-5 .animate-enter37 {
+  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -12596,25 +12511,6 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-5 .x01-VMr6Om {
-  --z-index: 43;
-  background-color: transparent;
-  color: #7a7cf2;
-  font-family: 'Roboto', Helvetica;
-  font-size: 13px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 642px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  opacity: 1;
-  position: absolute;
-  text-align: left;
-  top: 1214px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-accessibility-5 .x01-Xr5z8V {
   --z-index: 3;
   background-color: transparent;
@@ -12767,6 +12663,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.guidelines-accessibility-5 .x05-VMr6Om {
+  --z-index: 43;
+  background-color: transparent;
+  color: #7a7cf2;
+  font-family: 'Roboto', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 642px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1214px;
+  white-space: nowrap;
+  width: auto;
+}
 .guidelines-accessibility-5 .x05-b7DVYA {
   --z-index: 3;
   background-color: transparent;
@@ -12786,18 +12701,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter33-frames {
+@keyframes animate-enter36-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter34-frames {
+@keyframes animate-enter37-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter35-frames {
+@keyframes animate-enter38-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

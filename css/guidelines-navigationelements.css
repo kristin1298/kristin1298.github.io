@@ -1,9 +1,9 @@
 /* screen - guidelines-navigationelements */
 
-.animate-enter38 {
-  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter35 {
+  animation: animate-enter35-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements {
   background-color: var(--coconut);
@@ -13,7 +13,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .accessibility-astSH4 {
   background-color: transparent;
@@ -28,13 +28,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .animate-enter36 {
-  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter33 {
+  animation: animate-enter33-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-navigationelements .animate-enter37 {
-  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter34 {
+  animation: animate-enter34-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1222,18 +1222,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter36-frames {
+@keyframes animate-enter33-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter37-frames {
+@keyframes animate-enter34-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter38-frames {
+@keyframes animate-enter35-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

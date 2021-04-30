@@ -3,7 +3,7 @@
 .animate-enter44 {
   animation: animate-enter44-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons {
   background-color: var(--coconut);
@@ -13,7 +13,7 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .accessibility-FyQmpe {
   background-color: transparent;
@@ -1847,6 +1847,6 @@ to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter44-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
