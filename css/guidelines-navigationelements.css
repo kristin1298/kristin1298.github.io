@@ -15,7 +15,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-navigationelements .accessibility-astSH4 {
+.guidelines-navigationelements .accessibility-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -91,7 +91,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 7922px;
   width: 640px;
 }
-.guidelines-navigationelements .buttons-astSH4 {
+.guidelines-navigationelements .buttons-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -136,7 +136,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 2471px;
   width: 362px;
 }
-.guidelines-navigationelements .colors-astSH4 {
+.guidelines-navigationelements .colors-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -149,7 +149,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .content-of-this-page-astSH4 {
+.guidelines-navigationelements .content-of-this-page-05jha3 {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -266,7 +266,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 1798px;
   width: 640px;
 }
-.guidelines-navigationelements .fonts-astSH4 {
+.guidelines-navigationelements .fonts-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -321,7 +321,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .gruppe-1156-astSH4 {
+.guidelines-navigationelements .gruppe-1156-05jha3 {
   align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
@@ -335,18 +335,6 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 204px;
   width: auto;
-}
-.guidelines-navigationelements .gruppe-1168-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000019;
-  display: block;
-  height: 462px;
-  left: 160px;
-  position: fixed;
-  top: 190px;
-  width: 340px;
-opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .gruppe-496-GCEBCP {
   align-items: flex-start;
@@ -427,7 +415,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .icons-astSH4 {
+.guidelines-navigationelements .icons-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -460,6 +448,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 3568px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-navigationelements .in-page-navigation-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000019;
+  display: block;
+  height: 462px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .in-page-tab-bar-C61RwL {
   background-color: transparent;
@@ -512,7 +512,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 9082px;
   width: 640px;
 }
-.guidelines-navigationelements .layout-astSH4 {
+.guidelines-navigationelements .layout-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -575,7 +575,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .navigation-bQlxLl {
+.guidelines-navigationelements .navigation-Fx8V4L {
   background-color: transparent;
   flex-shrink: 1;
   height: auto;
@@ -612,19 +612,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .navigation-elem-nts-for-desktop-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 913px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-navigationelements .navigation-elem-nts-for-desktop-astSH4 {
+.guidelines-navigationelements .navigation-elem-nts-for-desktop-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -637,7 +625,19 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .navigation-elements-for-mobile-astSH4 {
+.guidelines-navigationelements .navigation-elem-nts-for-desktop-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 913px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-navigationelements .navigation-elements-for-mobile-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -821,7 +821,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 9602px;
   width: 1180px;
 }
-.guidelines-navigationelements .rechteck-663-bQlxLl {
+.guidelines-navigationelements .rechteck-663-Fx8V4L {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
   flex-shrink: 1;

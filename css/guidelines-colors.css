@@ -15,7 +15,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-colors .accessibility-SlfQEA {
+.guidelines-colors .accessibility-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -239,7 +239,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 87px;
 }
-.guidelines-colors .buttons-SlfQEA {
+.guidelines-colors .buttons-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -359,19 +359,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-colors .color-psychology-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 5895px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-colors .color-psychology-SlfQEA {
+.guidelines-colors .color-psychology-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -381,6 +369,18 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 245px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-colors .color-psychology-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 5895px;
   white-space: nowrap;
   width: auto;
 }
@@ -416,19 +416,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 1795px;
   width: 640px;
 }
-.guidelines-colors .colors-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 339px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-colors .colors-SlfQEA {
+.guidelines-colors .colors-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -438,6 +426,18 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 163px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-colors .colors-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 339px;
   white-space: nowrap;
   width: auto;
 }
@@ -472,7 +472,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 4115px;
   width: 640px;
 }
-.guidelines-colors .content-of-this-page-SlfQEA {
+.guidelines-colors .content-of-this-page-05jha3 {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -747,7 +747,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 85px;
 }
-.guidelines-colors .fonts-SlfQEA {
+.guidelines-colors .fonts-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -873,18 +873,6 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   white-space: nowrap;
   width: 34px;
-}
-.guidelines-colors .gruppe-1167-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000029;
-  display: block;
-  height: 462px;
-  left: 160px;
-  position: fixed;
-  top: 190px;
-  width: 340px;
-opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .gruppe-496-GCEBCP {
   align-items: flex-start;
@@ -1126,7 +1114,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 37px;
 }
-.guidelines-colors .icons-SlfQEA {
+.guidelines-colors .icons-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -1173,6 +1161,18 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   white-space: nowrap;
   width: 79px;
+}
+.guidelines-colors .in-page-navigation-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  display: block;
+  height: 462px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .innocence-ARkcuT {
   background-color: transparent;
@@ -1278,7 +1278,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 2075px;
   width: 33px;
 }
-.guidelines-colors .layout-SlfQEA {
+.guidelines-colors .layout-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -1759,7 +1759,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 85px;
 }
-.guidelines-colors .navigation-SlfQEA {
+.guidelines-colors .navigation-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -2077,7 +2077,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 5215px;
   width: 1180px;
 }
-.guidelines-colors .rechteck-663-SlfQEA {
+.guidelines-colors .rechteck-663-05jha3 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
   height: 26px;
@@ -2439,19 +2439,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 104px;
 }
-.guidelines-colors .usage-of-colors-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 910px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-colors .usage-of-colors-SlfQEA {
+.guidelines-colors .usage-of-colors-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -2461,6 +2449,18 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 204px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-colors .usage-of-colors-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 910px;
   white-space: nowrap;
   width: auto;
 }

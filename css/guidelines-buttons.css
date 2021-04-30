@@ -26,7 +26,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 425px;
   width: 752px;
 }
-.guidelines-buttons .accessibility-enGkxY {
+.guidelines-buttons .accessibility-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -105,19 +105,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-buttons .best-practice-tips-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 913px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-buttons .best-practice-tips-enGkxY {
+.guidelines-buttons .best-practice-tips-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -130,6 +118,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.guidelines-buttons .best-practice-tips-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 913px;
+  white-space: nowrap;
+  width: auto;
+}
 .guidelines-buttons .button-states-C61RwL {
   background-color: transparent;
   height: auto;
@@ -139,6 +139,19 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 3568px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-buttons .buttons-05jha3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 327px;
   white-space: nowrap;
   width: auto;
 }
@@ -187,19 +200,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 7602px;
   width: 580px;
 }
-.guidelines-buttons .buttons-enGkxY {
-  background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: 327px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-buttons .buttonstates-C61RwL {
   background-color: transparent;
   border-radius: 12px;
@@ -210,7 +210,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 3538px;
   width: 640px;
 }
-.guidelines-buttons .colors-enGkxY {
+.guidelines-buttons .colors-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -223,7 +223,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-buttons .content-of-this-page-enGkxY {
+.guidelines-buttons .content-of-this-page-05jha3 {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -311,7 +311,7 @@ opacity: 0;transform: translate(0, 25px);
   position: relative;
   width: 25px;
 }
-.guidelines-buttons .fonts-enGkxY {
+.guidelines-buttons .fonts-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -323,18 +323,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 243px;
   white-space: nowrap;
   width: auto;
-}
-.guidelines-buttons .gruppe-1171-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 35px #00000029;
-  display: block;
-  height: 503px;
-  left: 160px;
-  position: fixed;
-  top: 190px;
-  width: 340px;
-opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-buttons .gruppe-496-GCEBCP {
   align-items: flex-start;
@@ -428,7 +416,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 335px;
 }
-.guidelines-buttons .icons-enGkxY {
+.guidelines-buttons .icons-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -463,6 +451,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 6419px;
   width: 371px;
 }
+.guidelines-buttons .in-page-navigation-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 35px #00000029;
+  display: block;
+  height: 503px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+opacity: 0;transform: translate(0, 25px);
+}
 .guidelines-buttons .komponente-25-1-C61RwL {
   background-color: transparent;
   cursor: pointer;
@@ -481,7 +481,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 4891px;
   width: 142px;
 }
-.guidelines-buttons .layout-enGkxY {
+.guidelines-buttons .layout-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -596,7 +596,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 5839px;
   width: 362px;
 }
-.guidelines-buttons .navigation-enGkxY {
+.guidelines-buttons .navigation-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -715,7 +715,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 3478px;
   width: 1180px;
 }
-.guidelines-buttons .rechteck-663-enGkxY {
+.guidelines-buttons .rechteck-663-05jha3 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
   height: 26px;
@@ -956,19 +956,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-buttons .usage-of-buttons-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 4741px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-buttons .usage-of-buttons-enGkxY {
+.guidelines-buttons .usage-of-buttons-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -978,6 +966,18 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 409px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-buttons .usage-of-buttons-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4741px;
   white-space: nowrap;
   width: auto;
 }
@@ -1014,19 +1014,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 987px;
   width: 666px;
 }
-.guidelines-buttons .when-to-use-buttons-or-links-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 7529px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-buttons .when-to-use-buttons-or-links-enGkxY {
+.guidelines-buttons .when-to-use-buttons-or-links-05jha3 {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -1036,6 +1024,18 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 450px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-buttons .when-to-use-buttons-or-links-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 7529px;
   white-space: nowrap;
   width: auto;
 }
