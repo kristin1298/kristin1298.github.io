@@ -4,8 +4,7 @@
   --coconut: #fdfdfe;
   --dove-gray: #707070;
   --log-cabin: #212121;
-  --log-cabin-2: #202121;
-  --log-cabin-3: #20212199;
+  --log-cabin-2: #20212199;
   --shark: #2a2a2a;
   --white: #ffffff;
   --white-2: #ffffffd9;
@@ -76,14 +75,14 @@
   font-weight: 500;
 }
 .roboto-normal-log-cabin-20px {
-  color: var(--log-cabin-3);
+  color: var(--log-cabin);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
 .roboto-normal-log-cabin-20px-2 {
-  color: var(--log-cabin);
+  color: var(--log-cabin-2);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -122,9 +121,6 @@
 }
 .border-1px-white-lilac {
   border: 1px solid var(--white-lilac);
-}
-.border-1-5px-log-cabin-2 {
-  border: 1.5px solid var(--log-cabin-2);
 }
 .border-1px-dove-gray {
   border: 1px solid var(--dove-gray);

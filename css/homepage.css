@@ -1,9 +1,9 @@
 /* screen - homepage */
 
-.animate-enter {
-  animation: animate-enter-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter14 {
+  animation: animate-enter14-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage {
   background-color: var(--coconut);
@@ -13,44 +13,64 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter10 {
+  animation: animate-enter10-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter11 {
+  animation: animate-enter11-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter12 {
+  animation: animate-enter12-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter13 {
+  animation: animate-enter13-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .homepage .apply-what-you-have-learned-OtUnre {
   background-color: transparent;
-  height: auto;
+  height: 39px;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 30px;
+  top: calc(22.90% - 9px);
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 108px);
 }
 .homepage .bannerhome-C61RwL {
   background-color: transparent;
+  display: block;
   height: 900px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 90px;
+  top: 0px;
   width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage .design-guide-Ab0iYm {
   background-color: transparent;
+  bottom: 10.53%;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: 21px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
   text-decoration: underline;
   white-space: nowrap;
-  width: 96px;
+  width: calc(100.00% + 2px);
 }
 .homepage .design-guide-C61RwL {
   background-color: transparent;
@@ -80,27 +100,29 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .ebene-2-1nQLJJ {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  position: relative;
-  width: 24px;
+  height: calc(100.00% - 23px);
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 25px;
 }
 .homepage .ebene-2-C61RwL {
   background-color: transparent;
   height: 100px;
   left: 910px;
   position: absolute;
-  top: 1549px;
+  top: 1459px;
   width: 100px;
 }
 .homepage .ellipse-250-2FPvRF {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
+  bottom: 0px;
   height: 57px;
   left: 0px;
   position: absolute;
-  top: 1170px;
-  width: 57px;
+  width: 100%;
 }
 .homepage .ellipse-250-2VA0c5 {
   background-color: var(--chetwode-blue);
@@ -108,8 +130,8 @@ opacity: 0;transform: translate(0, 25px);
   height: 57px;
   left: 0px;
   position: absolute;
-  top: 585px;
-  width: 57px;
+  top: calc(50.00% - 28px);
+  width: 100%;
 }
 .homepage .ellipse-250-xnk0ta {
   background-color: var(--chetwode-blue);
@@ -118,16 +140,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 57px;
-}
-.homepage .ellipse-273-Ym1yJN {
-  background-color: transparent;
-  border-radius: 9.5px;
-  height: 20px;
-  left: -1px;
-  position: absolute;
-  top: -1px;
-  width: 20px;
+  width: 100%;
 }
 .homepage .get-an-overview-C61RwL {
   background-color: transparent;
@@ -137,7 +150,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 1190px;
+  top: 1100px;
   white-space: nowrap;
   width: auto;
 }
@@ -146,100 +159,72 @@ opacity: 0;transform: translate(0, 25px);
   height: 1227px;
   left: 932px;
   position: absolute;
-  top: 2105px;
+  top: 2015px;
   width: 57px;
 }
-.homepage .gruppe-47-8iatwi {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 31px;
-  position: relative;
-  width: 25px;
-}
 .homepage .gruppe-496-C61RwL {
-  align-items: flex-start;
   background-color: var(--white-lilac);
   border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 48px;
-  justify-content: flex-start;
   left: 514px;
-  min-width: 566px;
-  padding: 11.0px 24.0px;
   position: absolute;
   top: 21px;
-  width: auto;
+  width: 566px;
 }
 .homepage .gruppe-616-C61RwL {
   background-color: transparent;
+  display: block;
   height: 170px;
   left: 1089px;
   position: absolute;
-  top: 3255px;
+  top: 3165px;
   width: 492px;
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage .gruppe-617-C61RwL {
   background-color: transparent;
+  display: block;
   height: 218px;
   left: 388px;
   position: absolute;
-  top: 2670px;
+  top: 2580px;
   width: 444px;
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage .gruppe-618-C61RwL {
   background-color: transparent;
+  display: block;
   height: 194px;
   left: 1089px;
   position: absolute;
-  top: 2085px;
+  top: 1995px;
   width: 534px;
-}
-.homepage .gruppe-723-C61RwL {
-  align-items: flex-start;
-  background-color: var(--white);
-  border-radius: 50.5px;
-  box-shadow: 0px 0px 15px #0000001a;
-  box-sizing: border-box;
-  cursor: pointer;
-  display: flex;
-  flex-direction: row;
-  height: 101px;
-  justify-content: flex-start;
-  left: 910px;
-  min-width: 101px;
-  padding: 35.1px 37.7px;
-  position: absolute;
-  top: 853px;
-  width: auto;
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage .here-2sJKf9 {
   background-color: transparent;
+  bottom: 10.53%;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: 21px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 36px;
-  position: relative;
+  position: absolute;
   text-align: left;
   text-decoration: underline;
   white-space: nowrap;
-  width: 36px;
+  width: calc(100.00% + 2px);
 }
 .homepage .improve-your-wo-to-your-designs-OtUnre {
   background-color: transparent;
-  height: auto;
+  bottom: calc(25.60% - 12px);
+  height: 45px;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 93px;
-  width: 400px;
+  width: calc(100.00% - 92px);
 }
 .homepage .improve-your-work-C61RwL {
   background-color: transparent;
@@ -249,41 +234,29 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 50px;
   position: absolute;
   text-align: left;
-  top: 450px;
+  top: 360px;
   white-space: nowrap;
   width: auto;
 }
 .homepage .komponente-3-1-Ievvxw {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  bottom: calc(30.86% - 6px);
   height: 19px;
-  justify-content: flex-start;
-  left: 133px;
-  min-width: 36px;
+  left: calc(26.60% - 9px);
   position: absolute;
-  top: 121px;
-  width: auto;
+  width: 34px;
 }
 .homepage .komponente-4-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 418px;
-  min-width: 96px;
   position: absolute;
-  top: 2839px;
-  width: auto;
+  top: 2749px;
+  width: 96px;
 }
 .homepage .learn-design-principles-VMwTyA {
   background-color: transparent;
-  height: auto;
+  height: 39px;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
@@ -291,23 +264,23 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   top: 30px;
   white-space: nowrap;
-  width: auto;
+  width: 314px;
 }
 .homepage .learn-more-abou-he-design-guide-VMwTyA {
   background-color: transparent;
-  height: auto;
+  bottom: 32px;
+  height: 93px;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 93px;
-  width: 352px;
+  width: calc(100.00% - 92px);
 }
 .homepage .linie-393-2VA0c5 {
   background-color: transparent;
-  height: 1172px;
-  left: 28px;
+  height: calc(100.00% - 55px);
+  left: calc(50.00% - 1px);
   object-fit: cover;
   position: absolute;
   top: 28px;
@@ -319,31 +292,17 @@ opacity: 0;transform: translate(0, 25px);
   left: 846px;
   object-fit: cover;
   position: absolute;
-  top: 1236px;
+  top: 1146px;
   width: 44px;
 }
-.homepage .linie-53-VgC0o0 {
+.homepage .logo-C61RwL {
   background-color: transparent;
-  height: 34px;
-  left: 11px;
+  height: 26px;
+  left: 160px;
   object-fit: cover;
   position: absolute;
-  top: -2px;
-  width: 3px;
-}
-.homepage .logo-C61RwL {
-  align-items: center;
-  background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  height: 25px;
-  justify-content: flex-start;
-  left: 160px;
-  min-width: 151px;
-  position: absolute;
   top: 32px;
-  width: auto;
+  width: 153px;
 }
 .homepage .on-this-website-design-elements-C61RwL {
   background-color: transparent;
@@ -357,142 +316,26 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 536px;
+  top: 446px;
   width: 613px;
-}
-.homepage .overlap-group-exFKkL {
-  align-self: flex-start;
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 25px;
-  margin-left: 0px;
-  margin-top: -0.0px;
-  position: relative;
-  width: 19px;
-}
-.homepage .pfad-1-VgC0o0 {
-  background-color: transparent;
-  height: 15px;
-  left: -2px;
-  object-fit: cover;
-  position: absolute;
-  top: 18px;
-  width: 17px;
 }
 .homepage .pfad-1350-WxfySK {
   background-color: transparent;
-  height: 130px;
+  height: calc(100.00% + 30px);
   left: -15px;
   object-fit: cover;
   position: absolute;
   top: -14px;
-  width: 130px;
-}
-.homepage .pfad-1373-exFKkL {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-bottom: 0.0px;
-  margin-left: 9px;
-  object-fit: cover;
-  position: relative;
-  width: 19px;
-}
-.homepage .pfad-1374-exFKkL {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-left: 4px;
-  margin-top: 0.0px;
-  object-fit: cover;
-  position: relative;
-  width: 18px;
-}
-.homepage .pfad-1375-exFKkL {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-left: 4px;
-  margin-top: 0.0px;
-  object-fit: cover;
-  position: relative;
-  width: 4px;
-}
-.homepage .pfad-1376-exFKkL {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-bottom: 0.0px;
-  margin-left: 5px;
-  object-fit: cover;
-  position: relative;
-  width: 18px;
-}
-.homepage .pfad-1377-exFKkL {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 24px;
-  margin-left: 4px;
-  margin-top: 0.01px;
-  object-fit: cover;
-  position: relative;
-  width: 16px;
-}
-.homepage .pfad-1378-EwonSQ {
-  background-color: transparent;
-  height: 25px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 19px;
-}
-.homepage .pfad-1379-EwonSQ {
-  background-color: transparent;
-  height: 25px;
-  left: 14px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 4px;
-}
-.homepage .pfad-1380-exFKkL {
-  align-self: flex-start;
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 25px;
-  margin-left: 6px;
-  margin-top: -0.0px;
-  object-fit: cover;
-  position: relative;
-  width: 21px;
-}
-.homepage .pfad-2-VgC0o0 {
-  background-color: transparent;
-  height: 15px;
-  left: 10px;
-  object-fit: cover;
-  position: absolute;
-  top: 18px;
-  width: 17px;
+  width: calc(100.00% + 30px);
 }
 .homepage .pfad-841-WxfySK {
   background-color: transparent;
+  bottom: calc(47.44% - 29px);
   height: 61px;
-  left: 28px;
   object-fit: cover;
   position: absolute;
-  top: 21px;
+  right: calc(42.45% - 21px);
   width: 51px;
-}
-.homepage .pfad-895-Ym1yJN {
-  background-color: transparent;
-  height: 9px;
-  left: 15px;
-  object-fit: cover;
-  position: absolute;
-  top: 15px;
-  width: 9px;
 }
 .homepage .polygon-5-Ievvxw {
   background-color: transparent;
@@ -500,16 +343,16 @@ opacity: 0;transform: translate(0, 25px);
   left: -22px;
   object-fit: cover;
   position: absolute;
-  top: 13px;
+  top: calc(11.34% - 9px);
   width: 80px;
 }
 .homepage .polygon-5-VMwTyA {
   background-color: transparent;
   height: 75px;
-  left: 386px;
   object-fit: cover;
   position: absolute;
-  top: 14px;
+  right: -22px;
+  top: calc(9.44% - 7px);
   width: 80px;
 }
 .homepage .polygon-6-Ievvxw {
@@ -518,16 +361,16 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 34px;
+  top: calc(20.73% - 6px);
   width: 35px;
 }
 .homepage .polygon-6-VMwTyA {
   background-color: transparent;
   height: 30px;
-  left: 409px;
   object-fit: cover;
   position: absolute;
-  top: 34px;
+  right: 0px;
+  top: calc(18.09% - 5px);
   width: 35px;
 }
 .homepage .polygon-7-OtUnre {
@@ -536,7 +379,7 @@ opacity: 0;transform: translate(0, 25px);
   left: -22px;
   object-fit: cover;
   position: absolute;
-  top: 13px;
+  top: calc(14.21% - 11px);
   width: 80px;
 }
 .homepage .polygon-8-OtUnre {
@@ -545,7 +388,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 34px;
+  top: calc(24.29% - 7px);
   width: 35px;
 }
 .homepage .rechteck-1-C61RwL {
@@ -561,31 +404,31 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 194px;
+  height: 100%;
   left: 34px;
   position: absolute;
   top: 0px;
-  width: 500px;
+  width: calc(100.00% - 34px);
 }
 .homepage .rechteck-1335-VMwTyA {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 218px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 410px;
+  width: calc(100.00% - 34px);
 }
 .homepage .rechteck-1339-OtUnre {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 170px;
+  height: 100%;
   left: 34px;
   position: absolute;
   top: 0px;
-  width: 458px;
+  width: calc(100.00% - 34px);
 }
 .homepage .rechteck-572-C61RwL {
   background-color: #d4d6de;
@@ -593,7 +436,7 @@ opacity: 0;transform: translate(0, 25px);
   height: 584px;
   left: 440px;
   position: absolute;
-  top: 1307px;
+  top: 1217px;
   width: 1040px;
 }
 .homepage .resources-C61RwL {
@@ -609,17 +452,26 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.homepage .scrollto-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 140px;
+  left: 890px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 140px;
+}
 .homepage .search-1nQLJJ {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
+  bottom: calc(45.45% - 12px);
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 14px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
   width: 171px;
@@ -647,29 +499,49 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .to-create-an-ap-comes-to-action-Ievvxw {
   background-color: transparent;
-  height: auto;
+  bottom: calc(25.60% - 18px);
+  height: 69px;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 93px;
-  width: 446px;
+  width: calc(100.00% - 88px);
 }
 .homepage .understand-the-design-process-Ievvxw {
   background-color: transparent;
-  height: auto;
+  height: 39px;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 30px;
+  top: calc(19.35% - 8px);
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 115px);
 }
-@keyframes animate-enter-frames {
+@keyframes animate-enter10-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter11-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter12-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter13-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter14-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

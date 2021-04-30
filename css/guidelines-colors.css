@@ -1,34 +1,32 @@
 /* screen - guidelines-colors */
 
-.animate-enter7 {
-  animation: animate-enter7-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter20 {
+  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors {
   background-color: var(--coconut);
   display: block;
-  height: 100vh;
-  margin: 0px;
-  min-height: 9720px;
-  min-width: 1920px;
+  height: 9720px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 100%;
-opacity: 0;transform: translate(0, 25px);
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-colors .accessibility-C61RwL {
+.guidelines-colors .accessibility-SlfQEA {
   background-color: transparent;
-  height: 21px;
-  left: 190px;
+  cursor: pointer;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 310px;
+  top: 120px;
   white-space: nowrap;
-  width: 91px;
+  width: auto;
 }
 .guidelines-colors .activity-Nxhxrq {
   background-color: transparent;
@@ -78,6 +76,16 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 42px;
 }
+.guidelines-colors .animate-enter18 {
+  animation: animate-enter18-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-colors .animate-enter19 {
+  animation: animate-enter19-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
 .guidelines-colors .artificial-TWYX0v {
   background-color: transparent;
   height: 21px;
@@ -116,33 +124,35 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .avoid-using-gra-miliar-to-users-C61RwL {
   background-color: transparent;
-  height: 93px;
-  left: calc(40.63% - 140px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(25.69% - 24px);
+  top: 2473px;
   width: 345px;
 }
 .guidelines-colors .bannercolors-C61RwL {
   background-color: transparent;
+  display: block;
   height: 700px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 90px;
-  width: 100%;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .besides-aesthet-ant-the-user-to-C61RwL {
   background-color: transparent;
-  height: 141px;
-  left: calc(41.53% - 157px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(19.76% - 28px);
+  top: 1893px;
   width: 379px;
 }
 .guidelines-colors .bitterness-uuLza6 {
@@ -229,18 +239,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 87px;
 }
-.guidelines-colors .buttons-C61RwL {
+.guidelines-colors .buttons-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 599px;
+  top: 409px;
   white-space: nowrap;
-  width: 57px;
+  width: auto;
 }
 .guidelines-colors .caring-TWYX0v {
   background-color: transparent;
@@ -316,13 +326,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .cmyk-is-the-col-at-accuracy-and-C61RwL {
   background-color: transparent;
-  bottom: calc(43.77% - 72px);
-  height: 165px;
-  left: calc(40.84% - 144px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 5373px;
   width: 353px;
 }
 .guidelines-colors .coldness-3OEtxU {
@@ -339,113 +349,113 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .color-meaning-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(37.17% - 74px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 1825px;
   white-space: nowrap;
-  width: 198px;
+  width: auto;
 }
 .guidelines-colors .color-psychology-C61RwL {
   background-color: transparent;
-  bottom: calc(39.11% - 15px);
-  height: 39px;
-  left: calc(34.40% - 80px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 5895px;
   white-space: nowrap;
-  width: 234px;
+  width: auto;
 }
-.guidelines-colors .color-psychology-VMr6Om {
+.guidelines-colors .color-psychology-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: fixed;
-  text-align: left;
-  top: 435px;
-  white-space: nowrap;
-  width: 124px;
-}
-.guidelines-colors .color-saturatio-aturated-colors-C61RwL {
-  background-color: transparent;
-  height: 117px;
-  left: calc(39.41% - 117px);
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(43.82% - 51px);
+  top: 245px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-colors .color-saturatio-aturated-colors-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 640px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4208px;
   width: 296px;
 }
 .guidelines-colors .color-saturation-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(37.60% - 82px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(42.82% - 17px);
+  top: 4145px;
   white-space: nowrap;
-  width: 218px;
+  width: auto;
 }
 .guidelines-colors .colormeaning-C61RwL {
   background-color: transparent;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(19.18% - 69px);
+  top: 1795px;
   width: 640px;
 }
 .guidelines-colors .colors-C61RwL {
   background-color: transparent;
-  height: 63px;
-  left: calc(32.73% - 48px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 50px;
   position: absolute;
   text-align: left;
   top: 339px;
   white-space: nowrap;
-  width: 148px;
+  width: auto;
 }
-.guidelines-colors .colors-VMr6Om {
+.guidelines-colors .colors-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 353px;
+  top: 163px;
   white-space: nowrap;
-  width: 48px;
+  width: auto;
 }
 .guidelines-colors .colors-can-spea-connotation-for-C61RwL {
   background-color: transparent;
-  height: 146px;
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
-  right: calc(48.17% - 386px);
   text-align: left;
   top: 425px;
   width: 801px;
 }
 .guidelines-colors .colors-can-spea-nnotation-for-a-C61RwL {
   background-color: transparent;
-  height: 69px;
-  left: calc(48.54% - 352px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
@@ -456,23 +466,23 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .colorsaturation-C61RwL {
   background-color: transparent;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(43.96% - 158px);
+  top: 4115px;
   width: 640px;
 }
-.guidelines-colors .content-of-this-page-C61RwL {
+.guidelines-colors .content-of-this-page-SlfQEA {
   background-color: transparent;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 222px;
+  top: 32px;
   white-space: nowrap;
-  width: 147px;
+  width: auto;
 }
 .guidelines-colors .conviviality-Pg7D70 {
   background-color: transparent;
@@ -500,26 +510,26 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .denotative-colo-ne-of-your-bran-C61RwL {
   background-color: transparent;
-  bottom: calc(49.71% - 94px);
-  height: 189px;
-  left: calc(40.84% - 144px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 4793px;
   width: 353px;
 }
 .guidelines-colors .denotative-colors-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(38.03% - 90px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(48.81% - 19px);
+  top: 4725px;
   white-space: nowrap;
-  width: 237px;
+  width: auto;
 }
 .guidelines-colors .design-guide-GCEBCP {
   background-color: transparent;
@@ -573,24 +583,24 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .detonativecolors-C61RwL {
   background-color: transparent;
-  bottom: calc(49.84% - 179px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 4695px;
   width: 640px;
 }
 .guidelines-colors .different-studi-rand-or-product-C61RwL {
   background-color: transparent;
-  bottom: calc(38.14% - 26px);
-  height: 69px;
-  left: calc(46.89% - 320px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 5970px;
   white-space: nowrap;
-  width: 683px;
+  width: auto;
 }
 .guidelines-colors .dignity-ToxedY {
   background-color: transparent;
@@ -618,23 +628,23 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .dont-use-cmyk-C61RwL {
   background-color: transparent;
-  bottom: calc(45.20% - 18px);
-  height: 39px;
-  left: calc(37.56% - 81px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 5305px;
   white-space: nowrap;
-  width: 216px;
+  width: auto;
 }
 .guidelines-colors .dontusecmyk-C61RwL {
   background-color: transparent;
-  bottom: calc(43.64% - 157px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 5275px;
   width: 640px;
 }
 .guidelines-colors .drama-jZek9g {
@@ -651,11 +661,12 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .ebene-2-SZqgts {
   background-color: transparent;
-  height: 24px;
-  left: 25px;
+  height: calc(100.00% - 23px);
+  left: 24px;
+  object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 12px);
-  width: 24px;
+  top: 11px;
+  width: 25px;
 }
 .guidelines-colors .elegance-jZek9g {
   background-color: transparent;
@@ -668,15 +679,6 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(43.24% - 9px);
   white-space: nowrap;
   width: 66px;
-}
-.guidelines-colors .ellipse-273-6tzNvg {
-  background-color: transparent;
-  border-radius: 9.5px;
-  height: 20px;
-  left: -1px;
-  position: absolute;
-  top: -1px;
-  width: 20px;
 }
 .guidelines-colors .emptiness-ARkcuT {
   background-color: transparent;
@@ -738,18 +740,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 85px;
 }
-.guidelines-colors .fonts-C61RwL {
+.guidelines-colors .fonts-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 517px;
+  top: 327px;
   white-space: nowrap;
-  width: 42px;
+  width: auto;
 }
 .guidelines-colors .fun-WSCP6e {
   background-color: transparent;
@@ -789,44 +791,44 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .grayscale-first-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(37.10% - 72px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 1245px;
   white-space: nowrap;
-  width: 195px;
+  width: auto;
 }
 .guidelines-colors .grayscalefirst-C61RwL {
   background-color: transparent;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
   top: 1215px;
   width: 640px;
 }
 .guidelines-colors .great-contrasts-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(37.41% - 78px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(30.83% - 12px);
+  top: 2985px;
   white-space: nowrap;
-  width: 209px;
+  width: auto;
 }
 .guidelines-colors .greatcontrasts-C61RwL {
   background-color: transparent;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(31.57% - 114px);
+  top: 2955px;
   width: 640px;
 }
 .guidelines-colors .green-uuLza6 {
@@ -865,6 +867,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 34px;
 }
+.guidelines-colors .gruppe-1167-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  display: block;
+  height: 462px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+opacity: 0;transform: translate(0, 25px);
+}
 .guidelines-colors .gruppe-496-GCEBCP {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -881,7 +895,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-colors .gruppe-666-ToxedY {
   background-color: transparent;
@@ -903,119 +917,119 @@ opacity: 0;transform: translate(0, 25px);
   background: linear-gradient(229.94deg, #9454e9 0.8%, #c8aaf1 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(33.55% - 161px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
-  left: calc(42.65% - 239px);
+  left: 580px;
   position: absolute;
+  top: 6140px;
   width: 560px;
 }
 .guidelines-colors .gruppe-746-C61RwL {
   background: linear-gradient(229.4deg, #4182e1 0%, #9cdbff 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(33.55% - 161px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 1200px;
   position: absolute;
-  right: 160px;
+  top: 6140px;
   width: 560px;
 }
 .guidelines-colors .gruppe-747-C61RwL {
   background: linear-gradient(229.4deg, #3ebf61 0%, #a1e0b2 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(27.27% - 131px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
-  left: calc(42.65% - 239px);
+  left: 580px;
   position: absolute;
+  top: 6720px;
   width: 560px;
 }
 .guidelines-colors .gruppe-748-C61RwL {
   background: linear-gradient(229.4deg, #f4f43e 0%, #fffdb7 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(27.27% - 131px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 1200px;
   position: absolute;
-  right: 160px;
+  top: 6720px;
   width: 560px;
 }
 .guidelines-colors .gruppe-749-C61RwL {
   background: linear-gradient(229.4deg, #ffad03 0%, #ffba7e 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(21.00% - 101px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
-  left: calc(42.65% - 239px);
+  left: 580px;
   position: absolute;
+  top: 7300px;
   width: 560px;
 }
 .guidelines-colors .gruppe-750-C61RwL {
   background: linear-gradient(229.4deg, #cf2626 0%, #f97979 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(21.00% - 101px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 1200px;
   position: absolute;
-  right: 160px;
+  top: 7300px;
   width: 560px;
 }
 .guidelines-colors .gruppe-751-C61RwL {
   background: linear-gradient(229.4deg, #fa7fbc 0%, #ffbadd 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: 1360px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
-  left: calc(42.65% - 239px);
+  left: 580px;
   position: absolute;
+  top: 7880px;
   width: 560px;
 }
 .guidelines-colors .gruppe-752-C61RwL {
   background: linear-gradient(229.4deg, #8a3c28 0%, #d57962 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: 1360px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 1200px;
   position: absolute;
-  right: 160px;
+  top: 7880px;
   width: 560px;
 }
 .guidelines-colors .gruppe-753-C61RwL {
   background: linear-gradient(229.4deg, #393939 0%, #595959 100%);
   background-color: transparent;
   border-radius: 12px;
-  bottom: 780px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
-  left: calc(42.65% - 239px);
+  left: 580px;
   position: absolute;
+  top: 8460px;
   width: 560px;
 }
 .guidelines-colors .gruppe-754-C61RwL {
   background-color: var(--black);
   border-radius: 12px;
-  bottom: 780px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 1200px;
   position: absolute;
-  right: 160px;
+  top: 8460px;
   width: 560px;
 }
 .guidelines-colors .gruppe-755-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: 200px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
-  left: calc(42.65% - 239px);
+  left: 580px;
   position: absolute;
+  top: 9040px;
   width: 560px;
 }
 .guidelines-colors .hardness-3OEtxU {
@@ -1091,28 +1105,28 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 37px;
 }
-.guidelines-colors .icons-C61RwL {
+.guidelines-colors .icons-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: fixed;
-  text-align: left;
-  top: 558px;
-  white-space: nowrap;
-  width: 41px;
-}
-.guidelines-colors .if-you-want-to-chology-go-here-C61RwL {
-  background-color: transparent;
-  height: 45px;
-  left: calc(40.79% - 143px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(21.16% - 10px);
+  top: 368px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-colors .if-you-want-to-chology-go-here-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 640px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2047px;
   width: 351px;
 }
 .guidelines-colors .imagination-ToxedY {
@@ -1238,23 +1252,23 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .komponente-10-1-C61RwL {
   background-color: transparent;
   height: 19px;
-  left: calc(35.04% - 11px);
+  left: 662px;
   position: absolute;
-  top: calc(21.39% - 4px);
-  width: 31px;
+  top: 2075px;
+  width: 33px;
 }
-.guidelines-colors .layout-C61RwL {
+.guidelines-colors .layout-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 269px;
+  top: 79px;
   white-space: nowrap;
-  width: 50px;
+  width: auto;
 }
 .guidelines-colors .laziness-Pg7D70 {
   background-color: transparent;
@@ -1319,7 +1333,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .linie-456-C61RwL {
   background-color: transparent;
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
   top: 956px;
@@ -1327,11 +1341,11 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .linie-457-C61RwL {
   background-color: transparent;
-  bottom: calc(38.86% - 2px);
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
+  top: 5940px;
   width: 44px;
 }
 .guidelines-colors .linie-57-3OEtxU {
@@ -1645,12 +1659,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .logo-GCEBCP {
   background-color: transparent;
-  bottom: calc(50.00% - 13px);
   cursor: pointer;
-  height: 25px;
+  height: 26px;
   left: 160px;
+  object-fit: cover;
   position: absolute;
-  width: 151px;
+  top: calc(50.00% - 13px);
+  width: 153px;
 }
 .guidelines-colors .loneliness-ToxedY {
   background-color: transparent;
@@ -1724,18 +1739,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 85px;
 }
-.guidelines-colors .navigation-C61RwL {
+.guidelines-colors .navigation-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 476px;
+  top: 286px;
   white-space: nowrap;
-  width: 78px;
+  width: auto;
 }
 .guidelines-colors .negation-jZek9g {
   background-color: transparent;
@@ -1845,87 +1860,6 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 85px;
 }
-.guidelines-colors .pfad-1373-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  left: calc(42.60% - 8px);
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 19px;
-}
-.guidelines-colors .pfad-1374-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(39.84% - 7px);
-  top: 1px;
-  width: 18px;
-}
-.guidelines-colors .pfad-1375-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(29.86% - 1px);
-  top: 1px;
-  width: 4px;
-}
-.guidelines-colors .pfad-1376-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: 1px;
-  width: 18px;
-}
-.guidelines-colors .pfad-1377-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
-  width: 16px;
-}
-.guidelines-colors .pfad-1378-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 19px;
-}
-.guidelines-colors .pfad-1379-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 14px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 4px;
-}
-.guidelines-colors .pfad-1380-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: calc(19.24% - 4px);
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 21px;
-}
-.guidelines-colors .pfad-895-6tzNvg {
-  background-color: transparent;
-  bottom: 0px;
-  height: 9px;
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  width: 9px;
-}
 .guidelines-colors .pink-TWYX0v {
   background-color: transparent;
   height: 39px;
@@ -1964,23 +1898,23 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .pure-grayscale-and-black-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(40.58% - 139px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(24.84% - 10px);
+  top: 2405px;
   white-space: nowrap;
-  width: 343px;
+  width: auto;
 }
 .guidelines-colors .puregrayscaleandblack-C61RwL {
   background-color: transparent;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(25.37% - 91px);
+  top: 2375px;
   width: 640px;
 }
 .guidelines-colors .purity-ARkcuT {
@@ -2046,11 +1980,11 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .rechteck-10-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(49.84% - 239px);
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 4635px;
   width: 1180px;
 }
 .guidelines-colors .rechteck-10-VMr6Om {
@@ -2058,9 +1992,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(43.89% - 211px);
+  top: 4055px;
   width: 1180px;
 }
 .guidelines-colors .rechteck-10-mzXdH9 {
@@ -2068,9 +2002,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(37.61% - 181px);
+  top: 3475px;
   width: 1180px;
 }
 .guidelines-colors .rechteck-1540-C61RwL {
@@ -2078,9 +2012,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(18.78% - 90px);
+  top: 1735px;
   width: 1180px;
 }
 .guidelines-colors .rechteck-1542-C61RwL {
@@ -2088,8 +2022,8 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
   top: 1155px;
   width: 1180px;
 }
@@ -2098,9 +2032,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(25.05% - 120px);
+  top: 2315px;
   width: 1180px;
 }
 .guidelines-colors .rechteck-1549-C61RwL {
@@ -2108,38 +2042,28 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(31.33% - 150px);
+  top: 2895px;
   width: 1180px;
 }
 .guidelines-colors .rechteck-1682-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(43.56% - 209px);
   box-shadow: 0px 1px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 5215px;
   width: 1180px;
 }
-.guidelines-colors .rechteck-616-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000029;
-  height: 462px;
-  left: 160px;
-  position: fixed;
-  top: 190px;
-  width: 340px;
-}
-.guidelines-colors .rechteck-663-C61RwL {
+.guidelines-colors .rechteck-663-SlfQEA {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
   height: 26px;
-  left: 190px;
-  position: fixed;
-  top: 353px;
+  left: 30px;
+  position: absolute;
+  top: 163px;
   width: 3px;
 }
 .guidelines-colors .red-hV1s0x {
@@ -2330,13 +2254,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .some-colors-go-essary-to-do-so-C61RwL {
   background-color: transparent;
-  height: 117px;
-  left: calc(41.03% - 148px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(31.79% - 37px);
+  top: 3053px;
   width: 360px;
 }
 .guidelines-colors .span0-xGV5G1 {
@@ -2410,26 +2334,26 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .the-60-30-10-is-ther-complement-C61RwL {
   background-color: transparent;
-  height: 213px;
-  left: calc(40.63% - 140px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(38.21% - 81px);
+  top: 3633px;
   width: 345px;
 }
 .guidelines-colors .the-60-30-10-ratio-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(39.51% - 119px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(36.82% - 14px);
+  top: 3565px;
   white-space: nowrap;
-  width: 300px;
+  width: auto;
 }
 .guidelines-colors .thoughtfulness-lhtMCB {
   background-color: transparent;
@@ -2493,28 +2417,28 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .usage-of-colors-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(33.98% - 72px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 910px;
   white-space: nowrap;
-  width: 213px;
+  width: auto;
 }
-.guidelines-colors .usage-of-colors-VMr6Om {
+.guidelines-colors .usage-of-colors-SlfQEA {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 394px;
+  top: 204px;
   white-space: nowrap;
-  width: 114px;
+  width: auto;
 }
 .guidelines-colors .vanity-ToxedY {
   background-color: transparent;
@@ -2554,8 +2478,8 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .we-like-to-play-nts-this-will-s-C61RwL {
   background-color: transparent;
-  height: 141px;
-  left: calc(41.53% - 157px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
@@ -2601,108 +2525,108 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .x01-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
   top: 1212px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x02-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
   top: 1792px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x03-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(24.44% - 4px);
+  top: 2372px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x04-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(30.42% - 5px);
+  top: 2952px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x05-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(36.40% - 6px);
+  top: 3532px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x06-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(42.37% - 7px);
+  top: 4112px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x07-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(48.35% - 8px);
+  top: 4692px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x08-C61RwL {
   background-color: transparent;
-  bottom: calc(45.67% - 8px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 5272px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-colors .x603010ratio-C61RwL {
   background-color: transparent;
   border-radius: 12px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(37.77% - 136px);
+  top: 3535px;
   width: 640px;
 }
 .guidelines-colors .yellow-Nxhxrq {
@@ -2729,8 +2653,18 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 41px;
 }
-@keyframes animate-enter7-frames {
+@keyframes animate-enter18-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter19-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter20-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

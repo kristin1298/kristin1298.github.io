@@ -1,42 +1,76 @@
 /* screen - design-process */
 
-.animate-enter4 {
-  animation: animate-enter4-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter9 {
+  animation: animate-enter9-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process {
   background-color: var(--coconut);
   display: block;
-  height: 100vh;
-  margin: 0px;
-  min-height: 6528px;
-  min-width: 1920px;
+  height: 6528px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 100%;
-opacity: 0;transform: translate(0, 25px);
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
-.design-process .a-wireframe-is-e-beginning-and-C61RwL {
+.design-process .a-wireframe-is-e-beginning-and-1e7zwy {
   background-color: transparent;
-  height: 237px;
-  left: calc(24.44% - 108px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(40.69% - 96px);
+  top: 118px;
   width: 443px;
+}
+.design-process .animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter3 {
+  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter4 {
+  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter5 {
+  animation: animate-enter5-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter6 {
+  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter7 {
+  animation: animate-enter7-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter8 {
+  animation: animate-enter8-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process .bannerdesignprocess-C61RwL {
   background-color: transparent;
+  display: block;
   height: 900px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 90px;
-  width: 100%;
+  top: 0px;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process .behance-HxQN0E {
   background-color: transparent;
@@ -47,6 +81,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 16px;
   position: absolute;
   text-align: left;
+  text-decoration: underline;
   top: 0px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
@@ -85,26 +120,19 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 16px;
   position: absolute;
   text-align: left;
+  text-decoration: underline;
   top: 0px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
 .design-process .ebene-2-SZqgts {
   background-color: transparent;
-  height: 24px;
-  left: 25px;
+  height: calc(100.00% - 23px);
+  left: 24px;
+  object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 12px);
-  width: 24px;
-}
-.design-process .ellipse-273-6tzNvg {
-  background-color: transparent;
-  border-radius: 9.5px;
-  height: 20px;
-  left: -1px;
-  position: absolute;
-  top: -1px;
-  width: 20px;
+  top: 11px;
+  width: 25px;
 }
 .design-process .ellipse-402-QIcGv3 {
   background-color: var(--chetwode-blue);
@@ -142,15 +170,15 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 100%;
 }
-.design-process .first-start-ske-d-they-shouldnt-C61RwL {
+.design-process .first-start-ske-d-they-shouldnt-tD3QGc {
   background-color: transparent;
-  height: 189px;
+  height: auto;
+  left: 59px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(20.38% - 90px);
   text-align: left;
-  top: calc(20.63% - 39px);
+  top: 118px;
   width: 443px;
 }
 .design-process .get-inspiration-or-your-designs-oPz1AQ {
@@ -168,69 +196,93 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .gruppe-1037-C61RwL {
   background-color: transparent;
   height: 3760px;
+  left: 960px;
   position: absolute;
-  right: calc(48.47% - 28px);
-  top: calc(44.69% - 1680px);
+  top: 1147px;
   width: 57px;
 }
-.design-process .gruppe-1115-C61RwL {
+.design-process .gruppe-1115-tD3QGc {
   background-color: transparent;
   height: 852px;
+  left: 0px;
   position: absolute;
-  right: 274px;
-  top: calc(20.97% - 179px);
+  top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1116-C61RwL {
+.design-process .gruppe-1116-1e7zwy {
   background-color: transparent;
   height: 901px;
-  left: calc(23.80% - 126px);
+  left: 0px;
   position: absolute;
-  top: calc(43.40% - 391px);
+  top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1117-C61RwL {
+.design-process .gruppe-1117-zAfL08 {
   background-color: transparent;
-  bottom: calc(35.42% - 259px);
   height: 732px;
+  left: 0px;
   position: absolute;
-  right: 274px;
+  top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1118-C61RwL {
+.design-process .gruppe-1118-zAfL08 {
   background-color: transparent;
   background-image: url(../img/mockup@1x.png);
   background-position: 50% 50%;
   background-size: cover;
-  bottom: calc(34.34% - 159px);
   height: 463px;
+  left: 59px;
   position: absolute;
-  right: calc(20.49% - 90px);
+  top: 239px;
   width: 441px;
 }
-.design-process .gruppe-1119-C61RwL {
+.design-process .gruppe-1119-6CARtG {
   background-color: transparent;
-  bottom: 901px;
   height: 732px;
-  left: calc(23.80% - 126px);
+  left: 0px;
   position: absolute;
+  top: 0px;
   width: 529px;
 }
-.design-process .gruppe-112-Sh6Cnr {
+.design-process .gruppe-1157-C61RwL {
   background-color: transparent;
-  height: calc(100.00% - 13px);
+  display: block;
+  height: 852px;
+  left: 1117px;
   position: absolute;
-  right: calc(40.50% - 29px);
-  top: 13px;
-  width: 73px;
+  top: 1100px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
 }
-.design-process .gruppe-47-yTg9dG {
+.design-process .gruppe-1158-C61RwL {
   background-color: transparent;
-  height: 31px;
-  left: calc(49.35% - 12px);
-  position: relative;
-  top: calc(50.00% - 15px);
-  width: 25px;
+  display: block;
+  height: 901px;
+  left: 331px;
+  position: absolute;
+  top: 2352px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .gruppe-1159-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 732px;
+  left: 1117px;
+  position: absolute;
+  top: 3653px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .gruppe-1160-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 732px;
+  left: 331px;
+  position: absolute;
+  top: 4805px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-496-GCEBCP {
   background-color: var(--white-lilac);
@@ -248,107 +300,91 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
-.design-process .gruppe-663-C61RwL {
+.design-process .gruppe-663-1e7zwy {
   background-color: transparent;
   height: 364px;
-  left: calc(27.38% - 55px);
+  left: 140px;
   position: absolute;
-  top: calc(47.04% - 171px);
+  top: 457px;
   width: 200px;
-}
-.design-process .gruppe-690-C61RwL {
-  background-color: var(--white-lilac);
-  border-radius: 6px;
-  bottom: calc(37.21% - 47px);
-  height: 126px;
-  position: absolute;
-  right: calc(24.46% - 52px);
-  width: 211px;
 }
 .design-process .gruppe-705-C61RwL {
   background-color: transparent;
-  bottom: calc(41.42% - 40px);
+  display: block;
   height: 97px;
   left: 265px;
   position: absolute;
+  top: 3677px;
   width: 595px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-706-C61RwL {
   background-color: transparent;
+  display: block;
   height: 97px;
   left: 255px;
   position: absolute;
-  top: calc(18.89% - 18px);
+  top: 1125px;
   width: 605px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-707-C61RwL {
   background-color: var(--black);
   border-radius: 20px;
-  bottom: 249px;
   cursor: pointer;
   height: 99px;
-  left: calc(29.98% - 30px);
+  left: 546px;
   position: absolute;
+  top: 6090px;
   width: 99px;
 }
 .design-process .gruppe-708-C61RwL {
   background-color: transparent;
-  bottom: 454px;
   height: 48px;
-  left: calc(50.00% - 210px);
+  left: 750px;
   position: absolute;
-  width: 421px;
+  top: 5937px;
+  width: 423px;
 }
-.design-process .gruppe-719-C61RwL {
+.design-process .gruppe-719-1e7zwy {
   background-color: transparent;
   background-image: url(../img/wireframe@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 463px;
-  left: calc(24.41% - 108px);
+  left: 30px;
   position: absolute;
-  top: calc(46.97% - 217px);
+  top: 407px;
   width: 441px;
-}
-.design-process .gruppe-722-C61RwL {
-  background-color: var(--white);
-  border-radius: 50.5px;
-  box-shadow: 0px 0px 15px #0000001a;
-  cursor: pointer;
-  height: 101px;
-  position: absolute;
-  right: calc(49.97% - 50px);
-  top: 853px;
-  width: 101px;
 }
 .design-process .komponente-28-1-C61RwL {
   background-color: transparent;
-  bottom: 200px;
   cursor: pointer;
   height: 19px;
-  left: calc(30.39% - 19px);
+  left: 564px;
   position: absolute;
-  width: 64px;
+  top: 6219px;
+  width: 66px;
 }
 .design-process .komponente-29-1-C61RwL {
   background-color: transparent;
-  bottom: 200px;
   cursor: pointer;
   height: 19px;
-  left: calc(49.73% - 31px);
+  left: 924px;
   position: absolute;
-  width: 62px;
+  top: 6219px;
+  width: 64px;
 }
 .design-process .komponente-30-1-C61RwL {
   background-color: transparent;
-  bottom: 200px;
   cursor: pointer;
   height: 19px;
+  left: 1295px;
   position: absolute;
-  right: calc(30.75% - 15px);
-  width: 50px;
+  top: 6219px;
+  width: 52px;
 }
 .design-process .linie-401-oPz1AQ {
   background-color: transparent;
@@ -359,140 +395,140 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 44px;
 }
-.design-process .linie-416-wwm7Yi {
+.design-process .linie-416-mEaS2F {
   background-color: transparent;
-  height: 100%;
+  height: 364px;
   left: 17px;
   object-fit: cover;
   position: absolute;
-  top: 0px;
+  top: -0px;
   width: 1px;
 }
-.design-process .linie-417-wwm7Yi {
+.design-process .linie-417-mEaS2F {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  height: 364px;
+  left: 182px;
   object-fit: cover;
   position: absolute;
-  right: 17px;
   top: 1px;
   width: 1px;
 }
-.design-process .linie-418-wwm7Yi {
+.design-process .linie-418-mEaS2F {
   background-color: transparent;
   height: 100px;
   left: 17px;
   object-fit: cover;
   position: absolute;
   top: 31px;
-  width: calc(100.00% - 35px);
+  width: 165px;
 }
-.design-process .linie-419-wwm7Yi {
+.design-process .linie-419-mEaS2F {
   background-color: transparent;
   height: 100px;
   left: 17px;
   object-fit: cover;
   position: absolute;
   top: 31px;
-  width: calc(100.00% - 35px);
+  width: 165px;
 }
-.design-process .linie-420-wwm7Yi {
+.design-process .linie-420-mEaS2F {
   background-color: transparent;
-  bottom: calc(28.17% - 13px);
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 230px;
   width: 45px;
 }
-.design-process .linie-421-wwm7Yi {
+.design-process .linie-421-mEaS2F {
   background-color: transparent;
-  bottom: calc(28.17% - 13px);
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 230px;
   width: 45px;
 }
-.design-process .linie-422-wwm7Yi {
+.design-process .linie-422-mEaS2F {
   background-color: transparent;
-  bottom: 30px;
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 289px;
   width: 45px;
 }
-.design-process .linie-423-wwm7Yi {
+.design-process .linie-423-mEaS2F {
   background-color: transparent;
-  bottom: 30px;
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 289px;
   width: 45px;
 }
-.design-process .linie-424-wwm7Yi {
+.design-process .linie-424-mEaS2F {
   background-color: transparent;
-  bottom: calc(28.17% - 13px);
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 230px;
   width: 45px;
 }
-.design-process .linie-425-wwm7Yi {
+.design-process .linie-425-mEaS2F {
   background-color: transparent;
-  bottom: calc(28.17% - 13px);
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 230px;
   width: 45px;
 }
-.design-process .linie-426-wwm7Yi {
+.design-process .linie-426-mEaS2F {
   background-color: transparent;
-  bottom: 30px;
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 289px;
   width: 45px;
 }
-.design-process .linie-427-wwm7Yi {
+.design-process .linie-427-mEaS2F {
   background-color: transparent;
-  bottom: 30px;
   height: 45px;
   left: 17px;
   object-fit: cover;
   position: absolute;
+  top: 289px;
   width: 45px;
 }
-.design-process .linie-428-wwm7Yi {
+.design-process .linie-428-mEaS2F {
   background-color: transparent;
-  height: 100%;
+  height: 364px;
+  left: 182px;
   object-fit: cover;
   position: absolute;
-  right: 17px;
-  top: 0px;
+  top: -0px;
   width: 1px;
 }
-.design-process .linie-429-wwm7Yi {
+.design-process .linie-429-mEaS2F {
   background-color: transparent;
-  bottom: 31px;
   height: 1px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  width: 100%;
+  top: 332px;
+  width: 200px;
 }
-.design-process .linie-430-wwm7Yi {
+.design-process .linie-430-mEaS2F {
   background-color: transparent;
   height: 1px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 30px;
-  width: 100%;
+  width: 200px;
 }
 .design-process .linie-441-QIcGv3 {
   background-color: transparent;
@@ -503,64 +539,38 @@ opacity: 0;transform: translate(0, 25px);
   top: 28px;
   width: 2px;
 }
-.design-process .linie-53-KqJx5g {
-  background-color: transparent;
-  height: calc(100.00% + 3px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(49.91% - 1px);
-  top: -2px;
-  width: 3px;
-}
 .design-process .logo-GCEBCP {
   background-color: transparent;
-  bottom: calc(50.00% - 13px);
   cursor: pointer;
-  height: 25px;
+  height: 26px;
   left: 160px;
+  object-fit: cover;
   position: absolute;
-  width: 151px;
+  top: calc(50.00% - 13px);
+  width: 153px;
 }
-.design-process .mockup-C61RwL {
+.design-process .mockup-zAfL08 {
   background-color: transparent;
-  bottom: calc(41.47% - 16px);
-  height: 39px;
+  height: auto;
+  left: 59px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
-  right: calc(35.03% - 39px);
   text-align: left;
+  top: 55px;
   white-space: nowrap;
-  width: 110px;
+  width: auto;
 }
-.design-process .mountain-60860831920-Sh6Cnr {
-  background-color: var(--white-lilac);
-  border-radius: 6px;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.design-process .now-that-you-ha-e-look-and-feel-C61RwL {
+.design-process .now-that-you-ha-e-look-and-feel-zAfL08 {
   background-color: transparent;
-  bottom: calc(40.22% - 28px);
-  height: 69px;
+  height: auto;
+  left: 59px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(20.38% - 90px);
   text-align: left;
+  top: 118px;
   width: 443px;
-}
-.design-process .pfad-1-KqJx5g {
-  background-color: transparent;
-  bottom: -2px;
-  height: 15px;
-  left: -2px;
-  object-fit: cover;
-  position: absolute;
-  width: 17px;
 }
 .design-process .pfad-1051-zXS1Qu {
   background-color: transparent;
@@ -571,168 +581,6 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: calc(100.00% - 45px);
 }
-.design-process .pfad-1373-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  left: calc(42.60% - 8px);
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 19px;
-}
-.design-process .pfad-1374-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(39.84% - 7px);
-  top: 1px;
-  width: 18px;
-}
-.design-process .pfad-1375-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(29.85% - 1px);
-  top: 1px;
-  width: 4px;
-}
-.design-process .pfad-1376-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: 1px;
-  width: 18px;
-}
-.design-process .pfad-1377-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
-  width: 16px;
-}
-.design-process .pfad-1378-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 19px;
-}
-.design-process .pfad-1379-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 14px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 4px;
-}
-.design-process .pfad-1380-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: calc(19.24% - 4px);
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 21px;
-}
-.design-process .pfad-2-KqJx5g {
-  background-color: transparent;
-  bottom: -2px;
-  height: 15px;
-  object-fit: cover;
-  position: absolute;
-  right: -2px;
-  width: 17px;
-}
-.design-process .pfad-264-Bxbxzr {
-  background-color: transparent;
-  height: 34px;
-  left: 9px;
-  object-fit: cover;
-  position: absolute;
-  top: 11px;
-  width: 29px;
-}
-.design-process .pfad-338-Bxbxzr {
-  background-color: transparent;
-  height: 11px;
-  left: calc(32.22% - 4px);
-  object-fit: cover;
-  position: absolute;
-  top: calc(36.30% - 4px);
-  width: 12px;
-}
-.design-process .pfad-339-Bxbxzr {
-  background-color: transparent;
-  height: calc(100.00% - 15px);
-  left: 3px;
-  object-fit: cover;
-  position: absolute;
-  top: 2px;
-  width: 57px;
-}
-.design-process .pfad-340-Bxbxzr {
-  background-color: transparent;
-  height: 66px;
-  left: 8px;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 46px;
-}
-.design-process .pfad-62-Bxbxzr {
-  background-color: transparent;
-  height: 41px;
-  left: 7px;
-  object-fit: cover;
-  position: absolute;
-  top: calc(48.15% - 20px);
-  width: 37px;
-}
-.design-process .pfad-67-Bxbxzr {
-  background-color: transparent;
-  bottom: 1px;
-  height: 68px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  width: 48px;
-}
-.design-process .pfad-68-Bxbxzr {
-  background-color: transparent;
-  bottom: 1px;
-  height: 37px;
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  width: 38px;
-}
-.design-process .pfad-70-Bxbxzr {
-  background-color: transparent;
-  bottom: calc(39.65% - 15px);
-  height: 38px;
-  object-fit: cover;
-  position: absolute;
-  right: 6px;
-  width: 25px;
-}
-.design-process .pfad-895-6tzNvg {
-  background-color: transparent;
-  bottom: 0px;
-  height: 9px;
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  width: 9px;
-}
 .design-process .pinterest-nkrLlh {
   background-color: transparent;
   cursor: pointer;
@@ -742,11 +590,12 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 16px;
   position: absolute;
   text-align: left;
+  text-decoration: underline;
   top: 0px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.design-process .polygon-10-zlS8Hp {
+.design-process .polygon-10-0lFzac {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -755,43 +604,43 @@ opacity: 0;transform: translate(0, 25px);
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-17-37wpBn {
+.design-process .polygon-17-Svy6Qz {
   background-color: transparent;
   height: 75px;
+  left: 476px;
   object-fit: cover;
   position: absolute;
-  right: -22px;
   top: 39px;
   width: 75px;
 }
-.design-process .polygon-17-FMEilu {
+.design-process .polygon-17-jgVWAo {
   background-color: transparent;
   height: 75px;
+  left: 476px;
   object-fit: cover;
   position: absolute;
-  right: -22px;
   top: 39px;
   width: 75px;
 }
-.design-process .polygon-18-37wpBn {
+.design-process .polygon-18-Svy6Qz {
   background-color: transparent;
   height: 30px;
+  left: 499px;
   object-fit: cover;
   position: absolute;
-  right: 0px;
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-18-FMEilu {
+.design-process .polygon-18-jgVWAo {
   background-color: transparent;
   height: 30px;
+  left: 499px;
   object-fit: cover;
   position: absolute;
-  right: 0px;
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-19-wxAdjt {
+.design-process .polygon-19-MbKiDZ {
   background-color: transparent;
   height: 75px;
   left: -22px;
@@ -800,7 +649,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 38px;
   width: 75px;
 }
-.design-process .polygon-20-wxAdjt {
+.design-process .polygon-20-MbKiDZ {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -845,7 +694,7 @@ opacity: 0;transform: translate(0, 25px);
   right: 0px;
   width: 35px;
 }
-.design-process .polygon-9-zlS8Hp {
+.design-process .polygon-9-0lFzac {
   background-color: transparent;
   height: 75px;
   left: -22px;
@@ -854,46 +703,36 @@ opacity: 0;transform: translate(0, 25px);
   top: 38px;
   width: 75px;
 }
-.design-process .prototype-app-C61RwL {
+.design-process .prototype-app-6CARtG {
   background-color: transparent;
-  bottom: 931px;
   height: 463px;
-  left: calc(24.41% - 108px);
+  left: 30px;
   object-fit: cover;
   position: absolute;
+  top: 239px;
   width: 441px;
 }
-.design-process .prototype-app-VMr6Om {
+.design-process .prototype-app-9AFwUE {
   background-color: transparent;
-  bottom: calc(23.72% - 9px);
-  height: 39px;
-  left: calc(21.05% - 43px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 55px;
   white-space: nowrap;
-  width: 205px;
+  width: auto;
 }
-.design-process .rechteck-1335-37wpBn {
+.design-process .rechteck-1335-0lFzac {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
-  left: 0px;
+  height: 852px;
+  left: 29px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 29px);
-}
-.design-process .rechteck-1335-FMEilu {
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 29px);
+  width: 500px;
 }
 .design-process .rechteck-1335-LyqNeT {
   background-color: var(--white);
@@ -905,6 +744,36 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
+.design-process .rechteck-1335-MbKiDZ {
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 732px;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: 500px;
+}
+.design-process .rechteck-1335-Svy6Qz {
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 901px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 500px;
+}
+.design-process .rechteck-1335-jgVWAo {
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 732px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 500px;
+}
 .design-process .rechteck-1335-sEKMD7 {
   background-color: var(--white);
   border-radius: 6px;
@@ -915,178 +784,158 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.design-process .rechteck-1335-wxAdjt {
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
-  left: 29px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 29px);
-}
-.design-process .rechteck-1335-zlS8Hp {
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
-  left: 29px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 29px);
-}
-.design-process .rechteck-1509-wwm7Yi {
+.design-process .rechteck-1509-mEaS2F {
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 3px 15px #00000029;
-  height: calc(100.00% - 1px);
+  height: 363px;
   left: 0px;
   position: absolute;
   top: 1px;
-  width: 100%;
+  width: 200px;
 }
-.design-process .rechteck-1511-wwm7Yi {
+.design-process .rechteck-1511-mEaS2F {
   background-color: var(--dove-gray);
   height: 99px;
   left: 17px;
   position: absolute;
   top: 31px;
-  width: calc(100.00% - 34px);
+  width: 166px;
 }
-.design-process .rechteck-1512-wwm7Yi {
+.design-process .rechteck-1512-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(35.03% - 4px);
   height: 12px;
+  left: 73px;
   position: absolute;
-  right: 17px;
+  top: 229px;
   width: 110px;
 }
-.design-process .rechteck-1513-wwm7Yi {
+.design-process .rechteck-1513-mEaS2F {
   background-color: var(--dove-gray);
   height: 12px;
   left: 17px;
   position: absolute;
-  top: calc(45.68% - 5px);
+  top: 161px;
   width: 127px;
 }
-.design-process .rechteck-1514-wwm7Yi {
+.design-process .rechteck-1514-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(47.28% - 3px);
   height: 6px;
   left: 17px;
   position: absolute;
+  top: 189px;
   width: 26px;
 }
-.design-process .rechteck-1515-wwm7Yi {
+.design-process .rechteck-1515-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(47.28% - 3px);
   height: 6px;
-  left: calc(30.41% - 8px);
+  left: 53px;
   position: absolute;
+  top: 189px;
   width: 26px;
 }
-.design-process .rechteck-1516-wwm7Yi {
+.design-process .rechteck-1516-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(47.28% - 3px);
   height: 6px;
+  left: 88px;
   position: absolute;
-  right: calc(49.51% - 13px);
+  top: 189px;
   width: 26px;
 }
-.design-process .rechteck-1517-wwm7Yi {
+.design-process .rechteck-1517-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(28.54% - 13px);
   height: 44px;
   left: 17px;
   position: absolute;
+  top: 229px;
   width: 44px;
 }
-.design-process .rechteck-1518-wwm7Yi {
+.design-process .rechteck-1518-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: 31px;
   height: 44px;
   left: 17px;
   position: absolute;
+  top: 289px;
   width: 44px;
 }
-.design-process .rechteck-1519-wwm7Yi {
+.design-process .rechteck-1519-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(28.54% - 13px);
   height: 44px;
   left: 17px;
   position: absolute;
+  top: 229px;
   width: 44px;
 }
-.design-process .rechteck-1520-wwm7Yi {
+.design-process .rechteck-1520-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: 31px;
   height: 44px;
   left: 17px;
   position: absolute;
+  top: 289px;
   width: 44px;
 }
-.design-process .rechteck-1521-wwm7Yi {
+.design-process .rechteck-1521-mEaS2F {
   background-color: var(--dove-gray);
   height: 11px;
   left: 17px;
   position: absolute;
-  top: calc(39.89% - 4px);
-  width: calc(100.00% - 34px);
+  top: 141px;
+  width: 166px;
 }
-.design-process .rechteck-1522-wwm7Yi {
+.design-process .rechteck-1522-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(30.12% - 3px);
   height: 11px;
+  left: 73px;
   position: absolute;
-  right: calc(31.33% - 29px);
+  top: 247px;
   width: 94px;
 }
-.design-process .rechteck-1523-wwm7Yi {
+.design-process .rechteck-1523-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(25.52% - 2px);
   height: 6px;
-  left: calc(41.88% - 11px);
+  left: 73px;
   position: absolute;
+  top: 267px;
   width: 26px;
 }
-.design-process .rechteck-1524-wwm7Yi {
+.design-process .rechteck-1524-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(25.52% - 2px);
   height: 6px;
+  left: 108px;
   position: absolute;
-  right: calc(38.04% - 10px);
+  top: 267px;
   width: 26px;
 }
-.design-process .rechteck-1525-wwm7Yi {
+.design-process .rechteck-1525-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: calc(18.01% - 2px);
   height: 12px;
+  left: 73px;
   position: absolute;
-  right: 17px;
+  top: 289px;
   width: 110px;
 }
-.design-process .rechteck-1526-wwm7Yi {
+.design-process .rechteck-1526-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: 46px;
   height: 12px;
+  left: 73px;
   position: absolute;
-  right: calc(31.33% - 29px);
+  top: 306px;
   width: 94px;
 }
-.design-process .rechteck-1527-wwm7Yi {
+.design-process .rechteck-1527-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: 31px;
   height: 6px;
-  left: calc(41.88% - 11px);
+  left: 73px;
   position: absolute;
+  top: 327px;
   width: 26px;
 }
-.design-process .rechteck-1528-wwm7Yi {
+.design-process .rechteck-1528-mEaS2F {
   background-color: var(--dove-gray);
-  bottom: 31px;
   height: 6px;
+  left: 108px;
   position: absolute;
-  right: calc(38.04% - 10px);
+  top: 327px;
   width: 26px;
 }
 .design-process .resources-GCEBCP {
@@ -1101,6 +950,16 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(47.83% - 10px);
   white-space: nowrap;
   width: 77px;
+}
+.design-process .scrollto-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 140px;
+  left: 890px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 140px;
 }
 .design-process .search-SZqgts {
   background-color: transparent;
@@ -1119,26 +978,26 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .search-SZqgts::placeholder {
   color: #2021215c;
 }
-.design-process .sketch-C61RwL {
+.design-process .sketch-scribble-tD3QGc {
   background-color: transparent;
-  height: 463px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(20.49% - 90px);
-  top: calc(25.54% - 118px);
-  width: 441px;
-}
-.design-process .sketch-scribble-C61RwL {
-  background-color: transparent;
-  height: 39px;
+  height: auto;
+  left: 59px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
-  right: calc(30.70% - 68px);
   text-align: left;
-  top: 1245px;
+  top: 55px;
   white-space: nowrap;
-  width: 223px;
+  width: auto;
+}
+.design-process .sketch-tD3QGc {
+  background-color: transparent;
+  height: 463px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 441px;
 }
 .design-process .span0-KWhsjX {
 
@@ -1158,75 +1017,75 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .span2-k4XpPr {
 
 }
-.design-process .step-01-C61RwL {
+.design-process .step-01-tD3QGc {
   background-color: transparent;
-  height: 17px;
+  height: auto;
+  left: 59px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(21.50% - 91px);
   text-align: left;
-  top: 1214px;
+  top: 24px;
   white-space: nowrap;
   width: 422px;
 }
-.design-process .step-02-C61RwL {
+.design-process .step-02-1e7zwy {
   background-color: transparent;
-  height: 17px;
-  left: calc(24.10% - 102px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(37.88% - 6px);
+  top: 24px;
   white-space: nowrap;
   width: 422px;
 }
-.design-process .step-03-C61RwL {
+.design-process .step-03-zAfL08 {
   background-color: transparent;
-  bottom: calc(42.14% - 7px);
-  height: 17px;
+  height: auto;
+  left: 59px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(21.50% - 91px);
   text-align: left;
+  top: 24px;
   white-space: nowrap;
   width: 422px;
 }
-.design-process .step-04-C61RwL {
+.design-process .step-04-6CARtG {
   background-color: transparent;
-  bottom: calc(24.44% - 4px);
-  height: 17px;
-  left: calc(24.10% - 102px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 24px;
   white-space: nowrap;
   width: 422px;
 }
 .design-process .the-design-process-C61RwL {
   background-color: transparent;
-  height: 63px;
+  height: auto;
   left: 160px;
   letter-spacing: 0.00px;
   line-height: 50px;
   position: absolute;
   text-align: left;
-  top: 450px;
+  top: 360px;
   white-space: nowrap;
-  width: 448px;
+  width: auto;
 }
-.design-process .then-after-youv-implementation-C61RwL {
+.design-process .then-after-youv-implementation-6CARtG {
   background-color: transparent;
-  bottom: calc(22.39% - 15px);
-  height: 69px;
-  left: calc(24.44% - 108px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 118px;
   width: 443px;
 }
 .design-process .this-is-when-th-mes-into-action-LyqNeT {
@@ -1263,48 +1122,83 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .to-create-an-ap-ome-into-action-C61RwL {
   background-color: transparent;
-  height: 86px;
+  height: auto;
   left: 160px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 536px;
+  top: 446px;
   width: 648px;
 }
-.design-process .wireframe-C61RwL {
+.design-process .wireframe-1e7zwy {
   background-color: transparent;
-  height: 39px;
-  left: calc(20.30% - 29px);
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(38.48% - 15px);
+  top: 55px;
   white-space: nowrap;
-  width: 142px;
+  width: auto;
 }
 .design-process .x51916-C61RwL {
   background-color: transparent;
   border-radius: 20px;
-  bottom: 249px;
   height: 100px;
-  left: calc(49.73% - 50px);
+  left: 905px;
   object-fit: cover;
   position: absolute;
+  top: 6089px;
   width: 100px;
 }
 .design-process .x87400-C61RwL {
   background-color: transparent;
-  bottom: 244px;
   height: 109px;
+  left: 1265px;
   object-fit: cover;
   position: absolute;
-  right: calc(30.15% - 33px);
+  top: 6085px;
   width: 109px;
+}
+@keyframes animate-enter2-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter4-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter5-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter6-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter7-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter8-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter9-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

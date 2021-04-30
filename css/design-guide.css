@@ -1,76 +1,93 @@
 /* screen - design-guide */
 
 .animate-enter1 {
-  animation: animate-enter1-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide {
   background-color: var(--coconut);
   display: block;
-  height: 5301px;
+  height: 5211px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .accessibility-C61RwL {
   background-color: transparent;
+  cursor: pointer;
   height: auto;
   left: 220px;
   letter-spacing: 0.00px;
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 1815px;
+  top: 1725px;
   white-space: nowrap;
   width: auto;
 }
-.design-guide .avoid-these-typo-errors-TQCOxc {
+.design-guide .animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .avoid-these-typo-errors-PngSPK {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 166px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .bannerdesignguide-C61RwL {
   background-color: transparent;
+  display: block;
   height: 900px;
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: 90px;
+  top: 0px;
   width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
-.design-guide .best-practice-tips-NzCmYq {
+.design-guide .best-practice-tips-B6FddB {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 125px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .breakpoints-for-fferent-devices-4ePuEV {
+.design-guide .breakpoints-for-fferent-devices-kSleWw {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 233px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .buttons-C61RwL {
   background-color: transparent;
@@ -81,33 +98,39 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 4716px;
+  top: 4626px;
   white-space: nowrap;
   width: auto;
 }
-.design-guide .color-deficiencies-D7eZ4t {
+.design-guide .color-deficiencies-sxROfv {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 129px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .color-psychology-P0EDAw {
+.design-guide .color-psychology-8SOaIp {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 124px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .colors-C61RwL {
   background-color: transparent;
@@ -118,33 +141,39 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 2395px;
+  top: 2305px;
   white-space: nowrap;
   width: auto;
 }
-.design-guide .contrast-checker-NUOs9q {
+.design-guide .contrast-checker-5dRcjU {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 123px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .contrast-checker-jLJAzz {
+.design-guide .contrast-checker-kv5RIr {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 123px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .design-guide-C61RwL {
   background-color: transparent;
@@ -158,63 +187,63 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 50px;
   position: absolute;
   text-align: left;
-  top: 450px;
+  top: 360px;
   white-space: nowrap;
   width: auto;
 }
 .design-guide .design-guide-GCEBCP {
   background-color: transparent;
-  height: 21px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: calc(29.82% - 29px);
+  margin-bottom: 3.0px;
+  margin-left: 200px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
-  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .design-guide .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: calc(18.43% - 21px);
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 113px;
+  position: relative;
   text-align: left;
-  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .design-guide .ebene-2-SZqgts {
   background-color: transparent;
-  height: 24px;
-  left: 25px;
-  position: absolute;
-  top: calc(50.00% - 12px);
-  width: 24px;
+  flex-shrink: 1;
+  height: 25px;
+  object-fit: cover;
+  position: relative;
+  width: 25px;
 }
-.design-guide .ellipse-273-6tzNvg {
+.design-guide .font-size-and-scaling-ZbTrxz {
   background-color: transparent;
-  border-radius: 9.5px;
-  height: 20px;
-  left: -1px;
-  position: absolute;
-  top: -1px;
-  width: 20px;
-}
-.design-guide .font-size-and-scaling-xq7GOB {
-  background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 152px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .fonts-C61RwL {
   background-color: transparent;
@@ -225,7 +254,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 3555px;
+  top: 3465px;
   white-space: nowrap;
   width: auto;
 }
@@ -233,211 +262,11 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  height: 100%;
+  height: 430px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
-}
-.design-guide .gruppe-1085-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4895px;
-  width: 221px;
-}
-.design-guide .gruppe-1086-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4852px;
-  width: 141px;
-}
-.design-guide .gruppe-1087-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4809px;
-  width: 141px;
-}
-.design-guide .gruppe-1088-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4400px;
-  width: 225px;
-}
-.design-guide .gruppe-1089-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4357px;
-  width: 125px;
-}
-.design-guide .gruppe-1090-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4314px;
-  width: 96px;
-}
-.design-guide .gruppe-1091-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4271px;
-  width: 142px;
-}
-.design-guide .gruppe-1092-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 4228px;
-  width: 151px;
-}
-.design-guide .gruppe-1093-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3648px;
-  width: 131px;
-}
-.design-guide .gruppe-1094-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3691px;
-  width: 93px;
-}
-.design-guide .gruppe-1095-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3733px;
-  width: 127px;
-}
-.design-guide .gruppe-1096-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3776px;
-  width: 169px;
-}
-.design-guide .gruppe-1097-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3818px;
-  width: 183px;
-}
-.design-guide .gruppe-1098-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3861px;
-  width: 140px;
-}
-.design-guide .gruppe-1100-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3083px;
-  width: 250px;
-}
-.design-guide .gruppe-1101-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 3126px;
-  width: 241px;
-}
-.design-guide .gruppe-1102-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 2488px;
-  width: 131px;
-}
-.design-guide .gruppe-1103-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 2531px;
-  width: 141px;
-}
-.design-guide .gruppe-1104-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 1908px;
-  width: 146px;
-}
-.design-guide .gruppe-1105-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 1951px;
-  width: 232px;
-}
-.design-guide .gruppe-1106-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 1994px;
-  width: 207px;
-}
-.design-guide .gruppe-1107-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 2037px;
-  width: 140px;
-}
-.design-guide .gruppe-1108-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 1415px;
-  width: 168px;
-}
-.design-guide .gruppe-1109-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 1372px;
-  width: 122px;
-}
-.design-guide .gruppe-1110-C61RwL {
-  background-color: transparent;
-  height: 19px;
-  left: 220px;
-  position: absolute;
-  top: 1329px;
-  width: 250px;
+  width: 1600px;
 }
 .design-guide .gruppe-1125-C61RwL {
   background-color: transparent;
@@ -445,108 +274,148 @@ opacity: 0;transform: translate(0, 25px);
   height: 430px;
   left: 160px;
   position: absolute;
-  top: 1190px;
+  top: 1100px;
   width: 1600px;
 }
 .design-guide .gruppe-1126-C61RwL {
+  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
-  top: 1770px;
-  width: 1600px;
+  top: 1680px;
+  width: auto;
 }
 .design-guide .gruppe-1127-C61RwL {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
-  top: 2350px;
-  width: 1600px;
+  top: 2260px;
+  width: auto;
 }
 .design-guide .gruppe-1128-C61RwL {
+  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
-  top: 2930px;
-  width: 1600px;
+  top: 2840px;
+  width: auto;
 }
 .design-guide .gruppe-1129-C61RwL {
+  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
-  top: 3510px;
-  width: 1600px;
+  top: 3420px;
+  width: auto;
 }
 .design-guide .gruppe-1130-C61RwL {
-  background-color: transparent;
-  cursor: pointer;
-  height: 431px;
-  left: 160px;
-  position: absolute;
-  top: 4670px;
-  width: 1600px;
-}
-.design-guide .gruppe-1131-C61RwL {
+  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 430px;
+  justify-content: flex-end;
   left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
   position: absolute;
-  top: 4090px;
-  width: 1600px;
+  top: 4581px;
+  width: auto;
 }
-.design-guide .gruppe-47-0xSpCQ {
-  background-color: transparent;
-  height: 31px;
-  left: calc(49.35% - 12px);
-  position: relative;
-  top: calc(50.00% - 15px);
-  width: 25px;
+.design-guide .gruppe-1131-C61RwL {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  height: 430px;
+  justify-content: flex-end;
+  left: 160px;
+  min-width: 1600px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 4000px;
+  width: auto;
 }
 .design-guide .gruppe-496-GCEBCP {
+  align-items: flex-start;
   background-color: var(--white-lilac);
   border-radius: 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
   height: 48px;
-  left: calc(37.96% - 215px);
-  position: absolute;
-  top: calc(50.00% - 24px);
-  width: 566px;
+  justify-content: flex-start;
+  margin-left: 201px;
+  min-width: 566px;
+  padding: 10px 23px;
+  position: relative;
+  width: auto;
 }
 .design-guide .gruppe-497-C61RwL {
+  align-items: center;
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 90px;
+  justify-content: flex-end;
   left: 0px;
+  min-width: 1920px;
+  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: 1920px;
-}
-.design-guide .gruppe-721-C61RwL {
-  background-color: var(--white);
-  border-radius: 50.5px;
-  box-shadow: 0px 0px 15px #0000001a;
-  cursor: pointer;
-  height: 101px;
-  left: 910px;
-  position: absolute;
-  top: 853px;
-  width: 101px;
+  width: auto;
 }
 .design-guide .here-you-get-an-re-treated-here-C61RwL {
   background-color: transparent;
@@ -556,21 +425,24 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 536px;
+  top: 446px;
   white-space: nowrap;
   width: auto;
 }
-.design-guide .how-to-build-icons-bksA6i {
+.design-guide .how-to-build-icons-1eOwQW {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 134px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .icons-C61RwL {
   background-color: transparent;
@@ -581,21 +453,374 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 4135px;
+  top: 4045px;
   white-space: nowrap;
   width: auto;
 }
-.design-guide .inspiration-and-free-icon-sets-znKD29 {
+.design-guide .inspiration-and-free-icon-sets-G76uWd {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 208px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
+}
+.design-guide .komponente-73-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 125px;
+  position: absolute;
+  top: 4267px;
+  width: auto;
+}
+.design-guide .komponente-74-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 225px;
+  position: absolute;
+  top: 4310px;
+  width: auto;
+}
+.design-guide .komponente-75-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 96px;
+  position: absolute;
+  top: 4224px;
+  width: auto;
+}
+.design-guide .komponente-76-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 142px;
+  position: absolute;
+  top: 4181px;
+  width: auto;
+}
+.design-guide .komponente-77-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 151px;
+  position: absolute;
+  top: 4138px;
+  width: auto;
+}
+.design-guide .komponente-78-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 221px;
+  position: absolute;
+  top: 4805px;
+  width: auto;
+}
+.design-guide .komponente-79-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 141px;
+  position: absolute;
+  top: 4762px;
+  width: auto;
+}
+.design-guide .komponente-80-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 141px;
+  position: absolute;
+  top: 4719px;
+  width: auto;
+}
+.design-guide .komponente-81-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 140px;
+  position: absolute;
+  top: 3771px;
+  width: auto;
+}
+.design-guide .komponente-82-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 183px;
+  position: absolute;
+  top: 3728px;
+  width: auto;
+}
+.design-guide .komponente-83-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 169px;
+  position: absolute;
+  top: 3686px;
+  width: auto;
+}
+.design-guide .komponente-84-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 127px;
+  position: absolute;
+  top: 3643px;
+  width: auto;
+}
+.design-guide .komponente-85-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 93px;
+  position: absolute;
+  top: 3601px;
+  width: auto;
+}
+.design-guide .komponente-86-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 131px;
+  position: absolute;
+  top: 3558px;
+  width: auto;
+}
+.design-guide .komponente-87-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 241px;
+  position: absolute;
+  top: 3036px;
+  width: auto;
+}
+.design-guide .komponente-88-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 250px;
+  position: absolute;
+  top: 2993px;
+  width: auto;
+}
+.design-guide .komponente-89-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 141px;
+  position: absolute;
+  top: 2441px;
+  width: auto;
+}
+.design-guide .komponente-90-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 131px;
+  position: absolute;
+  top: 2398px;
+  width: auto;
+}
+.design-guide .komponente-91-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 140px;
+  position: absolute;
+  top: 1947px;
+  width: auto;
+}
+.design-guide .komponente-92-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 207px;
+  position: absolute;
+  top: 1904px;
+  width: auto;
+}
+.design-guide .komponente-93-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 232px;
+  position: absolute;
+  top: 1861px;
+  width: auto;
+}
+.design-guide .komponente-94-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 146px;
+  position: absolute;
+  top: 1818px;
+  width: auto;
+}
+.design-guide .komponente-95-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 168px;
+  position: absolute;
+  top: 1325px;
+  width: auto;
+}
+.design-guide .komponente-96-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 122px;
+  position: absolute;
+  top: 1282px;
+  width: auto;
+}
+.design-guide .komponente-97-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 19px;
+  justify-content: flex-start;
+  left: 220px;
+  min-width: 250px;
+  position: absolute;
+  top: 1239px;
+  width: auto;
 }
 .design-guide .layout-C61RwL {
   background-color: transparent;
@@ -606,7 +831,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 1235px;
+  top: 1145px;
   white-space: nowrap;
   width: auto;
 }
@@ -616,7 +841,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 218px;
   object-fit: cover;
   position: absolute;
-  top: 1296px;
+  top: 1206px;
   width: 44px;
 }
 .design-guide .linie-402-C61RwL {
@@ -625,7 +850,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 218px;
   object-fit: cover;
   position: absolute;
-  top: 3616px;
+  top: 3526px;
   width: 44px;
 }
 .design-guide .linie-403-C61RwL {
@@ -634,7 +859,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 218px;
   object-fit: cover;
   position: absolute;
-  top: 4196px;
+  top: 4106px;
   width: 44px;
 }
 .design-guide .linie-404-C61RwL {
@@ -643,7 +868,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 218px;
   object-fit: cover;
   position: absolute;
-  top: 1876px;
+  top: 1786px;
   width: 44px;
 }
 .design-guide .linie-405-C61RwL {
@@ -652,7 +877,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 218px;
   object-fit: cover;
   position: absolute;
-  top: 2456px;
+  top: 2366px;
   width: 44px;
 }
 .design-guide .linie-406-C61RwL {
@@ -661,7 +886,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 217px;
   object-fit: cover;
   position: absolute;
-  top: 4776px;
+  top: 4686px;
   width: 44px;
 }
 .design-guide .linie-408-C61RwL {
@@ -670,38 +895,32 @@ opacity: 0;transform: translate(0, 25px);
   left: 218px;
   object-fit: cover;
   position: absolute;
-  top: 3050px;
+  top: 2960px;
   width: 44px;
-}
-.design-guide .linie-53-dd6Tqo {
-  background-color: transparent;
-  height: calc(100.00% + 3px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(49.91% - 1px);
-  top: -2px;
-  width: 3px;
 }
 .design-guide .logo-GCEBCP {
   background-color: transparent;
-  bottom: calc(50.00% - 13px);
   cursor: pointer;
-  height: 25px;
-  left: 160px;
-  position: absolute;
-  width: 151px;
+  flex-shrink: 1;
+  height: 26px;
+  object-fit: cover;
+  position: relative;
+  width: 153px;
 }
-.design-guide .make-your-designs-accessible-WVzxnx {
+.design-guide .make-your-designs-accessible-vQgHTa {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 215px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
 .design-guide .navigation-C61RwL {
   background-color: transparent;
@@ -712,251 +931,180 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 60px;
   position: absolute;
   text-align: left;
-  top: 2990px;
+  top: 2900px;
   white-space: nowrap;
   width: auto;
 }
-.design-guide .navigation-elem-nts-for-desktop-CzVPfa {
+.design-guide .navigation-elem-nts-for-desktop-ppXcOh {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 233px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .navigation-elements-for-mobile-nShJbz {
+.design-guide .navigation-elements-for-mobile-INlcf1 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 224px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .old-vs-new-xKXIHE {
+.design-guide .old-vs-new-DtUutc {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: -2px;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 79px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: 79px;
+  width: auto;
 }
 .design-guide .overviewaccessibility-fQ4YiQ {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .overviewbuttons-9UDOxM {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 0px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .overviewcolors-4j9Fxa {
   background-color: transparent;
-  height: 100%;
-  left: 288px;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 288px);
+  position: relative;
+  width: 1312px;
 }
 .design-guide .overviewfonts-ZxJczG {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .overviewicons-W8JIii {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 0px;
+  position: relative;
   width: 1312px;
 }
 .design-guide .overviewlayout-juugUx {
   background-color: transparent;
-  height: 100%;
+  height: 430px;
   left: 288px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 288px);
+  width: 1312px;
 }
 .design-guide .overviewnavigation-Ww0XKU {
   background-color: transparent;
-  height: 100%;
+  flex-shrink: 1;
+  height: 430px;
   object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
+  position: relative;
   width: 1312px;
 }
-.design-guide .pfad-1-dd6Tqo {
+.design-guide .pfad-1393-kSleWw {
+  align-self: center;
   background-color: transparent;
-  bottom: -2px;
-  height: 15px;
-  left: -2px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.91px;
   object-fit: cover;
-  position: absolute;
-  width: 17px;
-}
-.design-guide .pfad-1373-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  left: calc(42.60% - 8px);
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 19px;
-}
-.design-guide .pfad-1374-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(39.84% - 7px);
-  top: 1px;
-  width: 18px;
-}
-.design-guide .pfad-1375-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(29.85% - 1px);
-  top: 1px;
-  width: 4px;
-}
-.design-guide .pfad-1376-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: 1px;
-  width: 18px;
-}
-.design-guide .pfad-1377-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
-  width: 16px;
-}
-.design-guide .pfad-1378-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 19px;
-}
-.design-guide .pfad-1379-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 14px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 4px;
-}
-.design-guide .pfad-1380-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: calc(19.24% - 4px);
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 21px;
-}
-.design-guide .pfad-1393-4ePuEV {
-  background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1394-MmVsjo {
+.design-guide .pfad-1394-tZdNQo {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1395-URIgw9 {
+.design-guide .pfad-1395-d6q1wf {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1396-D7eZ4t {
+.design-guide .pfad-1396-sxROfv {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1397-WVzxnx {
+.design-guide .pfad-1397-vQgHTa {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1398-sIHXco {
+.design-guide .pfad-1398-oNRgMI {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1399-NUOs9q {
+.design-guide .pfad-1399-5dRcjU {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
 .design-guide .pfad-1400-C61RwL {
@@ -965,246 +1113,256 @@ opacity: 0;transform: translate(0, 25px);
   left: 220px;
   object-fit: cover;
   position: absolute;
-  top: 2494px;
+  top: 2404px;
   width: 7px;
 }
-.design-guide .pfad-1401-ZZ9A2h {
+.design-guide .pfad-1401-hHwIl2 {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1402-P0EDAw {
+.design-guide .pfad-1402-8SOaIp {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1403-nShJbz {
+.design-guide .pfad-1403-INlcf1 {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1404-CzVPfa {
+.design-guide .pfad-1404-ppXcOh {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1405-PGNe38 {
+.design-guide .pfad-1405-kV5Jrz {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1406-Z6R0rE {
+.design-guide .pfad-1406-xexbVU {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1407-WN0Gkh {
+.design-guide .pfad-1407-cjD28W {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1408-xq7GOB {
+.design-guide .pfad-1408-ZbTrxz {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1409-TQCOxc {
+.design-guide .pfad-1409-PngSPK {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1410-jLJAzz {
+.design-guide .pfad-1410-kv5RIr {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1411-bksA6i {
+.design-guide .pfad-1411-1eOwQW {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1412-NzCmYq {
+.design-guide .pfad-1412-B6FddB {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.09px;
   object-fit: cover;
-  position: absolute;
-  top: 5px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1413-xKXIHE {
+.design-guide .pfad-1413-DtUutc {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.18px;
   object-fit: cover;
-  position: absolute;
-  top: 5px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1414-tf2XAf {
+.design-guide .pfad-1414-zARyJa {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.27px;
   object-fit: cover;
-  position: absolute;
-  top: 5px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1415-znKD29 {
+.design-guide .pfad-1415-G76uWd {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1416-3VzUxC {
+.design-guide .pfad-1416-N5QM04 {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-top: 0.0px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1417-mb3VxH {
+.design-guide .pfad-1417-mGEHbe {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.08px;
   object-fit: cover;
-  position: absolute;
-  top: 6px;
+  position: relative;
   width: 7px;
 }
-.design-guide .pfad-1418-1IS7zo {
+.design-guide .pfad-1418-LBCV8J {
+  align-self: center;
   background-color: transparent;
-  height: calc(100.00% - 11px);
-  left: 0px;
+  flex-shrink: 1;
+  height: 8px;
+  margin-bottom: 0.17px;
   object-fit: cover;
-  position: absolute;
-  top: 5px;
+  position: relative;
   width: 7px;
-}
-.design-guide .pfad-2-dd6Tqo {
-  background-color: transparent;
-  bottom: -2px;
-  height: 15px;
-  object-fit: cover;
-  position: absolute;
-  right: -2px;
-  width: 17px;
-}
-.design-guide .pfad-895-6tzNvg {
-  background-color: transparent;
-  bottom: 0px;
-  height: 9px;
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  width: 9px;
-}
-.design-guide .rechteck-614-9UDOxM {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
-  height: calc(100.00% - 1px);
-  left: 0px;
-  position: absolute;
-  top: 1px;
-  width: 100%;
 }
 .design-guide .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: 158px;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 77px;
+  position: relative;
   text-align: left;
-  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
-.design-guide .rules-for-buttons-3VzUxC {
+.design-guide .rules-for-buttons-N5QM04 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 124px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .sans-serif-fonts-PGNe38 {
+.design-guide .sans-serif-fonts-kV5Jrz {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 114px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
+}
+.design-guide .scrollto-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 140px;
+  left: 890px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 140px;
 }
 .design-guide .search-SZqgts {
+  align-self: center;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
+  flex-shrink: 1;
   height: 26px;
-  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
+  margin-left: 15px;
   padding: 0;
-  position: absolute;
+  position: relative;
   resize: none;
   text-align: left;
   width: 171px;
@@ -1212,116 +1370,148 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .search-SZqgts::placeholder {
   color: #2021215c;
 }
-.design-guide .serif-fonts-Z6R0rE {
+.design-guide .serif-fonts-xexbVU {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: -2px;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 76px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: 76px;
+  width: auto;
 }
-.design-guide .slab-serif-fonts-WN0Gkh {
+.design-guide .slab-serif-fonts-cjD28W {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 110px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .tips-for-a-great-dark-mode-sIHXco {
+.design-guide .tips-for-a-great-dark-mode-oNRgMI {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 190px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .usage-of-buttons-mb3VxH {
+.design-guide .usage-of-buttons-mGEHbe {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 124px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .usage-of-colors-ZZ9A2h {
+.design-guide .usage-of-colors-hHwIl2 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 114px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .usage-of-grids-MmVsjo {
+.design-guide .usage-of-grids-tZdNQo {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 105px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .usage-of-icons-tf2XAf {
+.design-guide .usage-of-icons-zARyJa {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 108px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .usage-of-whitespace-URIgw9 {
+.design-guide .usage-of-whitespace-d6q1wf {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 151px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
 }
-.design-guide .when-to-use-buttons-or-links-1IS7zo {
+.design-guide .when-to-use-buttons-or-links-LBCV8J {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: 17px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 204px;
+  position: relative;
   text-align: left;
-  top: -4px;
   white-space: nowrap;
-  width: calc(100.00% - 15px);
+  width: auto;
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter1-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

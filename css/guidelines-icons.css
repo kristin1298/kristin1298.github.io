@@ -1,238 +1,248 @@
 /* screen - guidelines-icons */
 
-.animate-enter13 {
-  animation: animate-enter13-frames 0.60s ease-in-out 0.20s 1 normal forwards;
+.animate-enter38 {
+  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons {
   background-color: var(--coconut);
   display: block;
-  height: 100vh;
-  margin: 0px;
-  min-height: 14418px;
-  min-width: 1920px;
+  height: 14418px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 100%;
-opacity: 0;transform: translate(0, 25px);
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-icons .accessibility-C61RwL {
+.guidelines-icons .accessibility-FyQmpe {
   background-color: transparent;
-  height: 21px;
-  left: 190px;
+  cursor: pointer;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 309px;
+  top: 119px;
   white-space: nowrap;
-  width: 91px;
+  width: auto;
 }
 .guidelines-icons .alignment-C61RwL {
   background-color: transparent;
   border-radius: 12px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(43.95% - 158px);
+  top: 6179px;
   width: 640px;
 }
 .guidelines-icons .alignment-VMr6Om {
   background-color: transparent;
-  height: 39px;
-  left: calc(35.96% - 50px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(43.18% - 17px);
+  top: 6209px;
   white-space: nowrap;
-  width: 140px;
+  width: auto;
 }
 .guidelines-icons .alignment-in-button-C61RwL {
   background-color: transparent;
-  bottom: calc(40.68% - 16px);
-  height: 39px;
-  left: calc(38.69% - 103px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 8529px;
   white-space: nowrap;
-  width: 266px;
+  width: auto;
 }
 .guidelines-icons .alignmentinbutton-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(39.54% - 142px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 8499px;
   width: 640px;
 }
 .guidelines-icons .an-icons-primar-y-to-understand-C61RwL {
   background-color: transparent;
-  height: 93px;
-  left: calc(40.43% - 136px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(39.73% - 37px);
+  top: 5692px;
   width: 337px;
+}
+.guidelines-icons .animate-enter36 {
+  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.guidelines-icons .animate-enter37 {
+  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .bannericons-C61RwL {
   background-color: transparent;
+  display: block;
   height: 700px;
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 90px;
-  width: 100%;
+  width: 1920px;
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .best-practice-tips-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(34.44% - 81px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(36.98% - 14px);
+  top: 5318px;
   white-space: nowrap;
-  width: 236px;
+  width: auto;
 }
-.guidelines-icons .best-practice-tips-VMr6Om {
+.guidelines-icons .best-practice-tips-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 557px;
+  top: 367px;
   white-space: nowrap;
-  width: 125px;
+  width: auto;
 }
-.guidelines-icons .buttons-C61RwL {
+.guidelines-icons .buttons-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 721px;
+  top: 531px;
   white-space: nowrap;
-  width: 57px;
+  width: auto;
 }
 .guidelines-icons .circle-C61RwL {
   background-color: transparent;
   height: 356px;
+  left: 1274px;
   object-fit: cover;
   position: absolute;
-  right: calc(22.03% - 63px);
-  top: calc(29.55% - 105px);
+  top: 4155px;
   width: 286px;
 }
 .guidelines-icons .circle-VMr6Om {
   background-color: transparent;
-  height: 39px;
-  left: calc(34.76% - 27px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(28.85% - 11px);
+  top: 4148px;
   white-space: nowrap;
-  width: 79px;
+  width: auto;
 }
 .guidelines-icons .circle-mzXdH9 {
   background-color: transparent;
-  height: 39px;
-  left: calc(34.76% - 27px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(32.88% - 13px);
+  top: 4728px;
   white-space: nowrap;
-  width: 79px;
+  width: auto;
 }
-.guidelines-icons .colors-C61RwL {
+.guidelines-icons .colors-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 350px;
+  top: 160px;
   white-space: nowrap;
-  width: 48px;
+  width: auto;
 }
 .guidelines-icons .consistency-C61RwL {
   background-color: transparent;
   border-radius: 12px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(48.08% - 173px);
+  top: 6759px;
   width: 640px;
 }
 .guidelines-icons .consistency-VMr6Om {
   background-color: transparent;
-  height: 39px;
-  left: calc(36.51% - 61px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(47.21% - 18px);
+  top: 6789px;
   white-space: nowrap;
-  width: 167px;
+  width: auto;
 }
-.guidelines-icons .content-of-this-page-C61RwL {
+.guidelines-icons .content-of-this-page-FyQmpe {
   background-color: transparent;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 221px;
+  top: 31px;
   white-space: nowrap;
-  width: 147px;
+  width: auto;
 }
 .guidelines-icons .delete-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(20.59% - 74px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 11164px;
   width: 640px;
 }
 .guidelines-icons .delete-VMr6Om {
   background-color: transparent;
-  bottom: calc(22.15% - 9px);
-  height: 39px;
-  left: calc(34.93% - 31px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 11194px;
   white-space: nowrap;
-  width: 88px;
+  width: auto;
 }
 .guidelines-icons .design-guide-GCEBCP {
   background-color: transparent;
@@ -262,67 +272,59 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .diameter-176px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.52% - 42px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(29.52% - 6px);
+  top: 4250px;
   white-space: nowrap;
-  width: 118px;
+  width: auto;
 }
 .guidelines-icons .ebene-2-SZqgts {
   background-color: transparent;
-  height: 24px;
-  left: 25px;
+  height: calc(100.00% - 23px);
+  left: 24px;
+  object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 12px);
-  width: 24px;
-}
-.guidelines-icons .ellipse-273-6tzNvg {
-  background-color: transparent;
-  border-radius: 9.5px;
-  height: 20px;
-  left: -1px;
-  position: absolute;
-  top: -1px;
-  width: 20px;
+  top: 11px;
+  width: 25px;
 }
 .guidelines-icons .email-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(24.71% - 89px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 10584px;
   width: 640px;
 }
 .guidelines-icons .email-VMr6Om {
   background-color: transparent;
-  bottom: calc(26.18% - 10px);
-  height: 39px;
-  left: calc(34.73% - 27px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 10614px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
-.guidelines-icons .fonts-C61RwL {
+.guidelines-icons .fonts-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 432px;
+  top: 242px;
   white-space: nowrap;
-  width: 42px;
+  width: auto;
 }
 .guidelines-icons .google-lzQ87U {
   background-color: transparent;
@@ -339,15 +341,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .grid-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(34.37% - 20px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 1248px;
   white-space: nowrap;
-  width: 58px;
+  width: auto;
+}
+.guidelines-icons .gruppe-1170-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 35px #00000029;
+  display: block;
+  height: 584px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
+opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .gruppe-496-GCEBCP {
   background-color: var(--white-lilac);
@@ -365,212 +379,212 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-icons .height-128px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.16% - 35px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(25.49% - 5px);
+  top: 3670px;
   white-space: nowrap;
-  width: 100px;
+  width: auto;
 }
 .guidelines-icons .height-152px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.16% - 35px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
   top: 2510px;
   white-space: nowrap;
-  width: 100px;
+  width: auto;
 }
 .guidelines-icons .height-176px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.16% - 35px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(21.46% - 5px);
+  top: 3090px;
   white-space: nowrap;
-  width: 100px;
+  width: auto;
 }
 .guidelines-icons .homeicon-C61RwL {
   background-color: transparent;
   border-radius: 10px;
   height: 286px;
+  left: 1274px;
   object-fit: cover;
   position: absolute;
-  right: calc(22.03% - 63px);
-  top: calc(33.51% - 96px);
+  top: 4735px;
   width: 286px;
 }
 .guidelines-icons .horizontal-rectangle-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(38.88% - 107px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(24.81% - 10px);
+  top: 3568px;
   white-space: nowrap;
-  width: 274px;
+  width: auto;
 }
 .guidelines-icons .horizontalrectangle-C61RwL {
   background-color: transparent;
   height: 355px;
+  left: 1274px;
   object-fit: cover;
   position: absolute;
-  right: 267px;
-  top: calc(25.42% - 90px);
+  top: 3575px;
   width: 379px;
 }
 .guidelines-icons .how-to-build-icons-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(34.73% - 87px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 913px;
   white-space: nowrap;
-  width: 250px;
+  width: auto;
 }
-.guidelines-icons .how-to-build-icons-VMr6Om {
+.guidelines-icons .how-to-build-icons-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 516px;
+  top: 326px;
   white-space: nowrap;
-  width: 134px;
+  width: auto;
 }
 .guidelines-icons .icon-size-vs-text-size-C61RwL {
   background-color: transparent;
-  bottom: calc(44.72% - 17px);
-  height: 39px;
-  left: calc(39.00% - 109px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 7949px;
   white-space: nowrap;
-  width: 279px;
+  width: auto;
 }
 .guidelines-icons .icongrid-C61RwL {
   background-color: transparent;
   height: 413px;
+  left: 1213px;
   object-fit: cover;
   position: absolute;
-  right: calc(22.89% - 79px);
   top: 1192px;
   width: 347px;
 }
 .guidelines-icons .icons-C61RwL {
   background-color: transparent;
-  height: 63px;
-  left: calc(32.29% - 40px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 50px;
   position: absolute;
   text-align: left;
   top: 339px;
   white-space: nowrap;
-  width: 124px;
+  width: auto;
 }
-.guidelines-icons .icons-VMr6Om {
+.guidelines-icons .icons-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: fixed;
-  text-align: left;
-  top: 475px;
-  white-space: nowrap;
-  width: 41px;
-}
-.guidelines-icons .icons-are-also-e-speech-bubble-C61RwL {
-  background-color: transparent;
-  bottom: 930px;
-  height: 117px;
-  left: calc(40.76% - 143px);
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 285px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-icons .icons-are-also-e-speech-bubble-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 640px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 13371px;
   width: 350px;
 }
 .guidelines-icons .icons-are-most-an-decoration-h-C61RwL {
   background-color: transparent;
-  bottom: 2466px;
-  height: 93px;
-  left: calc(44.04% - 266px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 11860px;
   white-space: nowrap;
-  width: 603px;
+  width: auto;
 }
 .guidelines-icons .icons-are-often-n-their-meaning-C61RwL {
   background-color: transparent;
-  bottom: 2095px;
-  height: 117px;
-  left: calc(40.92% - 146px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 12206px;
   width: 356px;
 }
 .guidelines-icons .icons-can-be-us-meaning-of-them-C61RwL {
   background-color: transparent;
-  bottom: 1587px;
-  height: 45px;
-  left: calc(40.10% - 130px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 12786px;
   width: 324px;
 }
 .guidelines-icons .iconsizevstextsize-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(43.67% - 157px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 7919px;
   width: 640px;
 }
 .guidelines-icons .if-youre-lookin-are-a-few-links-C61RwL {
   background-color: transparent;
-  bottom: 404px;
-  height: 45px;
-  left: calc(39.97% - 187px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 13968px;
   white-space: nowrap;
-  width: 469px;
+  width: auto;
 }
 .guidelines-icons .ikonate-pUSoa7 {
   background-color: transparent;
@@ -587,136 +601,136 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .inspiration-and-free-icon-sets-C61RwL {
   background-color: transparent;
-  bottom: 486px;
-  height: 39px;
-  left: calc(37.96% - 149px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 13893px;
   white-space: nowrap;
-  width: 392px;
+  width: auto;
 }
-.guidelines-icons .inspiration-and-free-icon-sets-VMr6Om {
+.guidelines-icons .inspiration-and-free-icon-sets-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: fixed;
-  text-align: left;
-  top: 680px;
-  white-space: nowrap;
-  width: 208px;
-}
-.guidelines-icons .is-a-letter-sti-e-more-suitable-C61RwL {
-  background-color: transparent;
-  bottom: calc(25.59% - 18px);
-  height: 69px;
-  left: calc(40.30% - 134px);
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 490px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-icons .is-a-letter-sti-e-more-suitable-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 640px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 10677px;
   width: 332px;
 }
 .guidelines-icons .keylines-C61RwL {
   background-color: transparent;
   border-radius: 10px;
   height: 286px;
+  left: 1274px;
   object-fit: cover;
   position: absolute;
-  right: calc(22.03% - 63px);
   top: 1835px;
   width: 286px;
 }
 .guidelines-icons .keylines-VMr6Om {
   background-color: transparent;
-  height: 39px;
-  left: calc(35.46% - 41px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 1828px;
   white-space: nowrap;
-  width: 115px;
+  width: auto;
 }
 .guidelines-icons .komponente-21-1-C61RwL {
   background-color: transparent;
-  bottom: 353px;
   cursor: pointer;
   height: 19px;
-  left: calc(31.99% - 34px);
+  left: 580px;
   position: absolute;
-  width: 107px;
+  top: 14046px;
+  width: 109px;
 }
 .guidelines-icons .komponente-22-1-C61RwL {
   background-color: transparent;
-  bottom: 302px;
   cursor: pointer;
   height: 19px;
-  left: calc(31.05% - 16px);
+  left: 580px;
   position: absolute;
-  width: 52px;
+  top: 14097px;
+  width: 54px;
 }
 .guidelines-icons .komponente-23-1-C61RwL {
   background-color: transparent;
-  bottom: 251px;
   cursor: pointer;
   height: 19px;
-  left: calc(31.96% - 34px);
+  left: 580px;
   position: absolute;
-  width: 105px;
+  top: 14148px;
+  width: 107px;
 }
 .guidelines-icons .komponente-24-1-C61RwL {
   background-color: transparent;
-  bottom: 200px;
   cursor: pointer;
   height: 19px;
-  left: calc(32.10% - 36px);
+  left: 580px;
   position: absolute;
-  width: 113px;
+  top: 14199px;
+  width: 115px;
 }
 .guidelines-icons .komponente-31-1-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: 19px;
-  left: calc(42.16% - 22px);
+  left: 788px;
   position: absolute;
   top: 1039px;
-  width: 51px;
+  width: 53px;
 }
-.guidelines-icons .layout-C61RwL {
+.guidelines-icons .layout-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 190px;
+  height: auto;
+  left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 268px;
+  top: 78px;
   white-space: nowrap;
-  width: 50px;
+  width: auto;
 }
 .guidelines-icons .learn-how-to-cr-rovided-for-you-C61RwL {
   background-color: transparent;
-  height: 86px;
-  left: calc(47.19% - 326px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 430px;
   white-space: nowrap;
-  width: 691px;
+  width: auto;
 }
 .guidelines-icons .linie-465-C61RwL {
   background-color: transparent;
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
   top: 958px;
@@ -725,273 +739,193 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .linie-466-C61RwL {
   background-color: transparent;
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
-  top: calc(37.21% - 1px);
+  top: 5364px;
   width: 44px;
 }
 .guidelines-icons .linie-467-C61RwL {
   background-color: transparent;
-  bottom: calc(32.40% - 1px);
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
+  top: 9744px;
   width: 44px;
 }
 .guidelines-icons .linie-468-C61RwL {
   background-color: transparent;
-  bottom: 2584px;
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
+  top: 11830px;
   width: 44px;
 }
 .guidelines-icons .linie-469-C61RwL {
   background-color: transparent;
-  bottom: 476px;
   height: 4px;
-  left: calc(30.81% - 14px);
+  left: 578px;
   object-fit: cover;
   position: absolute;
+  top: 13938px;
   width: 44px;
 }
 .guidelines-icons .logo-GCEBCP {
   background-color: transparent;
-  bottom: calc(50.00% - 13px);
   cursor: pointer;
-  height: 25px;
+  height: 26px;
   left: 160px;
+  object-fit: cover;
   position: absolute;
-  width: 151px;
+  top: calc(50.00% - 13px);
+  width: 153px;
 }
 .guidelines-icons .make-sure-each-check-your-work-C61RwL {
   background-color: transparent;
-  height: 69px;
-  left: calc(40.10% - 130px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(43.71% - 30px);
+  top: 6272px;
   width: 324px;
 }
 .guidelines-icons .make-sure-that-ks-too-restless-C61RwL {
   background-color: transparent;
-  bottom: calc(40.12% - 28px);
-  height: 69px;
-  left: calc(40.10% - 130px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 8592px;
   width: 324px;
 }
 .guidelines-icons .make-sure-that-mount-of-shapes-C61RwL {
   background-color: transparent;
-  bottom: calc(47.94% - 68px);
-  height: 141px;
-  left: calc(40.33% - 134px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 7432px;
   width: 333px;
 }
 .guidelines-icons .make-sure-that-oppy-and-clumsy-C61RwL {
   background-color: transparent;
-  bottom: calc(43.98% - 51px);
-  height: 117px;
-  left: calc(39.63% - 121px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 8012px;
   width: 305px;
 }
 .guidelines-icons .make-sure-that-re-that-all-the-C61RwL {
   background-color: transparent;
-  bottom: calc(35.65% - 59px);
-  height: 165px;
-  left: calc(39.85% - 125px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 9172px;
   width: 314px;
 }
 .guidelines-icons .navigation-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: 1945px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 12113px;
   width: 640px;
+}
+.guidelines-icons .navigation-FyQmpe {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 201px;
+  white-space: nowrap;
+  width: auto;
 }
 .guidelines-icons .navigation-VMr6Om {
   background-color: transparent;
-  bottom: 2236px;
-  height: 39px;
-  left: calc(36.08% - 53px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 12143px;
   white-space: nowrap;
-  width: 146px;
-}
-.guidelines-icons .navigation-mzXdH9 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 21px;
-  left: 190px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: fixed;
-  text-align: left;
-  top: 391px;
-  white-space: nowrap;
-  width: 78px;
+  width: auto;
 }
 .guidelines-icons .old-vs-new-C61RwL {
   background-color: transparent;
-  bottom: calc(32.55% - 13px);
-  height: 39px;
-  left: calc(32.73% - 48px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 9699px;
   white-space: nowrap;
-  width: 148px;
+  width: auto;
 }
-.guidelines-icons .old-vs-new-VMr6Om {
+.guidelines-icons .old-vs-new-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 598px;
+  top: 408px;
   white-space: nowrap;
-  width: 79px;
-}
-.guidelines-icons .pfad-1373-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  left: calc(42.60% - 8px);
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
-  width: 19px;
-}
-.guidelines-icons .pfad-1374-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(39.84% - 7px);
-  top: 1px;
-  width: 18px;
-}
-.guidelines-icons .pfad-1375-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: calc(29.86% - 1px);
-  top: 1px;
-  width: 4px;
-}
-.guidelines-icons .pfad-1376-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 20px;
-  top: 1px;
-  width: 18px;
-}
-.guidelines-icons .pfad-1377-FV3pGc {
-  background-color: transparent;
-  height: calc(100.00% - 1px);
-  object-fit: cover;
-  position: absolute;
-  right: 1px;
-  top: 1px;
-  width: 16px;
-}
-.guidelines-icons .pfad-1378-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 19px;
-}
-.guidelines-icons .pfad-1379-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: 14px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 4px;
-}
-.guidelines-icons .pfad-1380-FV3pGc {
-  background-color: transparent;
-  height: 100%;
-  left: calc(19.24% - 4px);
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 21px;
-}
-.guidelines-icons .pfad-895-6tzNvg {
-  background-color: transparent;
-  bottom: 0px;
-  height: 9px;
-  object-fit: cover;
-  position: absolute;
-  right: 0px;
-  width: 9px;
+  width: auto;
 }
 .guidelines-icons .phone-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(28.84% - 104px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 10004px;
   width: 640px;
 }
 .guidelines-icons .phone-VMr6Om {
   background-color: transparent;
-  bottom: calc(30.22% - 12px);
-  height: 39px;
-  left: calc(34.93% - 31px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 10034px;
   white-space: nowrap;
-  width: 88px;
+  width: auto;
 }
 .guidelines-icons .rechteck-10-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
   top: 1158px;
   width: 1180px;
 }
@@ -1000,19 +934,19 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(33.28% - 160px);
+  top: 4638px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-1279-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(35.29% - 169px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 9019px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-323-C61RwL {
@@ -1020,8 +954,8 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
   top: 1738px;
   width: 1180px;
 }
@@ -1030,8 +964,8 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
   top: 2318px;
   width: 1180px;
 }
@@ -1040,9 +974,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(20.79% - 100px);
+  top: 2898px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-332-C61RwL {
@@ -1050,9 +984,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(24.95% - 120px);
+  top: 3478px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-335-C61RwL {
@@ -1060,9 +994,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(29.11% - 140px);
+  top: 4058px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-342-C61RwL {
@@ -1070,9 +1004,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(39.74% - 191px);
+  top: 5539px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-352-C61RwL {
@@ -1080,9 +1014,9 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(43.90% - 211px);
+  top: 6119px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-357-C61RwL {
@@ -1090,118 +1024,108 @@ opacity: 0;transform: translate(0, 25px);
   border-radius: 12px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
-  top: calc(48.06% - 231px);
+  top: 6699px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-362-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(47.78% - 229px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 7279px;
   width: 1180px;
 }
-.guidelines-icons .rechteck-616-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 35px #00000029;
-  height: 584px;
-  left: 160px;
-  position: fixed;
-  top: 190px;
-  width: 340px;
-}
-.guidelines-icons .rechteck-663-C61RwL {
+.guidelines-icons .rechteck-663-FyQmpe {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
   height: 26px;
-  left: 190px;
-  position: fixed;
-  top: 475px;
+  left: 30px;
+  position: absolute;
+  top: 285px;
   width: 3px;
 }
 .guidelines-icons .rechteck-772-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(24.49% - 118px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 10524px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-773-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(28.66% - 138px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 9944px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-775-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(20.33% - 98px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 11104px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-801-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: 1305px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 12633px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-802-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: 1885px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 12053px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-803-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: 725px;
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 13213px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-874-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(43.61% - 209px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 7859px;
   width: 1180px;
 }
 .guidelines-icons .rechteck-881-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
-  bottom: calc(39.45% - 189px);
   box-shadow: 0px 2px 30px #00000029;
   height: 480px;
+  left: 580px;
   position: absolute;
-  right: 160px;
+  top: 8439px;
   width: 1180px;
 }
 .guidelines-icons .resources-GCEBCP {
@@ -1219,24 +1143,24 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .same-section-C61RwL {
   background-color: transparent;
-  bottom: calc(36.65% - 14px);
-  height: 39px;
-  left: calc(36.93% - 69px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 9109px;
   white-space: nowrap;
-  width: 187px;
+  width: auto;
 }
 .guidelines-icons .samesection-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(35.42% - 128px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 9079px;
   width: 640px;
 }
 .guidelines-icons .search-SZqgts {
@@ -1259,68 +1183,68 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .shortcuts-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: 785px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 13273px;
   width: 640px;
 }
 .guidelines-icons .shortcuts-VMr6Om {
   background-color: transparent;
-  bottom: 1076px;
-  height: 39px;
-  left: calc(35.81% - 48px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 13303px;
   white-space: nowrap;
-  width: 133px;
+  width: auto;
 }
 .guidelines-icons .simplicity-C61RwL {
   background-color: transparent;
   border-radius: 12px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
-  top: calc(39.83% - 143px);
+  top: 5599px;
   width: 640px;
 }
 .guidelines-icons .simplicity-VMr6Om {
   background-color: transparent;
-  height: 39px;
-  left: calc(35.83% - 48px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(39.15% - 15px);
+  top: 5629px;
   white-space: nowrap;
-  width: 134px;
+  width: auto;
 }
 .guidelines-icons .space-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: calc(47.79% - 172px);
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 7339px;
   width: 640px;
 }
 .guidelines-icons .space-VMr6Om {
   background-color: transparent;
-  bottom: calc(48.75% - 19px);
-  height: 39px;
-  left: calc(34.88% - 30px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 7369px;
   white-space: nowrap;
-  width: 85px;
+  width: auto;
 }
 .guidelines-icons .span0-wjtAnG {
 
@@ -1334,107 +1258,107 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .square-C61RwL {
   background-color: transparent;
   height: 355px;
+  left: 1274px;
   object-fit: cover;
   position: absolute;
-  right: 267px;
   top: 2415px;
   width: 379px;
 }
 .guidelines-icons .square-VMr6Om {
   background-color: transparent;
-  height: 39px;
-  left: calc(35.09% - 34px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
   top: 2408px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-icons .step-01-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
   top: 1214px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .step-02-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
   top: 1794px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .step-03-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
   top: 2374px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .step-04-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(20.52% - 3px);
+  top: 2954px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .step-05-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(24.54% - 4px);
+  top: 3534px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .step-06-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(28.57% - 5px);
+  top: 4114px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .step-06-VMr6Om {
   background-color: transparent;
-  height: 17px;
-  left: calc(34.15% - 16px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(32.60% - 6px);
+  top: 4694px;
   white-space: nowrap;
-  width: 46px;
+  width: auto;
 }
 .guidelines-icons .streamlineicons-RSfdSb {
   background-color: transparent;
@@ -1451,95 +1375,95 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .strengthen-meaning-C61RwL {
   background-color: transparent;
-  bottom: 1656px;
-  height: 39px;
-  left: calc(38.86% - 106px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 12723px;
   white-space: nowrap;
-  width: 273px;
+  width: auto;
 }
 .guidelines-icons .strengthenmeaning-C61RwL {
   background-color: transparent;
   border-radius: 12px;
-  bottom: 1365px;
   height: 360px;
+  left: 1060px;
   object-fit: cover;
   position: absolute;
-  right: 220px;
+  top: 12693px;
   width: 640px;
 }
 .guidelines-icons .the-measurement-this-shape-are-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(38.81% - 105px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
   top: 2471px;
   white-space: nowrap;
-  width: 271px;
+  width: auto;
 }
 .guidelines-icons .the-measurement-this-shape-are-QxM5SU {
   background-color: transparent;
-  height: 21px;
-  left: calc(38.81% - 105px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(29.25% - 6px);
+  top: 4211px;
   white-space: nowrap;
-  width: 271px;
+  width: auto;
 }
 .guidelines-icons .the-measurement-this-shape-are-VMr6Om {
   background-color: transparent;
-  height: 21px;
-  left: calc(38.81% - 105px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(21.19% - 4px);
+  top: 3051px;
   white-space: nowrap;
-  width: 271px;
+  width: auto;
 }
 .guidelines-icons .the-measurement-this-shape-are-mzXdH9 {
   background-color: transparent;
-  height: 21px;
-  left: calc(38.81% - 105px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(25.22% - 5px);
+  top: 3631px;
   white-space: nowrap;
-  width: 271px;
+  width: auto;
 }
 .guidelines-icons .the-size-of-the-n-a-188px-frame-C61RwL {
   background-color: transparent;
-  height: 69px;
-  left: calc(41.48% - 156px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
   top: 1312px;
   white-space: nowrap;
-  width: 377px;
+  width: auto;
 }
 .guidelines-icons .the-so-called-t-also-used-today-C61RwL {
   background-color: transparent;
-  bottom: calc(29.40% - 34px);
-  height: 117px;
-  left: calc(41.00% - 147px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 10097px;
   width: 359px;
 }
 .guidelines-icons .thenounproject-QZaHRz {
@@ -1557,20 +1481,20 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .there-are-many-re-contemporary-C61RwL {
   background-color: transparent;
-  bottom: calc(31.88% - 22px);
-  height: 69px;
-  left: calc(46.66% - 316px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 9774px;
   white-space: nowrap;
-  width: 677px;
+  width: auto;
 }
 .guidelines-icons .these-lines-and-ross-your-icons-C61RwL {
   background-color: transparent;
-  height: 69px;
-  left: calc(41.99% - 166px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
@@ -1580,51 +1504,51 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .this-is-how-for-ok-in-this-grid-C61RwL {
   background-color: transparent;
-  height: 45px;
-  left: calc(38.30% - 95px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(33.34% - 15px);
+  top: 4792px;
   white-space: nowrap;
-  width: 249px;
+  width: auto;
 }
 .guidelines-icons .to-achieve-cons-ckness-and-size-C61RwL {
   background-color: transparent;
-  height: 117px;
-  left: calc(40.23% - 132px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(47.91% - 56px);
+  top: 6852px;
   width: 329px;
 }
 .guidelines-icons .usage-of-icons-C61RwL {
   background-color: transparent;
-  bottom: 2595px;
-  height: 39px;
-  left: calc(33.76% - 68px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: 11784px;
   white-space: nowrap;
-  width: 202px;
+  width: auto;
 }
-.guidelines-icons .usage-of-icons-VMr6Om {
+.guidelines-icons .usage-of-icons-FyQmpe {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
-  left: 207px;
+  height: auto;
+  left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: fixed;
+  position: absolute;
   text-align: left;
-  top: 639px;
+  top: 449px;
   white-space: nowrap;
-  width: 108px;
+  width: auto;
 }
 .guidelines-icons .useanimations-o616So {
   background-color: transparent;
@@ -1641,254 +1565,264 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .vertical-rectangle-C61RwL {
   background-color: transparent;
-  height: 39px;
-  left: calc(38.07% - 91px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(20.78% - 8px);
+  top: 2988px;
   white-space: nowrap;
-  width: 239px;
+  width: auto;
 }
 .guidelines-icons .verticalrectangle-C61RwL {
   background-color: transparent;
   height: 355px;
+  left: 1274px;
   object-fit: cover;
   position: absolute;
-  right: 267px;
-  top: calc(21.30% - 76px);
+  top: 2995px;
   width: 379px;
 }
 .guidelines-icons .we-already-know-o-a-garbage-can-C61RwL {
   background-color: transparent;
-  bottom: calc(21.42% - 20px);
-  height: 93px;
-  left: calc(40.20% - 132px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
+  top: 11257px;
   width: 328px;
 }
 .guidelines-icons .when-creating-i-for-their-icons-C61RwL {
   background-color: transparent;
-  height: 69px;
-  left: calc(42.27% - 232px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
   top: 988px;
   white-space: nowrap;
-  width: 548px;
+  width: auto;
 }
 .guidelines-icons .when-you-create-tips-for-icons-C61RwL {
   background-color: transparent;
-  height: 45px;
-  left: calc(44.48% - 274px);
+  height: auto;
+  left: 580px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(37.53% - 17px);
+  top: 5394px;
   white-space: nowrap;
-  width: 616px;
+  width: auto;
 }
 .guidelines-icons .width-128px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.07% - 33px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(21.68% - 5px);
+  top: 3121px;
   white-space: nowrap;
-  width: 95px;
+  width: auto;
 }
 .guidelines-icons .width-152px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.07% - 33px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
   top: 2547px;
   white-space: nowrap;
-  width: 95px;
+  width: auto;
 }
 .guidelines-icons .width-176px-C61RwL {
   background-color: transparent;
-  height: 21px;
-  left: calc(35.07% - 33px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: calc(25.71% - 5px);
+  top: 3701px;
   white-space: nowrap;
-  width: 95px;
+  width: auto;
 }
 .guidelines-icons .x01-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(38.85% - 7px);
+  top: 5596px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x01-VMr6Om {
   background-color: transparent;
-  bottom: calc(30.56% - 5px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 10000px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x01-mzXdH9 {
   background-color: transparent;
-  bottom: 2292px;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 12110px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x02-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(42.88% - 7px);
+  top: 6176px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x02-VMr6Om {
   background-color: transparent;
-  bottom: calc(26.53% - 5px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 10580px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x02-mzXdH9 {
   background-color: transparent;
-  bottom: 1712px;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 12690px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x03-C61RwL {
   background-color: transparent;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  top: calc(46.91% - 8px);
+  top: 6756px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x03-VMr6Om {
   background-color: transparent;
-  bottom: calc(22.50% - 4px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 11160px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x03-mzXdH9 {
   background-color: transparent;
-  bottom: 1132px;
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 13270px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x04-C61RwL {
   background-color: transparent;
-  bottom: calc(49.06% - 8px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 7336px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x05-C61RwL {
   background-color: transparent;
-  bottom: calc(45.04% - 8px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 7916px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x06-C61RwL {
   background-color: transparent;
-  bottom: calc(41.01% - 7px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 8496px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
 .guidelines-icons .x07-C61RwL {
   background-color: transparent;
-  bottom: calc(36.98% - 6px);
-  height: 17px;
-  left: calc(33.63% - 6px);
+  height: auto;
+  left: 640px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
   text-align: left;
+  top: 9076px;
   white-space: nowrap;
-  width: 17px;
+  width: auto;
 }
-@keyframes animate-enter13-frames {
+@keyframes animate-enter36-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter37-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter38-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
