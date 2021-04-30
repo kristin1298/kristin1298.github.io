@@ -1,7 +1,7 @@
 /* screen - design-guide */
 
-.animate-enter1 {
-  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter14 {
+  animation: animate-enter14-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,25 +28,22 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-guide .animate-enter {
-  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.design-guide .animate-enter13 {
+  animation: animate-enter13-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .avoid-these-typo-errors-PngSPK {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 166px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .bannerdesignguide-C61RwL {
   background-color: transparent;
@@ -61,33 +58,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .best-practice-tips-B6FddB {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 125px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .breakpoints-for-fferent-devices-kSleWw {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 233px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .buttons-C61RwL {
   background-color: transparent;
@@ -104,33 +95,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .color-deficiencies-sxROfv {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 129px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .color-psychology-8SOaIp {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 124px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .colors-C61RwL {
   background-color: transparent;
@@ -147,33 +132,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .contrast-checker-5dRcjU {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 123px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .contrast-checker-kv5RIr {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 123px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .design-guide-C61RwL {
   background-color: transparent;
@@ -234,18 +213,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .font-size-and-scaling-ZbTrxz {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 152px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .fonts-C61RwL {
   background-color: transparent;
@@ -264,11 +240,11 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  height: 430px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1600px;
+  width: 100%;
 }
 .design-guide .gruppe-1125-C61RwL {
   background-color: transparent;
@@ -280,58 +256,37 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1126-C61RwL {
-  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 1680px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1127-C61RwL {
-  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 2260px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1128-C61RwL {
-  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 2840px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1129-C61RwL {
   align-items: flex-start;
@@ -352,40 +307,26 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .design-guide .gruppe-1130-C61RwL {
-  align-items: flex-end;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 4581px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1131-C61RwL {
-  align-items: flex-start;
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 4000px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-496-GCEBCP {
   align-items: flex-start;
@@ -433,18 +374,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .how-to-build-icons-1eOwQW {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 134px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .icons-C61RwL {
   background-color: transparent;
@@ -461,368 +399,215 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .inspiration-and-free-icon-sets-G76uWd {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 208px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .komponente-73-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 125px;
   position: absolute;
   top: 4267px;
-  width: auto;
+  width: 125px;
 }
 .design-guide .komponente-74-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 225px;
   position: absolute;
   top: 4310px;
-  width: auto;
+  width: 225px;
 }
 .design-guide .komponente-75-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 96px;
   position: absolute;
   top: 4224px;
-  width: auto;
+  width: 96px;
 }
 .design-guide .komponente-76-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 142px;
   position: absolute;
   top: 4181px;
-  width: auto;
+  width: 142px;
 }
 .design-guide .komponente-77-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 151px;
   position: absolute;
   top: 4138px;
-  width: auto;
+  width: 151px;
 }
 .design-guide .komponente-78-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 221px;
   position: absolute;
   top: 4805px;
-  width: auto;
+  width: 221px;
 }
 .design-guide .komponente-79-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 141px;
   position: absolute;
   top: 4762px;
-  width: auto;
+  width: 141px;
 }
 .design-guide .komponente-80-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 141px;
   position: absolute;
   top: 4719px;
-  width: auto;
+  width: 141px;
 }
 .design-guide .komponente-81-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 140px;
   position: absolute;
   top: 3771px;
-  width: auto;
+  width: 140px;
 }
 .design-guide .komponente-82-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 183px;
   position: absolute;
   top: 3728px;
-  width: auto;
+  width: 183px;
 }
 .design-guide .komponente-83-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 169px;
   position: absolute;
   top: 3686px;
-  width: auto;
+  width: 169px;
 }
 .design-guide .komponente-84-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 127px;
   position: absolute;
   top: 3643px;
-  width: auto;
+  width: 127px;
 }
 .design-guide .komponente-85-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 93px;
   position: absolute;
   top: 3601px;
-  width: auto;
+  width: 93px;
 }
 .design-guide .komponente-86-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 131px;
   position: absolute;
   top: 3558px;
-  width: auto;
+  width: 131px;
 }
 .design-guide .komponente-87-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 241px;
   position: absolute;
   top: 3036px;
-  width: auto;
+  width: 241px;
 }
 .design-guide .komponente-88-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 250px;
   position: absolute;
   top: 2993px;
-  width: auto;
+  width: 250px;
 }
 .design-guide .komponente-89-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 141px;
   position: absolute;
   top: 2441px;
-  width: auto;
+  width: 141px;
 }
 .design-guide .komponente-90-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 131px;
   position: absolute;
   top: 2398px;
-  width: auto;
+  width: 131px;
 }
 .design-guide .komponente-91-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 140px;
   position: absolute;
   top: 1947px;
-  width: auto;
+  width: 140px;
 }
 .design-guide .komponente-92-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 207px;
   position: absolute;
   top: 1904px;
-  width: auto;
+  width: 207px;
 }
 .design-guide .komponente-93-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 232px;
   position: absolute;
   top: 1861px;
-  width: auto;
+  width: 232px;
 }
 .design-guide .komponente-94-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 146px;
   position: absolute;
   top: 1818px;
-  width: auto;
+  width: 146px;
 }
 .design-guide .komponente-95-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 168px;
   position: absolute;
   top: 1325px;
-  width: auto;
+  width: 168px;
 }
 .design-guide .komponente-96-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 122px;
   position: absolute;
   top: 1282px;
-  width: auto;
+  width: 122px;
 }
 .design-guide .komponente-97-1-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 220px;
-  min-width: 250px;
   position: absolute;
   top: 1239px;
-  width: auto;
+  width: 250px;
 }
 .design-guide .layout-C61RwL {
   background-color: transparent;
@@ -911,18 +696,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .make-your-designs-accessible-vQgHTa {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 215px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .navigation-C61RwL {
   background-color: transparent;
@@ -939,72 +721,66 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .navigation-elem-nts-for-desktop-ppXcOh {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 233px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .navigation-elements-for-mobile-INlcf1 {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 224px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .old-vs-new-DtUutc {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 79px;
-  position: relative;
+  position: absolute;
+  right: -2px;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: 79px;
 }
 .design-guide .overviewaccessibility-fQ4YiQ {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
+  height: 100%;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 1312px;
 }
 .design-guide .overviewbuttons-9UDOxM {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
+  height: 100%;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 1312px;
 }
 .design-guide .overviewcolors-4j9Fxa {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
+  height: 100%;
+  left: 288px;
   object-fit: cover;
-  position: relative;
-  width: 1312px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 288px);
 }
 .design-guide .overviewfonts-ZxJczG {
   background-color: transparent;
@@ -1016,97 +792,92 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewicons-W8JIii {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
-  object-fit: cover;
-  position: relative;
-  width: 1312px;
-}
-.design-guide .overviewlayout-juugUx {
-  background-color: transparent;
-  height: 430px;
+  height: 100%;
   left: 288px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: 1312px;
+  width: calc(100.00% - 288px);
+}
+.design-guide .overviewlayout-juugUx {
+  background-color: transparent;
+  height: 100%;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 288px);
 }
 .design-guide .overviewnavigation-Ww0XKU {
   background-color: transparent;
-  flex-shrink: 1;
-  height: 430px;
+  height: 100%;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  right: 1px;
+  top: 1px;
   width: 1312px;
 }
 .design-guide .pfad-1393-kSleWw {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.91px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(45.89% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1394-tZdNQo {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1395-d6q1wf {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1396-sxROfv {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1397-vQgHTa {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1398-oNRgMI {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1399-5dRcjU {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1400-C61RwL {
@@ -1119,183 +890,165 @@ opacity: 0;transform: translate(0, 25px);
   width: 7px;
 }
 .design-guide .pfad-1401-hHwIl2 {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1402-8SOaIp {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1403-INlcf1 {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1404-ppXcOh {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1405-kV5Jrz {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1406-xexbVU {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1407-cjD28W {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1408-ZbTrxz {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1409-PngSPK {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1410-kv5RIr {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1411-1eOwQW {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(49.99% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1412-B6FddB {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.09px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(49.59% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1413-DtUutc {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.18px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(49.18% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1414-zARyJa {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.27px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(48.77% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1415-G76uWd {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(49.99% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1416-N5QM04 {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: calc(49.99% - 4px);
   height: 8px;
-  margin-top: 0.0px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 7px;
 }
 .design-guide .pfad-1417-mGEHbe {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.08px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(49.62% - 4px);
   width: 7px;
 }
 .design-guide .pfad-1418-LBCV8J {
-  align-self: center;
   background-color: transparent;
-  flex-shrink: 1;
   height: 8px;
-  margin-bottom: 0.17px;
+  left: 0px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: calc(49.23% - 4px);
   width: 7px;
 }
 .design-guide .resources-GCEBCP {
@@ -1316,33 +1069,27 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .rules-for-buttons-N5QM04 {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 124px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .sans-serif-fonts-kV5Jrz {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 114px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .scrollto-C61RwL {
   background-color: transparent;
@@ -1374,145 +1121,118 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .serif-fonts-xexbVU {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 76px;
-  position: relative;
+  position: absolute;
+  right: -2px;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: 76px;
 }
 .design-guide .slab-serif-fonts-cjD28W {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 110px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .tips-for-a-great-dark-mode-oNRgMI {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 190px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-buttons-mGEHbe {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 124px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-colors-hHwIl2 {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 114px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-grids-tZdNQo {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 105px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-icons-zARyJa {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 108px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .usage-of-whitespace-d6q1wf {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 151px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
 .design-guide .when-to-use-buttons-or-links-LBCV8J {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 10px;
-  margin-top: -4px;
-  min-height: 21px;
-  min-width: 204px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: -4px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 15px);
 }
-@keyframes animate-enter-frames {
+@keyframes animate-enter13-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter1-frames {
+@keyframes animate-enter14-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

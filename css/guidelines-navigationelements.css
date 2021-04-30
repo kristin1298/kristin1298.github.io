@@ -1,7 +1,7 @@
 /* screen - guidelines-navigationelements */
 
-.animate-enter35 {
-  animation: animate-enter35-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter38 {
+  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,13 +28,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .animate-enter33 {
-  animation: animate-enter33-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter36 {
+  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-navigationelements .animate-enter34 {
-  animation: animate-enter34-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter37 {
+  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1222,17 +1222,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter33-frames {
+@keyframes animate-enter36-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter34-frames {
+@keyframes animate-enter37-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter35-frames {
+@keyframes animate-enter38-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
