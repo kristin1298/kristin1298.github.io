@@ -1,7 +1,7 @@
 /* screen - guidelines-accessibility-1 */
 
-.animate-enter17 {
-  animation: animate-enter17-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter4 {
+  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -110,13 +110,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-1 .animate-enter15 {
-  animation: animate-enter15-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-1 .animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-1 .animate-enter16 {
-  animation: animate-enter16-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-1 .animate-enter3 {
+  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -142,7 +142,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .avoidpureblack-C61RwL {
   --z-index: 23;
   background-color: transparent;
-  background-image: url(../img/avoid-pure-black-1@1x.png);
+  background-image: url(../img/avoid-pure-black@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -411,16 +411,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-accessibility-1 .design-process-GCEBCP {
   --z-index: 2;
@@ -431,16 +431,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-accessibility-1 .dont-just-use-c-r-where-you-are-WlwMhq {
   --z-index: 2;
@@ -516,14 +516,24 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-1 .ebene-2-SZqgts {
-  --z-index: 2;
+.guidelines-accessibility-1 .ebene-2-6tzNvg {
+  --z-index: 0;
   background-color: transparent;
   background-image: url(../img/ebene-2-10@1x.png);
   background-size: 100% 100%;
-  height: calc(100.00% - 23px);
-  left: 24px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-accessibility-1 .ebene-2-SZqgts {
+  --z-index: 2;
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -677,7 +687,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .emotionalaspect-C61RwL {
   --z-index: 8;
   background-color: transparent;
-  background-image: url(../img/emotional-aspect-1@1x.png);
+  background-image: url(../img/emotional-aspect@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -807,10 +817,10 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 4;
   background-color: transparent;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-accessibility-1 .gruppe-497-C61RwL {
@@ -1079,7 +1089,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .largebrightblocks-C61RwL {
   --z-index: 7;
   background-color: transparent;
-  background-image: url(../img/large-bright-blocks-1@1x.png);
+  background-image: url(../img/large-bright-blocks@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -1112,7 +1122,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .linie-412-C61RwL {
   --z-index: 29;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -1125,7 +1135,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .linie-413-C61RwL {
   --z-index: 30;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -1138,7 +1148,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .linie-414-C61RwL {
   --z-index: 31;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -1151,7 +1161,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .linie-415-C61RwL {
   --z-index: 32;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -1172,7 +1182,7 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-accessibility-1 .make-sure-inter-of-buttons-here-zgYbVA {
@@ -1306,7 +1316,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .normal-C61RwL {
   --z-index: 56;
   background-color: transparent;
-  background-image: url(../img/normal-1@1x.png);
+  background-image: url(../img/normal@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1062px;
@@ -1437,7 +1447,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .purewhitetext-C61RwL {
   --z-index: 24;
   background-color: transparent;
-  background-image: url(../img/pure-white-text-1@1x.png);
+  background-image: url(../img/pure-white-text@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -1452,12 +1462,12 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 0;
   background-color: #ffffff;
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  height: 90px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-accessibility-1 .rechteck-1503-WlwMhq {
   --z-index: 0;
@@ -1591,12 +1601,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #f7f8fc;
   border: 1px solid #f7f8fc;
   border-radius: 24px;
-  height: 100%;
+  height: 48px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 566px;
 }
 .guidelines-accessibility-1 .rechteck-560-C61RwL {
   --z-index: 1;
@@ -1709,16 +1719,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-accessibility-1 .right-spacing-b7DVYA {
   --z-index: 1;
@@ -1779,7 +1789,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .saturatedcolors-C61RwL {
   --z-index: 19;
   background-color: transparent;
-  background-image: url(../img/saturated-colors-1@1x.png);
+  background-image: url(../img/saturated-colors@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -1794,7 +1804,6 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 1;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   color: #20212199;
   font-family: 'Roboto', Helvetica;
   font-size: 20px;
@@ -1809,7 +1818,8 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 12px;
+  width: 475px;
 }
 .guidelines-accessibility-1 .search-SZqgts::placeholder {
   color: #2021215c;
@@ -2198,25 +2208,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter15-frames {
+@keyframes animate-enter2-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter16-frames {
+@keyframes animate-enter3-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter17-frames {
+@keyframes animate-enter4-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-layout */
 
-.animate-enter23 {
-  animation: animate-enter23-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter7 {
+  animation: animate-enter7-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -2288,13 +2298,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .animate-enter21 {
-  animation: animate-enter21-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter5 {
+  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-layout .animate-enter22 {
-  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter6 {
+  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -2420,16 +2430,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-layout .design-process-GCEBCP {
   --z-index: 2;
@@ -2440,16 +2450,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-layout .desktop-C61RwL {
   --z-index: 77;
@@ -2470,14 +2480,24 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .ebene-2-SZqgts {
-  --z-index: 2;
+.guidelines-layout .ebene-2-6tzNvg {
+  --z-index: 0;
   background-color: transparent;
   background-image: url(../img/ebene-2-10@1x.png);
   background-size: 100% 100%;
-  height: calc(100.00% - 23px);
-  left: 24px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-layout .ebene-2-SZqgts {
+  --z-index: 2;
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -2696,10 +2716,10 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 4;
   background-color: transparent;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-layout .gruppe-497-C61RwL {
@@ -2725,7 +2745,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .gruppe-maskieren-31-C61RwL {
   --z-index: 46;
   background-color: transparent;
-  background-image: url(../img/gruppe-maskieren-31@1x.png);
+  background-image: url(../img/pfad-755@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -2982,7 +3002,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .linie-409-C61RwL {
   --z-index: 50;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 577px;
@@ -2995,7 +3015,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .linie-410-C61RwL {
   --z-index: 51;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -3008,7 +3028,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .linie-411-C61RwL {
   --z-index: 52;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -3042,7 +3062,7 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-layout .macro-and-micro-C61RwL {
@@ -3270,7 +3290,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .pfad-755-C61RwL {
   --z-index: 12;
   background-color: transparent;
-  background-image: url(../img/gruppe-maskieren-31@1x.png);
+  background-image: url(../img/pfad-755@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -3283,7 +3303,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .pfad-956-C61RwL {
   --z-index: 47;
   background-color: transparent;
-  background-image: url(../img/gruppe-maskieren-31@1x.png);
+  background-image: url(../img/pfad-755@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -3309,7 +3329,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .pfad-965-C61RwL {
   --z-index: 13;
   background-color: transparent;
-  background-image: url(../img/gruppe-maskieren-31@1x.png);
+  background-image: url(../img/pfad-755@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -3323,12 +3343,12 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 0;
   background-color: #ffffff;
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  height: 90px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-layout .rechteck-10-C61RwL {
   --z-index: 1;
@@ -3347,12 +3367,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #f7f8fc;
   border: 1px solid #f7f8fc;
   border-radius: 24px;
-  height: 100%;
+  height: 48px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 566px;
 }
 .guidelines-layout .rechteck-590-C61RwL {
   --z-index: 3;
@@ -3477,16 +3497,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-layout .same-spacing-C61RwL {
   --z-index: 9;
@@ -3524,7 +3544,6 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 1;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   color: #20212199;
   font-family: 'Roboto', Helvetica;
   font-size: 20px;
@@ -3539,7 +3558,8 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 12px;
+  width: 475px;
 }
 .guidelines-layout .search-SZqgts::placeholder {
   color: #2021215c;
@@ -4132,17 +4152,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter21-frames {
+@keyframes animate-enter5-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter22-frames {
+@keyframes animate-enter6-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter23-frames {
+@keyframes animate-enter7-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
@@ -4272,7 +4292,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .avoidpureblack-C61RwL {
   --z-index: 21;
   background-color: transparent;
-  background-image: url(../img/avoid-pure-black-1@1x.png);
+  background-image: url(../img/avoid-pure-black@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -4541,16 +4561,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-accessibility-2 .design-process-GCEBCP {
   --z-index: 2;
@@ -4561,16 +4581,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-accessibility-2 .deuteranopia-C61RwL {
   --z-index: 42;
@@ -4678,14 +4698,24 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-2 .ebene-2-SZqgts {
-  --z-index: 2;
+.guidelines-accessibility-2 .ebene-2-6tzNvg {
+  --z-index: 0;
   background-color: transparent;
   background-image: url(../img/ebene-2-10@1x.png);
   background-size: 100% 100%;
-  height: calc(100.00% - 23px);
-  left: 24px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-accessibility-2 .ebene-2-SZqgts {
+  --z-index: 2;
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -4773,7 +4803,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .emotionalaspect-C61RwL {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/emotional-aspect-1@1x.png);
+  background-image: url(../img/emotional-aspect@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -4893,10 +4923,10 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 4;
   background-color: transparent;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-accessibility-2 .gruppe-497-C61RwL {
@@ -5154,7 +5184,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .largebrightblocks-C61RwL {
   --z-index: 5;
   background-color: transparent;
-  background-image: url(../img/large-bright-blocks-1@1x.png);
+  background-image: url(../img/large-bright-blocks@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -5187,7 +5217,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .linie-412-C61RwL {
   --z-index: 27;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -5200,7 +5230,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .linie-413-C61RwL {
   --z-index: 28;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -5213,7 +5243,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .linie-414-C61RwL {
   --z-index: 29;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -5226,7 +5256,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .linie-415-C61RwL {
   --z-index: 30;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -5247,7 +5277,7 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-accessibility-2 .make-sure-inter-of-buttons-here-zgYbVA {
@@ -5381,7 +5411,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .normal-C61RwL {
   --z-index: 54;
   background-color: transparent;
-  background-image: url(../img/normal-1@1x.png);
+  background-image: url(../img/normal@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1062px;
@@ -5512,7 +5542,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .purewhitetext-C61RwL {
   --z-index: 22;
   background-color: transparent;
-  background-image: url(../img/pure-white-text-1@1x.png);
+  background-image: url(../img/pure-white-text@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -5527,12 +5557,12 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 0;
   background-color: #ffffff;
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  height: 90px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-accessibility-2 .rechteck-1503-WlwMhq {
   --z-index: 0;
@@ -5666,12 +5696,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #f7f8fc;
   border: 1px solid #f7f8fc;
   border-radius: 24px;
-  height: 100%;
+  height: 48px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 566px;
 }
 .guidelines-accessibility-2 .rechteck-560-C61RwL {
   --z-index: 1;
@@ -5784,16 +5814,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-accessibility-2 .right-spacing-b7DVYA {
   --z-index: 1;
@@ -5854,7 +5884,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-2 .saturatedcolors-C61RwL {
   --z-index: 17;
   background-color: transparent;
-  background-image: url(../img/saturated-colors-1@1x.png);
+  background-image: url(../img/saturated-colors@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -5869,7 +5899,6 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 1;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   color: #20212199;
   font-family: 'Roboto', Helvetica;
   font-size: 20px;
@@ -5884,7 +5913,8 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 12px;
+  width: 475px;
 }
 .guidelines-accessibility-2 .search-SZqgts::placeholder {
   color: #2021215c;
@@ -6413,7 +6443,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .avoidpureblack-C61RwL {
   --z-index: 21;
   background-color: transparent;
-  background-image: url(../img/avoid-pure-black-1@1x.png);
+  background-image: url(../img/avoid-pure-black@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -6682,16 +6712,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-accessibility-3 .design-process-GCEBCP {
   --z-index: 2;
@@ -6702,16 +6732,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-accessibility-3 .dont-just-use-c-r-where-you-are-WlwMhq {
   --z-index: 2;
@@ -6787,14 +6817,24 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-3 .ebene-2-SZqgts {
-  --z-index: 2;
+.guidelines-accessibility-3 .ebene-2-6tzNvg {
+  --z-index: 0;
   background-color: transparent;
   background-image: url(../img/ebene-2-10@1x.png);
   background-size: 100% 100%;
-  height: calc(100.00% - 23px);
-  left: 24px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-accessibility-3 .ebene-2-SZqgts {
+  --z-index: 2;
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -6882,7 +6922,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .emotionalaspect-C61RwL {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/emotional-aspect-1@1x.png);
+  background-image: url(../img/emotional-aspect@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -7012,10 +7052,10 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 4;
   background-color: transparent;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-accessibility-3 .gruppe-497-C61RwL {
@@ -7273,7 +7313,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .largebrightblocks-C61RwL {
   --z-index: 5;
   background-color: transparent;
-  background-image: url(../img/large-bright-blocks-1@1x.png);
+  background-image: url(../img/large-bright-blocks@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -7306,7 +7346,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .linie-412-C61RwL {
   --z-index: 27;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -7319,7 +7359,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .linie-413-C61RwL {
   --z-index: 28;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -7332,7 +7372,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .linie-414-C61RwL {
   --z-index: 29;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -7345,7 +7385,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .linie-415-C61RwL {
   --z-index: 30;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -7366,7 +7406,7 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-accessibility-3 .make-sure-inter-of-buttons-here-zgYbVA {
@@ -7500,7 +7540,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .normal-C61RwL {
   --z-index: 54;
   background-color: transparent;
-  background-image: url(../img/normal-1@1x.png);
+  background-image: url(../img/normal@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1062px;
@@ -7663,7 +7703,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .purewhitetext-C61RwL {
   --z-index: 22;
   background-color: transparent;
-  background-image: url(../img/pure-white-text-1@1x.png);
+  background-image: url(../img/pure-white-text@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -7678,12 +7718,12 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 0;
   background-color: #ffffff;
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  height: 90px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-accessibility-3 .rechteck-1503-WlwMhq {
   --z-index: 0;
@@ -7817,12 +7857,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #f7f8fc;
   border: 1px solid #f7f8fc;
   border-radius: 24px;
-  height: 100%;
+  height: 48px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 566px;
 }
 .guidelines-accessibility-3 .rechteck-560-C61RwL {
   --z-index: 1;
@@ -7935,16 +7975,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-accessibility-3 .right-spacing-b7DVYA {
   --z-index: 1;
@@ -8005,7 +8045,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .saturatedcolors-C61RwL {
   --z-index: 17;
   background-color: transparent;
-  background-image: url(../img/saturated-colors-1@1x.png);
+  background-image: url(../img/saturated-colors@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -8020,7 +8060,6 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 1;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   color: #20212199;
   font-family: 'Roboto', Helvetica;
   font-size: 20px;
@@ -8035,7 +8074,8 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 12px;
+  width: 475px;
 }
 .guidelines-accessibility-3 .search-SZqgts::placeholder {
   color: #2021215c;
@@ -8564,7 +8604,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .avoidpureblack-C61RwL {
   --z-index: 21;
   background-color: transparent;
-  background-image: url(../img/avoid-pure-black-1@1x.png);
+  background-image: url(../img/avoid-pure-black@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -8833,16 +8873,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-accessibility-4 .design-process-GCEBCP {
   --z-index: 2;
@@ -8853,16 +8893,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-accessibility-4 .dont-just-use-c-r-where-you-are-WlwMhq {
   --z-index: 2;
@@ -8938,14 +8978,24 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-4 .ebene-2-SZqgts {
-  --z-index: 2;
+.guidelines-accessibility-4 .ebene-2-6tzNvg {
+  --z-index: 0;
   background-color: transparent;
   background-image: url(../img/ebene-2-10@1x.png);
   background-size: 100% 100%;
-  height: calc(100.00% - 23px);
-  left: 24px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-accessibility-4 .ebene-2-SZqgts {
+  --z-index: 2;
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -9033,7 +9083,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .emotionalaspect-C61RwL {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/emotional-aspect-1@1x.png);
+  background-image: url(../img/emotional-aspect@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -9163,10 +9213,10 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 4;
   background-color: transparent;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-accessibility-4 .gruppe-497-C61RwL {
@@ -9424,7 +9474,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .largebrightblocks-C61RwL {
   --z-index: 5;
   background-color: transparent;
-  background-image: url(../img/large-bright-blocks-1@1x.png);
+  background-image: url(../img/large-bright-blocks@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -9457,7 +9507,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .linie-412-C61RwL {
   --z-index: 27;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -9470,7 +9520,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .linie-413-C61RwL {
   --z-index: 28;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -9483,7 +9533,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .linie-414-C61RwL {
   --z-index: 29;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -9496,7 +9546,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .linie-415-C61RwL {
   --z-index: 30;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -9517,7 +9567,7 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-accessibility-4 .make-sure-inter-of-buttons-here-zgYbVA {
@@ -9651,7 +9701,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .normal-C61RwL {
   --z-index: 54;
   background-color: transparent;
-  background-image: url(../img/normal-1@1x.png);
+  background-image: url(../img/normal@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1062px;
@@ -9782,7 +9832,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .purewhitetext-C61RwL {
   --z-index: 22;
   background-color: transparent;
-  background-image: url(../img/pure-white-text-1@1x.png);
+  background-image: url(../img/pure-white-text@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -9797,12 +9847,12 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 0;
   background-color: #ffffff;
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  height: 90px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-accessibility-4 .rechteck-1503-WlwMhq {
   --z-index: 0;
@@ -9936,12 +9986,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #f7f8fc;
   border: 1px solid #f7f8fc;
   border-radius: 24px;
-  height: 100%;
+  height: 48px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 566px;
 }
 .guidelines-accessibility-4 .rechteck-560-C61RwL {
   --z-index: 1;
@@ -10054,16 +10104,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-accessibility-4 .right-spacing-b7DVYA {
   --z-index: 1;
@@ -10124,7 +10174,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .saturatedcolors-C61RwL {
   --z-index: 17;
   background-color: transparent;
-  background-image: url(../img/saturated-colors-1@1x.png);
+  background-image: url(../img/saturated-colors@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -10139,7 +10189,6 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 1;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   color: #20212199;
   font-family: 'Roboto', Helvetica;
   font-size: 20px;
@@ -10154,7 +10203,8 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 12px;
+  width: 475px;
 }
 .guidelines-accessibility-4 .search-SZqgts::placeholder {
   color: #2021215c;
@@ -10715,7 +10765,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .avoidpureblack-C61RwL {
   --z-index: 21;
   background-color: transparent;
-  background-image: url(../img/avoid-pure-black-1@1x.png);
+  background-image: url(../img/avoid-pure-black@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -10984,16 +11034,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-accessibility-5 .design-process-GCEBCP {
   --z-index: 2;
@@ -11004,16 +11054,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-accessibility-5 .dont-just-use-c-r-where-you-are-WlwMhq {
   --z-index: 2;
@@ -11089,14 +11139,24 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-5 .ebene-2-SZqgts {
-  --z-index: 2;
+.guidelines-accessibility-5 .ebene-2-6tzNvg {
+  --z-index: 0;
   background-color: transparent;
   background-image: url(../img/ebene-2-10@1x.png);
   background-size: 100% 100%;
-  height: calc(100.00% - 23px);
-  left: 24px;
+  height: 100%;
+  left: 0px;
   object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-accessibility-5 .ebene-2-SZqgts {
+  --z-index: 2;
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -11184,7 +11244,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .emotionalaspect-C61RwL {
   --z-index: 6;
   background-color: transparent;
-  background-image: url(../img/emotional-aspect-1@1x.png);
+  background-image: url(../img/emotional-aspect@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -11314,10 +11374,10 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 4;
   background-color: transparent;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-accessibility-5 .gruppe-497-C61RwL {
@@ -11575,7 +11635,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .largebrightblocks-C61RwL {
   --z-index: 5;
   background-color: transparent;
-  background-image: url(../img/large-bright-blocks-1@1x.png);
+  background-image: url(../img/large-bright-blocks@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1060px;
@@ -11608,7 +11668,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .linie-412-C61RwL {
   --z-index: 27;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -11621,7 +11681,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .linie-413-C61RwL {
   --z-index: 28;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -11634,7 +11694,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .linie-414-C61RwL {
   --z-index: 29;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -11647,7 +11707,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .linie-415-C61RwL {
   --z-index: 30;
   background-color: transparent;
-  background-image: url(../img/linie-399-1@1x.png);
+  background-image: url(../img/linie-409@1x.png);
   background-size: 100% 100%;
   height: 4px;
   left: 578px;
@@ -11668,7 +11728,7 @@ opacity: 0;transform: translate(0, 25px);
   object-fit: cover;
   opacity: 1;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-accessibility-5 .make-sure-inter-of-buttons-here-zgYbVA {
@@ -11834,7 +11894,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .normal-C61RwL {
   --z-index: 54;
   background-color: transparent;
-  background-image: url(../img/normal-1@1x.png);
+  background-image: url(../img/normal@1x.png);
   background-size: 100% 100%;
   height: 360px;
   left: 1062px;
@@ -11965,7 +12025,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .purewhitetext-C61RwL {
   --z-index: 22;
   background-color: transparent;
-  background-image: url(../img/pure-white-text-1@1x.png);
+  background-image: url(../img/pure-white-text@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -11980,12 +12040,12 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 0;
   background-color: #ffffff;
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  height: 90px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 1920px;
 }
 .guidelines-accessibility-5 .rechteck-1503-WlwMhq {
   --z-index: 0;
@@ -12119,12 +12179,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #f7f8fc;
   border: 1px solid #f7f8fc;
   border-radius: 24px;
-  height: 100%;
+  height: 48px;
   left: 0px;
   opacity: 1;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 566px;
 }
 .guidelines-accessibility-5 .rechteck-560-C61RwL {
   --z-index: 1;
@@ -12237,16 +12297,16 @@ opacity: 0;transform: translate(0, 25px);
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   opacity: 1;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-accessibility-5 .right-spacing-b7DVYA {
   --z-index: 1;
@@ -12307,7 +12367,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .saturatedcolors-C61RwL {
   --z-index: 17;
   background-color: transparent;
-  background-image: url(../img/saturated-colors-1@1x.png);
+  background-image: url(../img/saturated-colors@1x.png);
   background-size: 100% 100%;
   border-radius: 12px;
   height: 360px;
@@ -12322,7 +12382,6 @@ opacity: 0;transform: translate(0, 25px);
   --z-index: 1;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   color: #20212199;
   font-family: 'Roboto', Helvetica;
   font-size: 20px;
@@ -12337,7 +12396,8 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 12px;
+  width: 475px;
 }
 .guidelines-accessibility-5 .search-SZqgts::placeholder {
   color: #2021215c;

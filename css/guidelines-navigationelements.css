@@ -1,7 +1,7 @@
 /* screen - guidelines-navigationelements */
 
-.animate-enter41 {
-  animation: animate-enter41-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter38 {
+  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,13 +28,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .animate-enter39 {
-  animation: animate-enter39-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter36 {
+  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-navigationelements .animate-enter40 {
-  animation: animate-enter40-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter37 {
+  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -185,28 +185,28 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-navigationelements .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-navigationelements .drop-down-C61RwL {
   background-color: transparent;
@@ -231,11 +231,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .ebene-2-SZqgts {
   background-color: transparent;
-  height: calc(100.00% - 23px);
-  left: 24px;
-  object-fit: cover;
+  background-image: url(../img/ebene-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 23px;
   position: absolute;
-  top: 11px;
+  top: 10px;
   width: 25px;
 }
 .guidelines-navigationelements .fly-out-C61RwL {
@@ -315,19 +317,13 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-navigationelements .gruppe-1156-astSH4 {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 26px;
-  justify-content: flex-start;
   left: 30px;
-  min-width: 95px;
   position: absolute;
   top: 204px;
-  width: auto;
+  width: 95px;
 }
 .guidelines-navigationelements .gruppe-1168-C61RwL {
   background-color: var(--white);
@@ -345,9 +341,9 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white-lilac);
   border-radius: 24px;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-navigationelements .gruppe-497-C61RwL {
@@ -529,7 +525,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 160px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-navigationelements .menu-items-are-ove-the-content-C61RwL {
@@ -557,15 +553,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .navigation-bQlxLl {
   background-color: transparent;
-  flex-shrink: 1;
   height: auto;
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 14px;
-  min-height: 21px;
-  min-width: 78px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 0px;
   white-space: nowrap;
   width: auto;
 }
@@ -804,37 +798,38 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .rechteck-663-bQlxLl {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
-  flex-shrink: 1;
   height: 26px;
-  position: relative;
+  left: 0px;
+  position: absolute;
+  top: 0px;
   width: 3px;
 }
 .guidelines-navigationelements .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-navigationelements .search-SZqgts {
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   height: 26px;
-  left: 64px;
+  left: 63px;
   letter-spacing: 0.00px;
   line-height: 20px;
   padding: 0;
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 11px;
+  width: 475px;
 }
 .guidelines-navigationelements .search-SZqgts::placeholder {
   color: #2021215c;
@@ -1198,17 +1193,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter39-frames {
+@keyframes animate-enter36-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter40-frames {
+@keyframes animate-enter37-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter41-frames {
+@keyframes animate-enter38-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

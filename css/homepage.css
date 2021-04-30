@@ -1,7 +1,7 @@
 /* screen - homepage */
 
-.animate-enter14 {
-  animation: animate-enter14-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter20 {
+  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -15,23 +15,23 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter10 {
-  animation: animate-enter10-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter16 {
+  animation: animate-enter16-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter11 {
-  animation: animate-enter11-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter17 {
+  animation: animate-enter17-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter12 {
-  animation: animate-enter12-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter18 {
+  animation: animate-enter18-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter13 {
-  animation: animate-enter13-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter19 {
+  animation: animate-enter19-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -100,9 +100,11 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .ebene-2-1nQLJJ {
   background-color: transparent;
+  background-image: url(../img/ebene-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
   height: calc(100.00% - 23px);
   left: 24px;
-  object-fit: cover;
   position: absolute;
   top: 11px;
   width: 25px;
@@ -474,7 +476,7 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  width: calc(100.00% - 91px);
 }
 .homepage .search-1nQLJJ::placeholder {
   color: #2021215c;
@@ -520,27 +522,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 115px);
 }
-@keyframes animate-enter10-frames {
+@keyframes animate-enter16-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter11-frames {
+@keyframes animate-enter17-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter12-frames {
+@keyframes animate-enter18-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter13-frames {
+@keyframes animate-enter19-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter14-frames {
+@keyframes animate-enter20-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

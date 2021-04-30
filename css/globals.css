@@ -35,9 +35,20 @@
 .listeners-active-click * {
   cursor: pointer;
 }
+.screen * {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
 .screen a {
   text-decoration: none;
   display: contents;
+}
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
 }
 input:focus {
   outline: none;

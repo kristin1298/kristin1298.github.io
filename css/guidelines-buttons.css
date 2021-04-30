@@ -1,7 +1,7 @@
 /* screen - guidelines-buttons */
 
-.animate-enter44 {
-  animation: animate-enter44-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter47 {
+  animation: animate-enter47-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -84,13 +84,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 250px;
 }
-.guidelines-buttons .animate-enter42 {
-  animation: animate-enter42-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter45 {
+  animation: animate-enter45-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-buttons .animate-enter43 {
-  animation: animate-enter43-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter46 {
+  animation: animate-enter46-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -238,28 +238,28 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-buttons .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-buttons .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-buttons .disabled-curren-noninteractive-C61RwL {
   background-color: transparent;
@@ -297,11 +297,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-buttons .ebene-2-SZqgts {
   background-color: transparent;
-  height: calc(100.00% - 23px);
-  left: 24px;
-  object-fit: cover;
+  background-image: url(../img/ebene-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 23px;
   position: absolute;
-  top: 11px;
+  top: 10px;
   width: 25px;
 }
 .guidelines-buttons .fonts-enGkxY {
@@ -333,9 +335,9 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white-lilac);
   border-radius: 24px;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-buttons .gruppe-497-C61RwL {
@@ -529,7 +531,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 160px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-buttons .make-it-look-clickable-C61RwL {
@@ -757,29 +759,29 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-buttons .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-buttons .search-SZqgts {
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   height: 26px;
-  left: 64px;
+  left: 63px;
   letter-spacing: 0.00px;
   line-height: 20px;
   padding: 0;
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 11px;
+  width: 475px;
 }
 .guidelines-buttons .search-SZqgts::placeholder {
   color: #2021215c;
@@ -1157,17 +1159,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter42-frames {
+@keyframes animate-enter45-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter43-frames {
+@keyframes animate-enter46-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter44-frames {
+@keyframes animate-enter47-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

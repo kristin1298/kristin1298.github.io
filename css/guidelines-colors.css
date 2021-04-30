@@ -1,7 +1,7 @@
 /* screen - guidelines-colors */
 
-.animate-enter20 {
-  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter23 {
+  animation: animate-enter23-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -76,13 +76,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 42px;
 }
-.guidelines-colors .animate-enter18 {
-  animation: animate-enter18-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-colors .animate-enter21 {
+  animation: animate-enter21-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-colors .animate-enter19 {
-  animation: animate-enter19-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-colors .animate-enter22 {
+  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -534,28 +534,28 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(29.82% - 29px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .guidelines-colors .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: calc(18.43% - 21px);
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .guidelines-colors .desolation-ARkcuT {
   background-color: transparent;
@@ -661,11 +661,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .ebene-2-SZqgts {
   background-color: transparent;
-  height: calc(100.00% - 23px);
-  left: 24px;
-  object-fit: cover;
+  background-image: url(../img/ebene-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 23px;
   position: absolute;
-  top: 11px;
+  top: 10px;
   width: 25px;
 }
 .guidelines-colors .elegance-jZek9g {
@@ -883,9 +885,9 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white-lilac);
   border-radius: 24px;
   height: 48px;
-  left: calc(37.96% - 215px);
+  left: 514px;
   position: absolute;
-  top: calc(50.00% - 24px);
+  top: 21px;
   width: 566px;
 }
 .guidelines-colors .gruppe-497-C61RwL {
@@ -1664,7 +1666,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 160px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 13px);
+  top: 32px;
   width: 153px;
 }
 .guidelines-colors .loneliness-ToxedY {
@@ -2081,29 +2083,29 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
-  right: 158px;
   text-align: left;
-  top: calc(47.83% - 10px);
+  top: 33px;
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .guidelines-colors .search-SZqgts {
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
   height: 26px;
-  left: 64px;
+  left: 63px;
   letter-spacing: 0.00px;
   line-height: 20px;
   padding: 0;
   position: absolute;
   resize: none;
   text-align: left;
-  width: 171px;
+  top: 11px;
+  width: 475px;
 }
 .guidelines-colors .search-SZqgts::placeholder {
   color: #2021215c;
@@ -2653,17 +2655,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 41px;
 }
-@keyframes animate-enter18-frames {
+@keyframes animate-enter21-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter19-frames {
+@keyframes animate-enter22-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter20-frames {
+@keyframes animate-enter23-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
