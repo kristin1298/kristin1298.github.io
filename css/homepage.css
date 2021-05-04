@@ -1,7 +1,7 @@
 /* screen - homepage */
 
-.animate-enter12 {
-  animation: animate-enter12-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter4 {
+  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -15,23 +15,23 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter10 {
-  animation: animate-enter10-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
-.homepage .animate-enter11 {
-  animation: animate-enter11-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
-.homepage .animate-enter8 {
-  animation: animate-enter8-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter9 {
-  animation: animate-enter9-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter1 {
+  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter2 {
+  animation: animate-enter2-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter3 {
+  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -100,22 +100,20 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .ebene-2-1nQLJJ {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
   height: calc(100.00% - 23px);
   left: 24px;
   position: absolute;
   top: 11px;
   width: 25px;
 }
-.homepage .ebene-2-C61RwL {
+.homepage .ebene-2-Ym1yJN {
   background-color: transparent;
-  height: 100px;
-  left: 910px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
   position: absolute;
-  top: 1459px;
-  width: 100px;
+  top: 0px;
+  width: 100%;
 }
 .homepage .ellipse-250-2FPvRF {
   background-color: var(--chetwode-blue);
@@ -165,8 +163,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 57px;
 }
 .homepage .gruppe-496-C61RwL {
-  background-color: var(--white-lilac);
-  border-radius: 24px;
+  background-color: transparent;
   height: 48px;
   left: 514px;
   position: absolute;
@@ -227,18 +224,6 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   width: calc(100.00% - 92px);
-}
-.homepage .improve-your-work-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 160px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 360px;
-  white-space: nowrap;
-  width: auto;
 }
 .homepage .komponente-3-1-Ievvxw {
   background-color: transparent;
@@ -321,23 +306,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 446px;
   width: 613px;
 }
-.homepage .pfad-1350-WxfySK {
+.homepage .pfad-1464-C61RwL {
   background-color: transparent;
-  height: calc(100.00% + 30px);
-  left: -15px;
-  object-fit: cover;
+  height: 584px;
+  left: 440px;
+  overflow: hidden;
   position: absolute;
-  top: -14px;
-  width: calc(100.00% + 30px);
-}
-.homepage .pfad-841-WxfySK {
-  background-color: transparent;
-  bottom: calc(47.44% - 29px);
-  height: 61px;
-  object-fit: cover;
-  position: absolute;
-  right: calc(42.45% - 21px);
-  width: 51px;
+  top: 1218px;
+  width: 1040px;
 }
 .homepage .polygon-5-Ievvxw {
   background-color: transparent;
@@ -432,14 +408,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.homepage .rechteck-572-C61RwL {
-  background-color: #d4d6de;
-  border-radius: 12px;
-  height: 584px;
-  left: 440px;
+.homepage .rechteck-48-1nQLJJ {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 1217px;
-  width: 1040px;
+  top: 0px;
+  width: 100%;
 }
 .homepage .resources-C61RwL {
   background-color: transparent;
@@ -499,6 +475,18 @@ opacity: 0;transform: translate(0, 25px);
 .homepage .span2-n7QWtL {
 
 }
+.homepage .title-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  white-space: nowrap;
+  width: auto;
+}
 .homepage .to-create-an-ap-comes-to-action-Ievvxw {
   background-color: transparent;
   bottom: calc(25.60% - 18px);
@@ -522,28 +510,28 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 115px);
 }
-@keyframes animate-enter10-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter11-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter12-frames {
+@keyframes animate-enter-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter8-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter9-frames {
+@keyframes animate-enter1-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter2-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter4-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

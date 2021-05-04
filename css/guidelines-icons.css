@@ -247,32 +247,26 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-icons .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -288,14 +282,21 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.guidelines-icons .ebene-2-6tzNvg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .guidelines-icons .ebene-2-SZqgts {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
 }
 .guidelines-icons .email-C61RwL {
@@ -359,36 +360,20 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-icons .gruppe-496-GCEBCP {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .guidelines-icons .gruppe-497-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .guidelines-icons .height-128px-C61RwL {
   background-color: transparent;
@@ -609,9 +594,7 @@ opacity: 0;transform: translate(0, 25px);
   width: calc(100.00% + 2px);
 }
 .guidelines-icons .in-page-navigation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 35px #00000029;
+  background-color: transparent;
   display: block;
   height: 584px;
   left: 160px;
@@ -796,10 +779,11 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .guidelines-icons .make-sure-each-check-your-work-C61RwL {
@@ -939,6 +923,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.guidelines-icons .rechteck-1-GCEBCP {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
 .guidelines-icons .rechteck-10-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
@@ -1059,6 +1052,25 @@ opacity: 0;transform: translate(0, 25px);
   top: 7279px;
   width: 1180px;
 }
+.guidelines-icons .rechteck-48-SZqgts {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
+.guidelines-icons .rechteck-616-05jha3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 35px #00000029;
+  height: 584px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
 .guidelines-icons .rechteck-663-05jha3 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
@@ -1151,16 +1163,13 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -1187,18 +1196,17 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-icons .search-SZqgts {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .guidelines-icons .search-SZqgts::placeholder {

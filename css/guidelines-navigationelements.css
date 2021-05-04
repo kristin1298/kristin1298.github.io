@@ -1,7 +1,7 @@
 /* screen - guidelines-navigationelements */
 
-.animate-enter38 {
-  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter32 {
+  animation: animate-enter32-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,13 +28,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigationelements .animate-enter36 {
-  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter30 {
+  animation: animate-enter30-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-navigationelements .animate-enter37 {
-  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigationelements .animate-enter31 {
+  animation: animate-enter31-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -185,32 +185,26 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-navigationelements .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -235,14 +229,21 @@ opacity: 0;transform: translate(0, 25px);
   top: 1218px;
   width: 640px;
 }
+.guidelines-navigationelements .ebene-2-6tzNvg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .guidelines-navigationelements .ebene-2-SZqgts {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
 }
 .guidelines-navigationelements .fly-out-C61RwL {
@@ -322,57 +323,32 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-navigationelements .gruppe-1156-05jha3 {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 26px;
-  justify-content: flex-start;
   left: 30px;
-  min-width: 95px;
   position: absolute;
   top: 204px;
-  width: auto;
+  width: 95px;
 }
 .guidelines-navigationelements .gruppe-496-GCEBCP {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .guidelines-navigationelements .gruppe-497-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .guidelines-navigationelements .gruppe-759-C61RwL {
   background-color: transparent;
-  background-image: url(../img/tabs@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
   height: 360px;
   left: 1060px;
   position: absolute;
@@ -450,9 +426,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-navigationelements .in-page-navigation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000019;
+  background-color: transparent;
   display: block;
   height: 462px;
   left: 160px;
@@ -546,10 +520,11 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-navigationelements .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .guidelines-navigationelements .menu-items-are-ove-the-content-C61RwL {
@@ -577,15 +552,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-navigationelements .navigation-Fx8V4L {
   background-color: transparent;
-  flex-shrink: 1;
   height: auto;
+  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-left: 14px;
-  min-height: 21px;
-  min-width: 78px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 0px;
   white-space: nowrap;
   width: auto;
 }
@@ -670,6 +643,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 5308px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-navigationelements .rechteck-1-GCEBCP {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
 }
 .guidelines-navigationelements .rechteck-10-2P4qUJ {
   background-color: var(--white);
@@ -821,43 +803,59 @@ opacity: 0;transform: translate(0, 25px);
   top: 9602px;
   width: 1180px;
 }
+.guidelines-navigationelements .rechteck-48-SZqgts {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
+.guidelines-navigationelements .rechteck-616-05jha3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000019;
+  height: 462px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
 .guidelines-navigationelements .rechteck-663-Fx8V4L {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
-  flex-shrink: 1;
   height: 26px;
-  position: relative;
+  left: 0px;
+  position: absolute;
+  top: 0px;
   width: 3px;
 }
 .guidelines-navigationelements .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-navigationelements .search-SZqgts {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .guidelines-navigationelements .search-SZqgts::placeholder {
@@ -895,6 +893,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 2988px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-navigationelements .tabs-HIk9x7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 .guidelines-navigationelements .the-breadcrumb-e-so-that-the-u-C61RwL {
   background-color: transparent;
@@ -1222,17 +1229,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter36-frames {
+@keyframes animate-enter30-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter37-frames {
+@keyframes animate-enter31-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter38-frames {
+@keyframes animate-enter32-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

@@ -1,7 +1,7 @@
 /* screen - design-process */
 
-.animate-enter7 {
-  animation: animate-enter7-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter20 {
+  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -26,38 +26,38 @@ opacity: 0;transform: translate(0, 25px);
   top: 118px;
   width: 443px;
 }
-.design-process .animate-enter {
-  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter13 {
+  animation: animate-enter13-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter1 {
-  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter14 {
+  animation: animate-enter14-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter2 {
-  animation: animate-enter2-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter15 {
+  animation: animate-enter15-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter3 {
-  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter16 {
+  animation: animate-enter16-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter4 {
-  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter17 {
+  animation: animate-enter17-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter5 {
-  animation: animate-enter5-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter18 {
+  animation: animate-enter18-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter6 {
-  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter19 {
+  animation: animate-enter19-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -75,74 +75,71 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .behance-HxQN0E {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  margin-bottom: -2px;
-  min-height: 21px;
-  min-width: 64px;
-  position: relative;
+  position: absolute;
   text-align: left;
   text-decoration: underline;
+  top: 0px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% + 2px);
 }
 .design-process .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .design-process .design-process-GCEBCP {
   background-color: transparent;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .design-process .dribble-MLy1s2 {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  margin-bottom: -2px;
-  min-height: 21px;
-  min-width: 52px;
-  position: relative;
+  position: absolute;
   text-align: left;
   text-decoration: underline;
+  top: 0px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% + 2px);
+}
+.design-process .ebene-2-6tzNvg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 .design-process .ebene-2-SZqgts {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
 }
 .design-process .ellipse-402-QIcGv3 {
@@ -152,7 +149,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 57px;
+  width: 100%;
 }
 .design-process .ellipse-403-QIcGv3 {
   background-color: var(--chetwode-blue);
@@ -160,26 +157,26 @@ opacity: 0;transform: translate(0, 25px);
   height: 57px;
   left: 0px;
   position: absolute;
-  top: 1252px;
-  width: 57px;
+  top: calc(33.81% - 19px);
+  width: 100%;
 }
 .design-process .ellipse-404-QIcGv3 {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
+  bottom: calc(31.14% - 18px);
   height: 57px;
   left: 0px;
   position: absolute;
-  top: 2550px;
-  width: 57px;
+  width: 100%;
 }
 .design-process .ellipse-405-QIcGv3 {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
+  bottom: 0px;
   height: 57px;
   left: 0px;
   position: absolute;
-  top: 3703px;
-  width: 57px;
+  width: 100%;
 }
 .design-process .first-start-ske-d-they-shouldnt-tD3QGc {
   background-color: transparent;
@@ -194,16 +191,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .get-inspiration-or-your-designs-oPz1AQ {
   background-color: transparent;
-  flex-shrink: 1;
-  height: auto;
+  height: 39px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  min-height: 39px;
-  min-width: 423px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 0px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% + 2px);
 }
 .design-process .gruppe-1037-C61RwL {
   background-color: transparent;
@@ -239,9 +235,6 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-1118-zAfL08 {
   background-color: transparent;
-  background-image: url(../img/mockup@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
   height: 463px;
   left: 59px;
   position: absolute;
@@ -297,36 +290,20 @@ opacity: 0;transform: translate(0, 25px);
 opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-496-GCEBCP {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .design-process .gruppe-497-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .design-process .gruppe-663-1e7zwy {
   background-color: transparent;
@@ -357,41 +334,24 @@ opacity: 0;transform: translate(0, 25px);
 opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-707-C61RwL {
-  align-items: flex-end;
-  background-color: var(--black);
-  border-radius: 20px;
-  box-sizing: border-box;
+  background-color: transparent;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 99px;
-  justify-content: flex-end;
   left: 546px;
-  min-width: 99px;
-  padding: 13.6px 22.6px;
   position: absolute;
   top: 6090px;
-  width: auto;
+  width: 99px;
 }
 .design-process .gruppe-708-C61RwL {
-  align-items: flex-start;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  height: auto;
-  justify-content: flex-start;
+  height: 48px;
   left: 750px;
-  min-height: 48px;
   position: absolute;
   top: 5937px;
   width: 423px;
 }
 .design-process .gruppe-719-1e7zwy {
   background-color: transparent;
-  background-image: url(../img/wireframe@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
   height: 463px;
   left: 30px;
   position: absolute;
@@ -399,58 +359,39 @@ opacity: 0;transform: translate(0, 25px);
   width: 441px;
 }
 .design-process .komponente-28-1-C61RwL {
-  align-items: flex-end;
   background-color: transparent;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 564px;
-  min-width: 66px;
   position: absolute;
   top: 6219px;
-  width: auto;
+  width: 66px;
 }
 .design-process .komponente-29-1-C61RwL {
-  align-items: flex-end;
   background-color: transparent;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 924px;
-  min-width: 64px;
   position: absolute;
   top: 6219px;
-  width: auto;
+  width: 64px;
 }
 .design-process .komponente-30-1-C61RwL {
-  align-items: flex-end;
   background-color: transparent;
-  box-sizing: border-box;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 19px;
-  justify-content: flex-start;
   left: 1295px;
-  min-width: 52px;
   position: absolute;
   top: 6219px;
-  width: auto;
+  width: 52px;
 }
 .design-process .linie-401-oPz1AQ {
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: -2px;
   height: 4px;
-  margin-left: -2px;
-  margin-top: 6px;
+  left: -2px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
   width: 44px;
 }
 .design-process .linie-416-mEaS2F {
@@ -590,8 +531,8 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .linie-441-QIcGv3 {
   background-color: transparent;
-  height: 3705px;
-  left: 28px;
+  height: calc(100.00% - 55px);
+  left: calc(50.00% - 1px);
   object-fit: cover;
   position: absolute;
   top: 28px;
@@ -600,11 +541,21 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
+}
+.design-process .mockup-LjaS5b {
+  background-color: transparent;
+  height: 463px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 441px;
 }
 .design-process .mockup-zAfL08 {
   background-color: transparent;
@@ -631,27 +582,26 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .pfad-1051-zXS1Qu {
   background-color: transparent;
-  flex-shrink: 1;
+  bottom: 14px;
   height: 70px;
+  left: 23px;
   object-fit: cover;
-  position: relative;
-  width: 54px;
+  position: absolute;
+  width: calc(100.00% - 45px);
 }
 .design-process .pinterest-nkrLlh {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
-  height: auto;
+  height: calc(100.00% + 2px);
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  margin-bottom: -2px;
-  min-height: 21px;
-  min-width: 66px;
-  position: relative;
+  position: absolute;
   text-align: left;
   text-decoration: underline;
+  top: 0px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% + 2px);
 }
 .design-process .polygon-10-0lFzac {
   background-color: transparent;
@@ -718,38 +668,38 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .polygon-5-LyqNeT {
   background-color: transparent;
+  bottom: calc(38.64% - 29px);
   height: 75px;
-  left: 538px;
   object-fit: cover;
   position: absolute;
-  top: 14px;
+  right: -22px;
   width: 80px;
 }
 .design-process .polygon-5-sEKMD7 {
   background-color: transparent;
+  bottom: calc(38.64% - 29px);
   height: 75px;
-  left: 548px;
   object-fit: cover;
   position: absolute;
-  top: 14px;
+  right: -22px;
   width: 80px;
 }
 .design-process .polygon-6-LyqNeT {
   background-color: transparent;
+  bottom: calc(49.25% - 15px);
   height: 30px;
-  left: 560px;
   object-fit: cover;
   position: absolute;
-  top: 34px;
+  right: 0px;
   width: 35px;
 }
 .design-process .polygon-6-sEKMD7 {
   background-color: transparent;
+  bottom: calc(49.25% - 15px);
   height: 30px;
-  left: 570px;
   object-fit: cover;
   position: absolute;
-  top: 34px;
+  right: 0px;
   width: 35px;
 }
 .design-process .polygon-9-0lFzac {
@@ -782,6 +732,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.design-process .rechteck-1-GCEBCP {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
 .design-process .rechteck-1335-0lFzac {
   background-color: var(--white);
   border-radius: 6px;
@@ -796,11 +755,11 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 97px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 561px;
+  width: calc(100.00% - 34px);
 }
 .design-process .rechteck-1335-MbKiDZ {
   background-color: var(--white);
@@ -836,11 +795,11 @@ opacity: 0;transform: translate(0, 25px);
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 97px;
+  height: 100%;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 571px;
+  width: calc(100.00% - 34px);
 }
 .design-process .rechteck-1509-mEaS2F {
   background-color: var(--white);
@@ -996,19 +955,34 @@ opacity: 0;transform: translate(0, 25px);
   top: 327px;
   width: 26px;
 }
+.design-process .rechteck-1678-zXS1Qu {
+  background-color: var(--black);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.design-process .rechteck-48-SZqgts {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
 .design-process .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -1023,18 +997,17 @@ opacity: 0;transform: translate(0, 25px);
   width: 140px;
 }
 .design-process .search-SZqgts {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .design-process .search-SZqgts::placeholder {
@@ -1152,35 +1125,35 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .this-is-when-th-mes-into-action-LyqNeT {
   background-color: transparent;
+  bottom: calc(48.28% - 19px);
   color: var(--log-cabin);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xl);
   font-weight: 500;
-  height: auto;
+  height: 39px;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 30px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 92px);
 }
 .design-process .this-is-when-th-mes-into-action-sEKMD7 {
   background-color: transparent;
+  bottom: calc(48.28% - 19px);
   color: var(--log-cabin);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xl);
   font-weight: 500;
-  height: auto;
+  height: 39px;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 30px;
   white-space: nowrap;
-  width: auto;
+  width: calc(100.00% - 92px);
 }
 .design-process .to-create-an-ap-ome-into-action-C61RwL {
   background-color: transparent;
@@ -1205,6 +1178,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.design-process .wireframe-G715mq {
+  background-color: transparent;
+  height: 463px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 441px;
+}
 .design-process .x51916-C61RwL {
   background-color: transparent;
   border-radius: 20px;
@@ -1224,42 +1206,42 @@ opacity: 0;transform: translate(0, 25px);
   top: 6085px;
   width: 109px;
 }
-@keyframes animate-enter-frames {
+@keyframes animate-enter13-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter1-frames {
+@keyframes animate-enter14-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter15-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter3-frames {
+@keyframes animate-enter16-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter4-frames {
+@keyframes animate-enter17-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter18-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter6-frames {
+@keyframes animate-enter19-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter7-frames {
+@keyframes animate-enter20-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

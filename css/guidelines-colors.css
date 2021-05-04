@@ -1,7 +1,7 @@
 /* screen - guidelines-colors */
 
-.animate-enter35 {
-  animation: animate-enter35-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter29 {
+  animation: animate-enter29-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -76,13 +76,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 42px;
 }
-.guidelines-colors .animate-enter33 {
-  animation: animate-enter33-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-colors .animate-enter27 {
+  animation: animate-enter27-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-colors .animate-enter34 {
-  animation: animate-enter34-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-colors .animate-enter28 {
+  animation: animate-enter28-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -534,32 +534,26 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .design-guide-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-colors .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -665,14 +659,21 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 48px;
 }
+.guidelines-colors .ebene-2-6tzNvg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .guidelines-colors .ebene-2-SZqgts {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
 }
 .guidelines-colors .elegance-jZek9g {
@@ -875,36 +876,20 @@ opacity: 0;transform: translate(0, 25px);
   width: 34px;
 }
 .guidelines-colors .gruppe-496-GCEBCP {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .guidelines-colors .gruppe-497-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .guidelines-colors .gruppe-666-ToxedY {
   background-color: transparent;
@@ -923,10 +908,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 16px;
 }
 .guidelines-colors .gruppe-745-C61RwL {
-  background: linear-gradient(229.94deg, #9454e9 0.8%, #c8aaf1 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -934,10 +916,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-746-C61RwL {
-  background: linear-gradient(229.4deg, #4182e1 0%, #9cdbff 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -945,10 +924,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-747-C61RwL {
-  background: linear-gradient(229.4deg, #3ebf61 0%, #a1e0b2 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -956,10 +932,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-748-C61RwL {
-  background: linear-gradient(229.4deg, #f4f43e 0%, #fffdb7 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -967,10 +940,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-749-C61RwL {
-  background: linear-gradient(229.4deg, #ffad03 0%, #ffba7e 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -978,10 +948,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-750-C61RwL {
-  background: linear-gradient(229.4deg, #cf2626 0%, #f97979 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -989,10 +956,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-751-C61RwL {
-  background: linear-gradient(229.4deg, #fa7fbc 0%, #ffbadd 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1000,10 +964,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-752-C61RwL {
-  background: linear-gradient(229.4deg, #8a3c28 0%, #d57962 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -1011,10 +972,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-753-C61RwL {
-  background: linear-gradient(229.4deg, #393939 0%, #595959 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1022,9 +980,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-754-C61RwL {
-  background-color: var(--black);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -1032,9 +988,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 560px;
 }
 .guidelines-colors .gruppe-755-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1163,9 +1117,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 79px;
 }
 .guidelines-colors .in-page-navigation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000029;
+  background-color: transparent;
   display: block;
   height: 462px;
   left: 160px;
@@ -1681,10 +1633,11 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .guidelines-colors .loneliness-ToxedY {
@@ -1997,6 +1950,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 63px;
 }
+.guidelines-colors .rechteck-1-GCEBCP {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
 .guidelines-colors .rechteck-10-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
@@ -2067,6 +2029,125 @@ opacity: 0;transform: translate(0, 25px);
   top: 2895px;
   width: 1180px;
 }
+.guidelines-colors .rechteck-1550-ToxedY {
+  background: linear-gradient(229.94deg, #9454e9 0.8%, #c8aaf1 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1554-3OEtxU {
+  background: linear-gradient(229.4deg, #4182e1 0%, #9cdbff 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1557-uuLza6 {
+  background: linear-gradient(229.4deg, #3ebf61 0%, #a1e0b2 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1558-Nxhxrq {
+  background: linear-gradient(229.4deg, #f4f43e 0%, #fffdb7 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1559-WSCP6e {
+  background: linear-gradient(229.4deg, #ffad03 0%, #ffba7e 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1560-hV1s0x {
+  background: linear-gradient(229.4deg, #cf2626 0%, #f97979 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1563-TWYX0v {
+  background: linear-gradient(229.4deg, #fa7fbc 0%, #ffbadd 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1564-Pg7D70 {
+  background: linear-gradient(229.4deg, #8a3c28 0%, #d57962 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1565-lhtMCB {
+  background: linear-gradient(229.4deg, #393939 0%, #595959 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1566-jZek9g {
+  background-color: var(--black);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1567-ARkcuT {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .guidelines-colors .rechteck-1682-C61RwL {
   background-color: var(--white);
   border-radius: 12px;
@@ -2076,6 +2157,25 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 5215px;
   width: 1180px;
+}
+.guidelines-colors .rechteck-48-SZqgts {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
+.guidelines-colors .rechteck-616-05jha3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  height: 462px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
 }
 .guidelines-colors .rechteck-663-05jha3 {
   background-color: var(--chetwode-blue);
@@ -2101,32 +2201,28 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-colors .search-SZqgts {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .guidelines-colors .search-SZqgts::placeholder {
@@ -2677,17 +2773,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 41px;
 }
-@keyframes animate-enter33-frames {
+@keyframes animate-enter27-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter34-frames {
+@keyframes animate-enter28-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter35-frames {
+@keyframes animate-enter29-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

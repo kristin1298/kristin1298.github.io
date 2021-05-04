@@ -1,7 +1,7 @@
 /* screen - design-guide */
 
-.animate-enter14 {
-  animation: animate-enter14-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter6 {
+  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,8 +28,8 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-guide .animate-enter13 {
-  animation: animate-enter13-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.design-guide .animate-enter5 {
+  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -172,43 +172,44 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .design-guide-GCEBCP {
   background-color: transparent;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .design-guide .design-process-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
+.design-guide .ebene-2-6tzNvg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .design-guide .ebene-2-SZqgts {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
 }
 .design-guide .font-size-and-scaling-ZbTrxz {
@@ -237,9 +238,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .design-guide .gruppe-1038-juugUx {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
+  background-color: transparent;
   height: 100%;
   left: 0px;
   position: absolute;
@@ -256,9 +255,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1126-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
+  background-color: transparent;
   cursor: pointer;
   height: 430px;
   left: 160px;
@@ -267,9 +264,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1127-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
+  background-color: transparent;
   cursor: pointer;
   height: 430px;
   left: 160px;
@@ -278,9 +273,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1128-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
+  background-color: transparent;
   cursor: pointer;
   height: 430px;
   left: 160px;
@@ -289,27 +282,16 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1129-C61RwL {
-  align-items: flex-start;
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
-  box-sizing: border-box;
+  background-color: transparent;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
   height: 430px;
-  justify-content: flex-end;
   left: 160px;
-  min-width: 1600px;
-  padding: 0 0.0px;
   position: absolute;
   top: 3420px;
-  width: auto;
+  width: 1600px;
 }
 .design-guide .gruppe-1130-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
+  background-color: transparent;
   cursor: pointer;
   height: 430px;
   left: 160px;
@@ -318,9 +300,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-1131-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 0px 20px #00000019;
+  background-color: transparent;
   cursor: pointer;
   height: 430px;
   left: 160px;
@@ -329,36 +309,20 @@ opacity: 0;transform: translate(0, 25px);
   width: 1600px;
 }
 .design-guide .gruppe-496-GCEBCP {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .design-guide .gruppe-497-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .design-guide .here-you-get-an-re-treated-here-C61RwL {
   background-color: transparent;
@@ -688,10 +652,11 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .logo-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .design-guide .make-your-designs-accessible-vQgHTa {
@@ -784,10 +749,11 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewfonts-ZxJczG {
   background-color: transparent;
-  flex-shrink: 1;
   height: 430px;
+  left: 288px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 0px;
   width: 1312px;
 }
 .design-guide .overviewicons-W8JIii {
@@ -1051,19 +1017,104 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(49.23% - 4px);
   width: 7px;
 }
+.design-guide .rechteck-1-GCEBCP {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.design-guide .rechteck-10-ycc1Jx {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.design-guide .rechteck-48-SZqgts {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
+.design-guide .rechteck-609-fQ4YiQ {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.design-guide .rechteck-610-4j9Fxa {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.design-guide .rechteck-610-Ww0XKU {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.design-guide .rechteck-612-ZxJczG {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 430px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+.design-guide .rechteck-613-W8JIii {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.design-guide .rechteck-614-9UDOxM {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 0px 20px #00000019;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .design-guide .resources-GCEBCP {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -1102,18 +1153,17 @@ opacity: 0;transform: translate(0, 25px);
   width: 140px;
 }
 .design-guide .search-SZqgts {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .design-guide .search-SZqgts::placeholder {
@@ -1227,12 +1277,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 15px);
 }
-@keyframes animate-enter13-frames {
+@keyframes animate-enter5-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter14-frames {
+@keyframes animate-enter6-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
