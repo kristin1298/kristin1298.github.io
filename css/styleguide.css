@@ -75,14 +75,14 @@
   font-weight: 500;
 }
 .roboto-normal-log-cabin-20px {
-  color: var(--log-cabin-2);
+  color: var(--log-cabin);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
 .roboto-normal-log-cabin-20px-2 {
-  color: var(--log-cabin);
+  color: var(--log-cabin-2);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-style: normal;

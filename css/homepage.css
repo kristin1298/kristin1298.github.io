@@ -1,7 +1,7 @@
 /* screen - homepage */
 
-.animate-enter4 {
-  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter17 {
+  animation: animate-enter17-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -15,23 +15,23 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter {
-  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter13 {
+  animation: animate-enter13-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter1 {
-  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter14 {
+  animation: animate-enter14-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter2 {
-  animation: animate-enter2-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter15 {
+  animation: animate-enter15-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter3 {
-  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter16 {
+  animation: animate-enter16-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -225,6 +225,18 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   width: calc(100.00% - 92px);
 }
+.homepage .improve-your-work-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  white-space: nowrap;
+  width: auto;
+}
 .homepage .komponente-3-1-Ievvxw {
   background-color: transparent;
   bottom: calc(30.86% - 6px);
@@ -306,9 +318,9 @@ opacity: 0;transform: translate(0, 25px);
   top: 446px;
   width: 613px;
 }
-.homepage .pfad-1464-C61RwL {
+.homepage .pfad-1465-C61RwL {
   background-color: transparent;
-  height: 584px;
+  height: 585px;
   left: 440px;
   overflow: hidden;
   position: absolute;
@@ -475,18 +487,6 @@ opacity: 0;transform: translate(0, 25px);
 .homepage .span2-n7QWtL {
 
 }
-.homepage .title-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 160px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 360px;
-  white-space: nowrap;
-  width: auto;
-}
 .homepage .to-create-an-ap-comes-to-action-Ievvxw {
   background-color: transparent;
   bottom: calc(25.60% - 18px);
@@ -510,27 +510,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 115px);
 }
-@keyframes animate-enter-frames {
+@keyframes animate-enter13-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter1-frames {
+@keyframes animate-enter14-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter15-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter3-frames {
+@keyframes animate-enter16-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter4-frames {
+@keyframes animate-enter17-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

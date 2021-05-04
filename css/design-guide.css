@@ -1,7 +1,7 @@
 /* screen - design-guide */
 
-.animate-enter6 {
-  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter1 {
+  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,8 +28,8 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-guide .animate-enter5 {
-  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.design-guide .animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -153,22 +153,6 @@ opacity: 0;transform: translate(0, 25px);
   top: -4px;
   white-space: nowrap;
   width: calc(100.00% - 15px);
-}
-.design-guide .design-guide-C61RwL {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxl);
-  font-weight: 500;
-  height: auto;
-  left: 160px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 360px;
-  white-space: nowrap;
-  width: auto;
 }
 .design-guide .design-guide-GCEBCP {
   background-color: transparent;
@@ -1205,6 +1189,22 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 15px);
 }
+.design-guide .title-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  white-space: nowrap;
+  width: auto;
+}
 .design-guide .usage-of-buttons-mGEHbe {
   background-color: transparent;
   height: calc(100.00% + 2px);
@@ -1277,12 +1277,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 15px);
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter6-frames {
+@keyframes animate-enter1-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
