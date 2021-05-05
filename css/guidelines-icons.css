@@ -1,7 +1,7 @@
 /* screen - guidelines-icons */
 
-.animate-enter44 {
-  animation: animate-enter44-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter22 {
+  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -83,13 +83,13 @@ opacity: 0;transform: translate(0, 25px);
   top: 5692px;
   width: 337px;
 }
-.guidelines-icons .animate-enter42 {
-  animation: animate-enter42-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-icons .animate-enter20 {
+  animation: animate-enter20-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-icons .animate-enter43 {
-  animation: animate-enter43-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-icons .animate-enter21 {
+  animation: animate-enter21-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1843,17 +1843,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter42-frames {
+@keyframes animate-enter20-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter43-frames {
+@keyframes animate-enter21-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter44-frames {
+@keyframes animate-enter22-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
