@@ -1,7 +1,7 @@
 /* screen - guidelines-fonts */
 
-.animate-enter25 {
-  animation: animate-enter25-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter38 {
+  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -28,13 +28,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-fonts .animate-enter23 {
-  animation: animate-enter23-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-fonts .animate-enter36 {
+  animation: animate-enter36-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-fonts .animate-enter24 {
-  animation: animate-enter24-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-fonts .animate-enter37 {
+  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1913,17 +1913,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter23-frames {
+@keyframes animate-enter36-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter24-frames {
+@keyframes animate-enter37-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter25-frames {
+@keyframes animate-enter38-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

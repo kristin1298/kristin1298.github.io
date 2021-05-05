@@ -1,7 +1,7 @@
 /* screen - guidelines-accessibility-1 */
 
-.animate-enter34 {
-  animation: animate-enter34-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter17 {
+  animation: animate-enter17-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -110,13 +110,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-1 .animate-enter32 {
-  animation: animate-enter32-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-1 .animate-enter15 {
+  animation: animate-enter15-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-1 .animate-enter33 {
-  animation: animate-enter33-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-1 .animate-enter16 {
+  animation: animate-enter16-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -592,6 +592,7 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #ffffff;
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
+  cursor: pointer;
   height: 17px;
   left: 822px;
   opacity: 1;
@@ -2123,25 +2124,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter32-frames {
+@keyframes animate-enter15-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter33-frames {
+@keyframes animate-enter16-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter34-frames {
+@keyframes animate-enter17-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-layout */
 
-.animate-enter37 {
-  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter20 {
+  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -2213,13 +2214,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .animate-enter35 {
-  animation: animate-enter35-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter18 {
+  animation: animate-enter18-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-layout .animate-enter36 {
-  animation: animate-enter36-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter19 {
+  animation: animate-enter19-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -3953,25 +3954,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter35-frames {
+@keyframes animate-enter18-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter36-frames {
+@keyframes animate-enter19-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter37-frames {
+@keyframes animate-enter20-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-2 */
 
-.animate-enter40 {
-  animation: animate-enter40-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter23 {
+  animation: animate-enter23-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -4061,13 +4062,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-2 .animate-enter38 {
-  animation: animate-enter38-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-2 .animate-enter21 {
+  animation: animate-enter21-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-2 .animate-enter39 {
-  animation: animate-enter39-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-2 .animate-enter22 {
+  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -4527,6 +4528,7 @@ opacity: 0;transform: translate(0, 25px);
   background-color: #ffffff;
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
+  cursor: pointer;
   height: 17px;
   left: 822px;
   opacity: 1;
@@ -6104,25 +6106,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter38-frames {
+@keyframes animate-enter21-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter39-frames {
+@keyframes animate-enter22-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter40-frames {
+@keyframes animate-enter23-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-3 */
 
-.animate-enter43 {
-  animation: animate-enter43-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter26 {
+  animation: animate-enter26-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -6212,13 +6214,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-3 .animate-enter41 {
-  animation: animate-enter41-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-3 .animate-enter24 {
+  animation: animate-enter24-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-3 .animate-enter42 {
-  animation: animate-enter42-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-3 .animate-enter25 {
+  animation: animate-enter25-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -6808,6 +6810,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-3 .gruppe-1143-C61RwL {
   --z-index: 56;
   background-color: transparent;
+  cursor: pointer;
   height: 23px;
   left: 799px;
   opacity: 1;
@@ -8265,25 +8268,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter41-frames {
+@keyframes animate-enter24-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter42-frames {
+@keyframes animate-enter25-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter43-frames {
+@keyframes animate-enter26-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-4 */
 
-.animate-enter46 {
-  animation: animate-enter46-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter29 {
+  animation: animate-enter29-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -8373,13 +8376,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-4 .animate-enter44 {
-  animation: animate-enter44-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-4 .animate-enter27 {
+  animation: animate-enter27-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-4 .animate-enter45 {
-  animation: animate-enter45-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-4 .animate-enter28 {
+  animation: animate-enter28-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -8969,6 +8972,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-4 .gruppe-1148-C61RwL {
   --z-index: 57;
   background-color: transparent;
+  cursor: pointer;
   height: 23px;
   left: 799px;
   opacity: 1;
@@ -10426,25 +10430,25 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter44-frames {
+@keyframes animate-enter27-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter45-frames {
+@keyframes animate-enter28-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter46-frames {
+@keyframes animate-enter29-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 /* screen - guidelines-accessibility-5 */
 
-.animate-enter49 {
-  animation: animate-enter49-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter41 {
+  animation: animate-enter41-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -10534,13 +10538,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-5 .animate-enter47 {
-  animation: animate-enter47-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-5 .animate-enter39 {
+  animation: animate-enter39-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-5 .animate-enter48 {
-  animation: animate-enter48-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-5 .animate-enter40 {
+  animation: animate-enter40-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -11141,6 +11145,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-5 .gruppe-1154-C61RwL {
   --z-index: 58;
   background-color: transparent;
+  cursor: pointer;
   height: 23px;
   left: 799px;
   opacity: 1;
@@ -12587,17 +12592,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-@keyframes animate-enter47-frames {
+@keyframes animate-enter39-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter48-frames {
+@keyframes animate-enter40-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter49-frames {
+@keyframes animate-enter41-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

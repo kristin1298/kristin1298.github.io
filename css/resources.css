@@ -1,7 +1,7 @@
 /* screen - resources */
 
-.animate-enter6 {
-  animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter49 {
+  animation: animate-enter49-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -27,8 +27,8 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.resources .animate-enter5 {
-  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.resources .animate-enter48 {
+  animation: animate-enter48-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -886,12 +886,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-@keyframes animate-enter5-frames {
+@keyframes animate-enter48-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter6-frames {
+@keyframes animate-enter49-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
