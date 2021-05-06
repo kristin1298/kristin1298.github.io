@@ -1,9 +1,9 @@
 /* screen - homepage */
 
-.animate-enter12 {
-  animation: animate-enter12-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter4 {
+  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage {
   background-color: var(--coconut);
@@ -13,29 +13,29 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
-}
-.homepage .animate-enter10 {
-  animation: animate-enter10-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter11 {
-  animation: animate-enter11-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
-.homepage .animate-enter8 {
-  animation: animate-enter8-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .animate-enter9 {
-  animation: animate-enter9-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.homepage .animate-enter1 {
+  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .apply-what-you-have-learned-OtUnre {
+.homepage .animate-enter2 {
+  animation: animate-enter2-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter3 {
+  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .apply-what-you-have-learned-fDxNlt {
   background-color: transparent;
   height: 39px;
   left: 64px;
@@ -46,6 +46,16 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(22.90% - 9px);
   white-space: nowrap;
   width: calc(100.00% - 108px);
+}
+.homepage .applywhatyouhavelearned-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 170px;
+  left: 1089px;
+  position: absolute;
+  top: 3165px;
+  width: 492px;
+opacity: 0;transform: translate(0, 25px);
 }
 .homepage .bannerhome-C61RwL {
   background-color: transparent;
@@ -61,7 +71,6 @@ opacity: 0;transform: translate(0, 25px);
 .homepage .design-guide-Ab0iYm {
   background-color: transparent;
   bottom: 10.53%;
-  cursor: pointer;
   height: 21px;
   left: 0px;
   letter-spacing: 0.00px;
@@ -72,41 +81,41 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.homepage .design-guide-C61RwL {
+.homepage .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  height: auto;
-  left: 1280px;
+  height: 21px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
+  right: calc(29.82% - 29px);
   text-align: left;
-  top: 33px;
+  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: auto;
+  width: 96px;
 }
-.homepage .design-process-C61RwL {
+.homepage .design-process-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  height: auto;
-  left: 1474px;
+  height: 21px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
+  right: calc(18.43% - 21px);
   text-align: left;
-  top: 33px;
+  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: auto;
+  width: 113px;
 }
-.homepage .ebene-2-1nQLJJ {
+.homepage .ebene-2-ZrFNw0 {
   background-color: transparent;
-  height: calc(100.00% - 23px);
+  height: 25px;
   left: 24px;
   position: absolute;
-  top: 11px;
+  top: calc(47.83% - 12px);
   width: 25px;
 }
-.homepage .ebene-2-Ym1yJN {
+.homepage .ebene-2-xTxS2n {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -115,16 +124,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.homepage .ellipse-250-2FPvRF {
-  background-color: var(--chetwode-blue);
-  border-radius: 28.5px;
-  bottom: 0px;
-  height: 57px;
-  left: 0px;
-  position: absolute;
-  width: 100%;
-}
-.homepage .ellipse-250-2VA0c5 {
+.homepage .ellipse-250-dRzSpc {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
   height: 57px;
@@ -133,7 +133,16 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(50.00% - 28px);
   width: 100%;
 }
-.homepage .ellipse-250-xnk0ta {
+.homepage .ellipse-250-kNDj2H {
+  background-color: var(--chetwode-blue);
+  border-radius: 28.5px;
+  bottom: 0px;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.homepage .ellipse-250-xvExM8 {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
   height: 57px;
@@ -154,56 +163,34 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.homepage .gruppe-1036-C61RwL {
-  background-color: transparent;
-  height: 1227px;
-  left: 932px;
-  position: absolute;
-  top: 2015px;
-  width: 57px;
-}
-.homepage .gruppe-496-C61RwL {
+.homepage .gruppe-496-IcPKRJ {
   background-color: transparent;
   height: 48px;
-  left: 514px;
+  left: calc(37.96% - 215px);
   position: absolute;
-  top: 21px;
+  top: calc(50.00% - 24px);
   width: 566px;
 }
-.homepage .gruppe-616-C61RwL {
+.homepage .header-C61RwL {
   background-color: transparent;
-  display: block;
-  height: 170px;
-  left: 1089px;
+  height: 90px;
+  left: 0px;
   position: absolute;
-  top: 3165px;
-  width: 492px;
-opacity: 0;transform: translate(0, 25px);
+  top: 0px;
+  width: 1920px;
 }
-.homepage .gruppe-617-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 218px;
-  left: 388px;
+.homepage .header-IcPKRJ {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 2580px;
-  width: 444px;
-opacity: 0;transform: translate(0, 25px);
+  top: 0px;
+  width: 100%;
 }
-.homepage .gruppe-618-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 194px;
-  left: 1089px;
-  position: absolute;
-  top: 1995px;
-  width: 534px;
-opacity: 0;transform: translate(0, 25px);
-}
-.homepage .here-2sJKf9 {
+.homepage .here-5cFxPi {
   background-color: transparent;
   bottom: 10.53%;
-  cursor: pointer;
   height: 21px;
   left: 0px;
   letter-spacing: 0.00px;
@@ -214,7 +201,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.homepage .improve-your-wo-to-your-designs-OtUnre {
+.homepage .improve-your-wo-to-your-designs-fDxNlt {
   background-color: transparent;
   bottom: calc(25.60% - 12px);
   height: 45px;
@@ -225,21 +212,10 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   width: calc(100.00% - 92px);
 }
-.homepage .improve-your-work-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 160px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 360px;
-  white-space: nowrap;
-  width: auto;
-}
-.homepage .komponente-3-1-Ievvxw {
+.homepage .komponente-3-1-90OO0D {
   background-color: transparent;
   bottom: calc(30.86% - 6px);
+  cursor: pointer;
   height: 19px;
   left: calc(26.60% - 9px);
   position: absolute;
@@ -247,13 +223,14 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .komponente-4-1-C61RwL {
   background-color: transparent;
+  cursor: pointer;
   height: 19px;
   left: 418px;
   position: absolute;
   top: 2749px;
   width: 96px;
 }
-.homepage .learn-design-principles-VMwTyA {
+.homepage .learn-design-principles-eu42hV {
   background-color: transparent;
   height: 39px;
   left: 30px;
@@ -265,7 +242,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 314px;
 }
-.homepage .learn-more-abou-he-design-guide-VMwTyA {
+.homepage .learn-more-abou-he-design-guide-eu42hV {
   background-color: transparent;
   bottom: 32px;
   height: 93px;
@@ -276,7 +253,17 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   width: calc(100.00% - 92px);
 }
-.homepage .linie-393-2VA0c5 {
+.homepage .learndesignprinciples-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 218px;
+  left: 388px;
+  position: absolute;
+  top: 2580px;
+  width: 444px;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .linie-393-dRzSpc {
   background-color: transparent;
   height: calc(100.00% - 55px);
   left: calc(50.00% - 1px);
@@ -294,13 +281,13 @@ opacity: 0;transform: translate(0, 25px);
   top: 1146px;
   width: 44px;
 }
-.homepage .logo-C61RwL {
+.homepage .logo-IcPKRJ {
   background-color: transparent;
   height: 26px;
   left: 160px;
   object-fit: cover;
   position: absolute;
-  top: 32px;
+  top: calc(50.00% - 13px);
   width: 153px;
 }
 .homepage .on-this-website-design-elements-C61RwL {
@@ -319,16 +306,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 446px;
   width: 613px;
 }
-.homepage .pfad-1465-C61RwL {
-  background-color: transparent;
-  height: 585px;
-  left: 440px;
-  overflow: hidden;
-  position: absolute;
-  top: 1218px;
-  width: 1040px;
-}
-.homepage .polygon-5-Ievvxw {
+.homepage .polygon-5-90OO0D {
   background-color: transparent;
   height: 75px;
   left: -22px;
@@ -337,7 +315,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(11.34% - 9px);
   width: 80px;
 }
-.homepage .polygon-5-VMwTyA {
+.homepage .polygon-5-eu42hV {
   background-color: transparent;
   height: 75px;
   object-fit: cover;
@@ -346,7 +324,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(9.44% - 7px);
   width: 80px;
 }
-.homepage .polygon-6-Ievvxw {
+.homepage .polygon-6-90OO0D {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -355,7 +333,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(20.73% - 6px);
   width: 35px;
 }
-.homepage .polygon-6-VMwTyA {
+.homepage .polygon-6-eu42hV {
   background-color: transparent;
   height: 30px;
   object-fit: cover;
@@ -364,7 +342,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(18.09% - 5px);
   width: 35px;
 }
-.homepage .polygon-7-OtUnre {
+.homepage .polygon-7-fDxNlt {
   background-color: transparent;
   height: 75px;
   left: -22px;
@@ -373,7 +351,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(14.21% - 11px);
   width: 80px;
 }
-.homepage .polygon-8-OtUnre {
+.homepage .polygon-8-fDxNlt {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -382,16 +360,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(24.29% - 7px);
   width: 35px;
 }
-.homepage .rechteck-1-C61RwL {
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  height: 90px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1920px;
-}
-.homepage .rechteck-1335-Ievvxw {
+.homepage .rechteck-1335-90OO0D {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -401,7 +370,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.homepage .rechteck-1335-VMwTyA {
+.homepage .rechteck-1335-eu42hV {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -411,7 +380,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.homepage .rechteck-1339-OtUnre {
+.homepage .rechteck-1339-fDxNlt {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -421,7 +390,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.homepage .rechteck-48-1nQLJJ {
+.homepage .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
   height: 100%;
@@ -430,18 +399,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.homepage .resources-C61RwL {
+.homepage .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  height: auto;
-  left: 1685px;
+  height: 21px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
+  right: 158px;
   text-align: left;
-  top: 33px;
+  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: auto;
+  width: 77px;
 }
 .homepage .scrollto-C61RwL {
   background-color: transparent;
@@ -453,7 +422,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 730px;
   width: 140px;
 }
-.homepage .search-1nQLJJ {
+.homepage .search-ZrFNw0 {
   background-color: transparent;
   border: 0;
   bottom: calc(45.45% - 12px);
@@ -467,28 +436,48 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   width: calc(100.00% - 91px);
 }
-.homepage .search-1nQLJJ::placeholder {
+.homepage .search-ZrFNw0::placeholder {
   color: #2021215c;
 }
-.homepage .span0-1ANVCc {
+.homepage .span0-F6JDN0 {
 
 }
-.homepage .span0-n7QWtL {
+.homepage .span0-akRfon {
 
 }
-.homepage .span1-1ANVCc {
+.homepage .span1-F6JDN0 {
 
 }
-.homepage .span1-n7QWtL {
+.homepage .span1-akRfon {
 
 }
-.homepage .span2-1ANVCc {
+.homepage .span2-F6JDN0 {
 
 }
-.homepage .span2-n7QWtL {
+.homepage .span2-akRfon {
 
 }
-.homepage .to-create-an-ap-comes-to-action-Ievvxw {
+.homepage .stepbystep-C61RwL {
+  background-color: transparent;
+  height: 1227px;
+  left: 932px;
+  position: absolute;
+  top: 2015px;
+  width: 57px;
+}
+.homepage .title-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  white-space: nowrap;
+  width: auto;
+}
+.homepage .to-create-an-ap-comes-to-action-90OO0D {
   background-color: transparent;
   bottom: calc(25.60% - 18px);
   height: 69px;
@@ -499,7 +488,7 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   width: calc(100.00% - 88px);
 }
-.homepage .understand-the-design-process-Ievvxw {
+.homepage .understand-the-design-process-90OO0D {
   background-color: transparent;
   height: 39px;
   left: 64px;
@@ -511,27 +500,46 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 115px);
 }
-@keyframes animate-enter10-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
+.homepage .understandthedesignprocess-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 194px;
+  left: 1089px;
+  position: absolute;
+  top: 1995px;
+  width: 534px;
+opacity: 0;transform: translate(0, 25px);
 }
-@keyframes animate-enter11-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
+.homepage .video-C61RwL {
+  background-color: transparent;
+  height: 585px;
+  left: 440px;
+  overflow: hidden;
+  position: absolute;
+  top: 1218px;
+  width: 1040px;
 }
-@keyframes animate-enter12-frames {
+@keyframes animate-enter-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter8-frames {
+@keyframes animate-enter1-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter9-frames {
+@keyframes animate-enter2-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter4-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

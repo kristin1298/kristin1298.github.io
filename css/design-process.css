@@ -1,9 +1,9 @@
 /* screen - design-process */
 
-.animate-enter7 {
-  animation: animate-enter7-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.animate-enter12 {
+  animation: animate-enter12-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
 .design-process {
   background-color: var(--coconut);
@@ -13,9 +13,9 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(0, 25px);
 }
-.design-process .a-wireframe-is-e-beginning-and-1e7zwy {
+.design-process .a-wireframe-is-e-beginning-and-OP2Ti3 {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -26,38 +26,38 @@ opacity: 0;transform: translate(0, 25px);
   top: 118px;
   width: 443px;
 }
-.design-process .animate-enter {
-  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter10 {
+  animation: animate-enter10-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.design-process .animate-enter1 {
-  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .animate-enter2 {
-  animation: animate-enter2-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .animate-enter3 {
-  animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .animate-enter4 {
-  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.design-process .animate-enter11 {
+  animation: animate-enter11-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .design-process .animate-enter5 {
-  animation: animate-enter5-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .design-process .animate-enter6 {
   animation: animate-enter6-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter7 {
+  animation: animate-enter7-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter8 {
+  animation: animate-enter8-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .animate-enter9 {
+  animation: animate-enter9-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -86,7 +86,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.design-process .design-guide-GCEBCP {
+.design-process .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -99,7 +99,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-process .design-process-GCEBCP {
+.design-process .design-process-IcPKRJ {
   background-color: transparent;
   height: auto;
   left: 1474px;
@@ -125,7 +125,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.design-process .ebene-2-6tzNvg {
+.design-process .ebene-2-ZrFNw0 {
+  background-color: transparent;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 11px;
+  width: 25px;
+}
+.design-process .ebene-2-xTxS2n {
   background-color: transparent;
   height: 100%;
   left: 0px;
@@ -134,15 +142,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.design-process .ebene-2-SZqgts {
-  background-color: transparent;
-  height: 25px;
-  left: 24px;
-  position: absolute;
-  top: 11px;
-  width: 25px;
-}
-.design-process .ellipse-402-QIcGv3 {
+.design-process .ellipse-402-dRzSpc {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
   height: 57px;
@@ -151,7 +151,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.design-process .ellipse-403-QIcGv3 {
+.design-process .ellipse-403-dRzSpc {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
   height: 57px;
@@ -160,7 +160,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(33.81% - 19px);
   width: 100%;
 }
-.design-process .ellipse-404-QIcGv3 {
+.design-process .ellipse-404-dRzSpc {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
   bottom: calc(31.14% - 18px);
@@ -169,7 +169,7 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 100%;
 }
-.design-process .ellipse-405-QIcGv3 {
+.design-process .ellipse-405-dRzSpc {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
   bottom: 0px;
@@ -178,7 +178,7 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 100%;
 }
-.design-process .first-start-ske-d-they-shouldnt-tD3QGc {
+.design-process .first-start-ske-d-they-shouldnt-gT3OxA {
   background-color: transparent;
   height: auto;
   left: 59px;
@@ -201,15 +201,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.design-process .gruppe-1037-C61RwL {
-  background-color: transparent;
-  height: 3760px;
-  left: 960px;
-  position: absolute;
-  top: 1147px;
-  width: 57px;
-}
-.design-process .gruppe-1115-tD3QGc {
+.design-process .gruppe-1115-gT3OxA {
   background-color: transparent;
   height: 852px;
   left: 0px;
@@ -217,7 +209,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1116-1e7zwy {
+.design-process .gruppe-1116-OP2Ti3 {
   background-color: transparent;
   height: 901px;
   left: 0px;
@@ -225,7 +217,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1117-zAfL08 {
+.design-process .gruppe-1117-BPahYV {
   background-color: transparent;
   height: 732px;
   left: 0px;
@@ -233,7 +225,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1118-zAfL08 {
+.design-process .gruppe-1118-BPahYV {
   background-color: transparent;
   height: 463px;
   left: 59px;
@@ -241,7 +233,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 239px;
   width: 441px;
 }
-.design-process .gruppe-1119-6CARtG {
+.design-process .gruppe-1119-CNVmqi {
   background-color: transparent;
   height: 732px;
   left: 0px;
@@ -249,47 +241,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 529px;
 }
-.design-process .gruppe-1157-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 852px;
-  left: 1117px;
-  position: absolute;
-  top: 1100px;
-  width: 529px;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .gruppe-1158-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 901px;
-  left: 331px;
-  position: absolute;
-  top: 2352px;
-  width: 529px;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .gruppe-1159-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 732px;
-  left: 1117px;
-  position: absolute;
-  top: 3653px;
-  width: 529px;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .gruppe-1160-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 732px;
-  left: 331px;
-  position: absolute;
-  top: 4805px;
-  width: 529px;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .gruppe-496-GCEBCP {
+.design-process .gruppe-496-IcPKRJ {
   background-color: transparent;
   height: 48px;
   left: 514px;
@@ -297,41 +249,13 @@ opacity: 0;transform: translate(0, 25px);
   top: 21px;
   width: 566px;
 }
-.design-process .gruppe-497-C61RwL {
-  background-color: transparent;
-  height: 90px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1920px;
-}
-.design-process .gruppe-663-1e7zwy {
+.design-process .gruppe-663-OP2Ti3 {
   background-color: transparent;
   height: 364px;
   left: 140px;
   position: absolute;
   top: 457px;
   width: 200px;
-}
-.design-process .gruppe-705-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 97px;
-  left: 265px;
-  position: absolute;
-  top: 3677px;
-  width: 595px;
-opacity: 0;transform: translate(0, 25px);
-}
-.design-process .gruppe-706-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 97px;
-  left: 255px;
-  position: absolute;
-  top: 1125px;
-  width: 605px;
-opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-707-C61RwL {
   background-color: transparent;
@@ -350,13 +274,21 @@ opacity: 0;transform: translate(0, 25px);
   top: 5937px;
   width: 423px;
 }
-.design-process .gruppe-719-1e7zwy {
+.design-process .gruppe-719-OP2Ti3 {
   background-color: transparent;
   height: 463px;
   left: 30px;
   position: absolute;
   top: 407px;
   width: 441px;
+}
+.design-process .header-C61RwL {
+  background-color: transparent;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
 }
 .design-process .komponente-28-1-C61RwL {
   background-color: transparent;
@@ -394,16 +326,16 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 44px;
 }
-.design-process .linie-416-mEaS2F {
+.design-process .linie-416-R6rmMk {
   background-color: transparent;
   height: 364px;
   left: 17px;
   object-fit: cover;
   position: absolute;
-  top: -0px;
+  top: 0px;
   width: 1px;
 }
-.design-process .linie-417-mEaS2F {
+.design-process .linie-417-R6rmMk {
   background-color: transparent;
   height: 364px;
   left: 182px;
@@ -412,7 +344,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 1px;
   width: 1px;
 }
-.design-process .linie-418-mEaS2F {
+.design-process .linie-418-R6rmMk {
   background-color: transparent;
   height: 100px;
   left: 17px;
@@ -421,7 +353,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 31px;
   width: 165px;
 }
-.design-process .linie-419-mEaS2F {
+.design-process .linie-419-R6rmMk {
   background-color: transparent;
   height: 100px;
   left: 17px;
@@ -430,7 +362,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 31px;
   width: 165px;
 }
-.design-process .linie-420-mEaS2F {
+.design-process .linie-420-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -439,7 +371,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 230px;
   width: 45px;
 }
-.design-process .linie-421-mEaS2F {
+.design-process .linie-421-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -448,7 +380,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 230px;
   width: 45px;
 }
-.design-process .linie-422-mEaS2F {
+.design-process .linie-422-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -457,7 +389,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 45px;
 }
-.design-process .linie-423-mEaS2F {
+.design-process .linie-423-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -466,7 +398,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 45px;
 }
-.design-process .linie-424-mEaS2F {
+.design-process .linie-424-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -475,7 +407,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 230px;
   width: 45px;
 }
-.design-process .linie-425-mEaS2F {
+.design-process .linie-425-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -484,7 +416,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 230px;
   width: 45px;
 }
-.design-process .linie-426-mEaS2F {
+.design-process .linie-426-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -493,7 +425,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 45px;
 }
-.design-process .linie-427-mEaS2F {
+.design-process .linie-427-R6rmMk {
   background-color: transparent;
   height: 45px;
   left: 17px;
@@ -502,16 +434,16 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 45px;
 }
-.design-process .linie-428-mEaS2F {
+.design-process .linie-428-R6rmMk {
   background-color: transparent;
   height: 364px;
   left: 182px;
   object-fit: cover;
   position: absolute;
-  top: -0px;
+  top: 0px;
   width: 1px;
 }
-.design-process .linie-429-mEaS2F {
+.design-process .linie-429-R6rmMk {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -520,7 +452,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 332px;
   width: 200px;
 }
-.design-process .linie-430-mEaS2F {
+.design-process .linie-430-R6rmMk {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -529,7 +461,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 30px;
   width: 200px;
 }
-.design-process .linie-441-QIcGv3 {
+.design-process .linie-441-dRzSpc {
   background-color: transparent;
   height: calc(100.00% - 55px);
   left: calc(50.00% - 1px);
@@ -538,7 +470,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 28px;
   width: 2px;
 }
-.design-process .logo-GCEBCP {
+.design-process .logo-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
   height: 26px;
@@ -548,16 +480,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 32px;
   width: 153px;
 }
-.design-process .mockup-LjaS5b {
-  background-color: transparent;
-  height: 463px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 441px;
-}
-.design-process .mockup-zAfL08 {
+.design-process .mockup-BPahYV {
   background-color: transparent;
   height: auto;
   left: 59px;
@@ -569,7 +492,26 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-process .now-that-you-ha-e-look-and-feel-zAfL08 {
+.design-process .mockup-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 732px;
+  left: 1117px;
+  position: absolute;
+  top: 3653px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .mockup-yHpVFY {
+  background-color: transparent;
+  height: 463px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 441px;
+}
+.design-process .now-that-you-ha-e-look-and-feel-BPahYV {
   background-color: transparent;
   height: auto;
   left: 59px;
@@ -603,7 +545,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-.design-process .polygon-10-0lFzac {
+.design-process .polygon-10-NoBKRk {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -612,7 +554,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-17-Svy6Qz {
+.design-process .polygon-17-GAuuz0 {
   background-color: transparent;
   height: 75px;
   left: 476px;
@@ -621,7 +563,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 39px;
   width: 75px;
 }
-.design-process .polygon-17-jgVWAo {
+.design-process .polygon-17-xpQxDB {
   background-color: transparent;
   height: 75px;
   left: 476px;
@@ -630,7 +572,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 39px;
   width: 75px;
 }
-.design-process .polygon-18-Svy6Qz {
+.design-process .polygon-18-GAuuz0 {
   background-color: transparent;
   height: 30px;
   left: 499px;
@@ -639,7 +581,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-18-jgVWAo {
+.design-process .polygon-18-xpQxDB {
   background-color: transparent;
   height: 30px;
   left: 499px;
@@ -648,7 +590,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-19-MbKiDZ {
+.design-process .polygon-19-ILRZCv {
   background-color: transparent;
   height: 75px;
   left: -22px;
@@ -657,7 +599,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 38px;
   width: 75px;
 }
-.design-process .polygon-20-MbKiDZ {
+.design-process .polygon-20-ILRZCv {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -666,7 +608,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 59px;
   width: 30px;
 }
-.design-process .polygon-5-LyqNeT {
+.design-process .polygon-5-fax1QG {
   background-color: transparent;
   bottom: calc(38.64% - 29px);
   height: 75px;
@@ -675,7 +617,7 @@ opacity: 0;transform: translate(0, 25px);
   right: -22px;
   width: 80px;
 }
-.design-process .polygon-5-sEKMD7 {
+.design-process .polygon-5-lOf14x {
   background-color: transparent;
   bottom: calc(38.64% - 29px);
   height: 75px;
@@ -684,7 +626,7 @@ opacity: 0;transform: translate(0, 25px);
   right: -22px;
   width: 80px;
 }
-.design-process .polygon-6-LyqNeT {
+.design-process .polygon-6-fax1QG {
   background-color: transparent;
   bottom: calc(49.25% - 15px);
   height: 30px;
@@ -693,7 +635,7 @@ opacity: 0;transform: translate(0, 25px);
   right: 0px;
   width: 35px;
 }
-.design-process .polygon-6-sEKMD7 {
+.design-process .polygon-6-lOf14x {
   background-color: transparent;
   bottom: calc(49.25% - 15px);
   height: 30px;
@@ -702,7 +644,7 @@ opacity: 0;transform: translate(0, 25px);
   right: 0px;
   width: 35px;
 }
-.design-process .polygon-9-0lFzac {
+.design-process .polygon-9-NoBKRk {
   background-color: transparent;
   height: 75px;
   left: -22px;
@@ -711,7 +653,17 @@ opacity: 0;transform: translate(0, 25px);
   top: 38px;
   width: 75px;
 }
-.design-process .prototype-app-6CARtG {
+.design-process .prototype-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 732px;
+  left: 331px;
+  position: absolute;
+  top: 4805px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .prototype-app-CNVmqi {
   background-color: transparent;
   height: 463px;
   left: 30px;
@@ -720,7 +672,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 239px;
   width: 441px;
 }
-.design-process .prototype-app-9AFwUE {
+.design-process .prototype-app-PS2iTK {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -732,7 +684,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-process .rechteck-1-GCEBCP {
+.design-process .rechteck-1-IcPKRJ {
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
   height: 90px;
@@ -741,7 +693,27 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 1920px;
 }
-.design-process .rechteck-1335-0lFzac {
+.design-process .rechteck-1335-GAuuz0 {
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 732px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 500px;
+}
+.design-process .rechteck-1335-ILRZCv {
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 2px 25px #00000029;
+  height: 732px;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: 500px;
+}
+.design-process .rechteck-1335-NoBKRk {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -751,7 +723,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 500px;
 }
-.design-process .rechteck-1335-LyqNeT {
+.design-process .rechteck-1335-fax1QG {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -761,17 +733,17 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.design-process .rechteck-1335-MbKiDZ {
+.design-process .rechteck-1335-lOf14x {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 732px;
-  left: 29px;
+  height: 100%;
+  left: 0px;
   position: absolute;
   top: 0px;
-  width: 500px;
+  width: calc(100.00% - 34px);
 }
-.design-process .rechteck-1335-Svy6Qz {
+.design-process .rechteck-1335-xpQxDB {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -781,27 +753,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 500px;
 }
-.design-process .rechteck-1335-jgVWAo {
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 2px 25px #00000029;
-  height: 732px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 500px;
-}
-.design-process .rechteck-1335-sEKMD7 {
-  background-color: var(--white);
-  border-radius: 6px;
-  box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: calc(100.00% - 34px);
-}
-.design-process .rechteck-1509-mEaS2F {
+.design-process .rechteck-1509-R6rmMk {
   background-color: var(--white);
   border-radius: 12px;
   box-shadow: 0px 3px 15px #00000029;
@@ -811,7 +763,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 1px;
   width: 200px;
 }
-.design-process .rechteck-1511-mEaS2F {
+.design-process .rechteck-1511-R6rmMk {
   background-color: var(--dove-gray);
   height: 99px;
   left: 17px;
@@ -819,7 +771,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 31px;
   width: 166px;
 }
-.design-process .rechteck-1512-mEaS2F {
+.design-process .rechteck-1512-R6rmMk {
   background-color: var(--dove-gray);
   height: 12px;
   left: 73px;
@@ -827,7 +779,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 229px;
   width: 110px;
 }
-.design-process .rechteck-1513-mEaS2F {
+.design-process .rechteck-1513-R6rmMk {
   background-color: var(--dove-gray);
   height: 12px;
   left: 17px;
@@ -835,7 +787,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 161px;
   width: 127px;
 }
-.design-process .rechteck-1514-mEaS2F {
+.design-process .rechteck-1514-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 17px;
@@ -843,7 +795,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 189px;
   width: 26px;
 }
-.design-process .rechteck-1515-mEaS2F {
+.design-process .rechteck-1515-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 53px;
@@ -851,7 +803,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 189px;
   width: 26px;
 }
-.design-process .rechteck-1516-mEaS2F {
+.design-process .rechteck-1516-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 88px;
@@ -859,7 +811,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 189px;
   width: 26px;
 }
-.design-process .rechteck-1517-mEaS2F {
+.design-process .rechteck-1517-R6rmMk {
   background-color: var(--dove-gray);
   height: 44px;
   left: 17px;
@@ -867,7 +819,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 229px;
   width: 44px;
 }
-.design-process .rechteck-1518-mEaS2F {
+.design-process .rechteck-1518-R6rmMk {
   background-color: var(--dove-gray);
   height: 44px;
   left: 17px;
@@ -875,7 +827,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 44px;
 }
-.design-process .rechteck-1519-mEaS2F {
+.design-process .rechteck-1519-R6rmMk {
   background-color: var(--dove-gray);
   height: 44px;
   left: 17px;
@@ -883,7 +835,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 229px;
   width: 44px;
 }
-.design-process .rechteck-1520-mEaS2F {
+.design-process .rechteck-1520-R6rmMk {
   background-color: var(--dove-gray);
   height: 44px;
   left: 17px;
@@ -891,7 +843,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 44px;
 }
-.design-process .rechteck-1521-mEaS2F {
+.design-process .rechteck-1521-R6rmMk {
   background-color: var(--dove-gray);
   height: 11px;
   left: 17px;
@@ -899,7 +851,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 141px;
   width: 166px;
 }
-.design-process .rechteck-1522-mEaS2F {
+.design-process .rechteck-1522-R6rmMk {
   background-color: var(--dove-gray);
   height: 11px;
   left: 73px;
@@ -907,7 +859,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 247px;
   width: 94px;
 }
-.design-process .rechteck-1523-mEaS2F {
+.design-process .rechteck-1523-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 73px;
@@ -915,7 +867,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 267px;
   width: 26px;
 }
-.design-process .rechteck-1524-mEaS2F {
+.design-process .rechteck-1524-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 108px;
@@ -923,7 +875,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 267px;
   width: 26px;
 }
-.design-process .rechteck-1525-mEaS2F {
+.design-process .rechteck-1525-R6rmMk {
   background-color: var(--dove-gray);
   height: 12px;
   left: 73px;
@@ -931,7 +883,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 289px;
   width: 110px;
 }
-.design-process .rechteck-1526-mEaS2F {
+.design-process .rechteck-1526-R6rmMk {
   background-color: var(--dove-gray);
   height: 12px;
   left: 73px;
@@ -939,7 +891,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 306px;
   width: 94px;
 }
-.design-process .rechteck-1527-mEaS2F {
+.design-process .rechteck-1527-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 73px;
@@ -947,7 +899,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 327px;
   width: 26px;
 }
-.design-process .rechteck-1528-mEaS2F {
+.design-process .rechteck-1528-R6rmMk {
   background-color: var(--dove-gray);
   height: 6px;
   left: 108px;
@@ -964,7 +916,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.design-process .rechteck-48-SZqgts {
+.design-process .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
   height: 48px;
@@ -973,7 +925,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 566px;
 }
-.design-process .resources-GCEBCP {
+.design-process .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
   height: auto;
@@ -996,7 +948,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 730px;
   width: 140px;
 }
-.design-process .search-SZqgts {
+.design-process .search-ZrFNw0 {
   background-color: transparent;
   border: 0;
   height: 26px;
@@ -1010,10 +962,29 @@ opacity: 0;transform: translate(0, 25px);
   top: 12px;
   width: 475px;
 }
-.design-process .search-SZqgts::placeholder {
+.design-process .search-ZrFNw0::placeholder {
   color: #2021215c;
 }
-.design-process .sketch-scribble-tD3QGc {
+.design-process .sketch-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 852px;
+  left: 1117px;
+  position: absolute;
+  top: 1100px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .sketch-gT3OxA {
+  background-color: transparent;
+  height: 463px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 441px;
+}
+.design-process .sketch-scribble-gT3OxA {
   background-color: transparent;
   height: auto;
   left: 59px;
@@ -1025,36 +996,27 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.design-process .sketch-tD3QGc {
-  background-color: transparent;
-  height: 463px;
-  left: 59px;
-  object-fit: cover;
-  position: absolute;
-  top: 359px;
-  width: 441px;
-}
-.design-process .span0-KWhsjX {
+.design-process .span0-V1Inwm {
 
 }
-.design-process .span0-k4XpPr {
+.design-process .span0-yMOZzg {
 
 }
-.design-process .span1-KWhsjX {
+.design-process .span1-V1Inwm {
   color: var(--chetwode-blue);
   font-style: normal;
 }
-.design-process .span1-k4XpPr {
+.design-process .span1-yMOZzg {
   color: var(--chetwode-blue);
   font-style: normal;
 }
-.design-process .span2-KWhsjX {
+.design-process .span2-V1Inwm {
 
 }
-.design-process .span2-k4XpPr {
+.design-process .span2-yMOZzg {
 
 }
-.design-process .step-01-tD3QGc {
+.design-process .step-01-gT3OxA {
   background-color: transparent;
   height: auto;
   left: 59px;
@@ -1066,7 +1028,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-.design-process .step-02-1e7zwy {
+.design-process .step-02-OP2Ti3 {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -1078,7 +1040,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-.design-process .step-03-zAfL08 {
+.design-process .step-03-BPahYV {
   background-color: transparent;
   height: auto;
   left: 59px;
@@ -1090,7 +1052,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-.design-process .step-04-6CARtG {
+.design-process .step-04-CNVmqi {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -1102,50 +1064,15 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 422px;
 }
-.design-process .then-after-youv-implementation-6CARtG {
+.design-process .stepbystep-C61RwL {
   background-color: transparent;
-  height: auto;
-  left: 30px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
+  height: 3760px;
+  left: 960px;
   position: absolute;
-  text-align: left;
-  top: 118px;
-  width: 443px;
+  top: 1147px;
+  width: 57px;
 }
-.design-process .this-is-when-th-mes-into-action-LyqNeT {
-  background-color: transparent;
-  bottom: calc(48.28% - 19px);
-  color: var(--log-cabin);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
-  font-weight: 500;
-  height: 39px;
-  left: 30px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 92px);
-}
-.design-process .this-is-when-th-mes-into-action-sEKMD7 {
-  background-color: transparent;
-  bottom: calc(48.28% - 19px);
-  color: var(--log-cabin);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
-  font-weight: 500;
-  height: 39px;
-  left: 30px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 92px);
-}
-.design-process .title-C61RwL {
+.design-process .the-design-process-C61RwL {
   background-color: transparent;
   height: auto;
   left: 160px;
@@ -1156,6 +1083,49 @@ opacity: 0;transform: translate(0, 25px);
   top: 360px;
   white-space: nowrap;
   width: auto;
+}
+.design-process .then-after-youv-implementation-CNVmqi {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 443px;
+}
+.design-process .this-is-when-th-mes-into-action-fax1QG {
+  background-color: transparent;
+  bottom: calc(48.28% - 19px);
+  color: var(--log-cabin);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 39px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 92px);
+}
+.design-process .this-is-when-th-mes-into-action-lOf14x {
+  background-color: transparent;
+  bottom: calc(48.28% - 19px);
+  color: var(--log-cabin);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 39px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 92px);
 }
 .design-process .to-create-an-ap-ome-into-action-C61RwL {
   background-color: transparent;
@@ -1168,7 +1138,46 @@ opacity: 0;transform: translate(0, 25px);
   top: 446px;
   width: 648px;
 }
-.design-process .wireframe-1e7zwy {
+.design-process .ui-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 97px;
+  left: 255px;
+  position: absolute;
+  top: 1125px;
+  width: 605px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .ux-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 97px;
+  left: 265px;
+  position: absolute;
+  top: 3677px;
+  width: 595px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .wireframe-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 901px;
+  left: 331px;
+  position: absolute;
+  top: 2352px;
+  width: 529px;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-process .wireframe-HHsWED {
+  background-color: transparent;
+  height: 463px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 441px;
+}
+.design-process .wireframe-OP2Ti3 {
   background-color: transparent;
   height: auto;
   left: 30px;
@@ -1179,15 +1188,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 55px;
   white-space: nowrap;
   width: auto;
-}
-.design-process .wireframe-G715mq {
-  background-color: transparent;
-  height: 463px;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 441px;
 }
 .design-process .x51916-C61RwL {
   background-color: transparent;
@@ -1208,29 +1208,19 @@ opacity: 0;transform: translate(0, 25px);
   top: 6085px;
   width: 109px;
 }
-@keyframes animate-enter-frames {
+@keyframes animate-enter10-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter1-frames {
+@keyframes animate-enter11-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter2-frames {
+@keyframes animate-enter12-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter3-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter4-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter5-frames {
@@ -1244,6 +1234,16 @@ from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter7-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter8-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter9-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

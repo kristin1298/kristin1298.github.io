@@ -3,6 +3,7 @@
   --chetwode-blue: #7a7cf2;
   --coconut: #fdfdfe;
   --dove-gray: #707070;
+  --geyser: #d8dbe7;
   --log-cabin: #212121;
   --log-cabin-2: #20212199;
   --shark: #2a2a2a;
@@ -39,10 +40,24 @@
   font-style: normal;
   font-weight: 400;
 }
+.roboto-normal-shark-16px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
 .roboto-normal-chetwode-blue-16px {
   color: var(--chetwode-blue);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-log-cabin-20px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
@@ -53,19 +68,10 @@
   font-style: normal;
   font-weight: 400;
 }
-.roboto-normal-shark-16px {
-  color: var(--shark);
+.roboto-normal-log-cabin-16px-2 {
+  color: var(--log-cabin);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-.roboto-normal-chetwode-blue-20px {
-  color: var(--chetwode-blue);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 400;
 }
 .roboto-medium-log-cabin-16px {
   color: var(--log-cabin);
@@ -74,15 +80,15 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-normal-log-cabin-20px {
-  color: var(--log-cabin-2);
+.roboto-normal-chetwode-blue-20px {
+  color: var(--chetwode-blue);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
 .roboto-normal-log-cabin-20px-2 {
-  color: var(--log-cabin);
+  color: var(--log-cabin-2);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -95,10 +101,12 @@
   font-style: normal;
   font-weight: 500;
 }
-.roboto-normal-log-cabin-16px-2 {
-  color: var(--log-cabin);
+.roboto-medium-shark-30px {
+  color: var(--shark);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
 }
 .roboto-normal-shark-16px-2 {
   color: var(--shark);
