@@ -3,7 +3,8 @@
 .animate-enter20 {
   animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;
+transform: translate(0, 25px);
 }
 .guidelines-accessibility-1 {
   background-color: var(--coconut);
@@ -13,7 +14,8 @@ opacity: 0;transform: translate(0, 25px);
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;
+transform: translate(0, 25px);
 }
 .guidelines-accessibility-1 .accessibility-C61RwL {
   background-color: transparent;
@@ -148,7 +150,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 491px;
   white-space: nowrap;
@@ -185,7 +187,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 163px;
   white-space: nowrap;
@@ -223,7 +225,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 327px;
   white-space: nowrap;
@@ -235,7 +237,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 32px;
   white-space: nowrap;
@@ -248,7 +250,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 286px;
   white-space: nowrap;
@@ -470,7 +472,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 409px;
   white-space: nowrap;
@@ -499,7 +501,7 @@ opacity: 0;transform: translate(0, 25px);
   justify-content: flex-start;
   left: 30px;
   min-width: 108px;
-  position: absolute;
+  position: fixed;
   top: 122px;
   width: auto;
 }
@@ -590,7 +592,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 450px;
   white-space: nowrap;
@@ -735,7 +737,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 79px;
   white-space: nowrap;
@@ -826,7 +828,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 204px;
   white-space: nowrap;
@@ -851,7 +853,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 368px;
   white-space: nowrap;
@@ -1207,7 +1209,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 47px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
   top: 245px;
   white-space: nowrap;
@@ -1403,6 +1405,7 @@ to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter20-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;
+transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
