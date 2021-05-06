@@ -168,9 +168,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 73px;
 }
 .guidelines-colors .black-C61RwL {
-  background-color: var(--black);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -202,10 +200,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 61px;
 }
 .guidelines-colors .blue-C61RwL {
-  background: linear-gradient(229.4deg, #4182e1 0%, #9cdbff 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -249,10 +244,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 66px;
 }
 .guidelines-colors .brown-C61RwL {
-  background: linear-gradient(229.4deg, #8a3c28 0%, #d57962 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -440,9 +432,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 218px;
 }
 .guidelines-colors .colormeaning-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -515,9 +505,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-colors .colorsaturation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -586,32 +574,26 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-colors .design-process-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -649,9 +631,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-colors .detonativecolors-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -707,9 +687,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 216px;
 }
 .guidelines-colors .dontusecmyk-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -739,13 +717,20 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-colors .ebene-2-ZrFNw0 {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
+}
+.guidelines-colors .ebene-2-xTxS2n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 .guidelines-colors .elegance-mIXknJ {
   background-color: transparent;
@@ -869,9 +854,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 80px;
 }
 .guidelines-colors .grayscale-first-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -912,9 +895,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 209px;
 }
 .guidelines-colors .greatcontrasts-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -931,10 +912,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-colors .green-C61RwL {
-  background: linear-gradient(229.4deg, #3ebf61 0%, #a1e0b2 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -954,10 +932,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 82px;
 }
 .guidelines-colors .grey-C61RwL {
-  background: linear-gradient(229.4deg, #393939 0%, #595959 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -989,20 +964,12 @@ opacity: 0;transform: translate(0, 25px);
   width: 34px;
 }
 .guidelines-colors .gruppe-496-IcPKRJ {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .guidelines-colors .gruppe-666-hBalxm {
   background-color: transparent;
@@ -1021,10 +988,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 16px;
 }
 .guidelines-colors .gruppe-745-9sRlnj {
-  background: linear-gradient(229.94deg, #9454e9 0.8%, #c8aaf1 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 100%;
   left: 0px;
   position: relative;
@@ -1080,20 +1044,12 @@ opacity: 0;transform: translate(0, 25px);
   width: 48px;
 }
 .guidelines-colors .header-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .guidelines-colors .here-K0aVJQ {
   background-color: transparent;
@@ -1169,9 +1125,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 79px;
 }
 .guidelines-colors .in-page-navigation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000029;
+  background-color: transparent;
   display: block;
   height: 462px;
   left: 160px;
@@ -1688,10 +1642,11 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .logo-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .guidelines-colors .loneliness-hBalxm {
@@ -1816,10 +1771,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 69px;
 }
 .guidelines-colors .orange-C61RwL {
-  background: linear-gradient(229.4deg, #ffad03 0%, #ffba7e 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1899,10 +1851,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 85px;
 }
 .guidelines-colors .pink-C61RwL {
-  background: linear-gradient(229.4deg, #fa7fbc 0%, #ffbadd 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1958,9 +1907,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 343px;
 }
 .guidelines-colors .puregrayscaleandblack-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -2044,6 +1991,233 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 63px;
 }
+.guidelines-colors .rechteck-1-IcPKRJ {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.guidelines-colors .rechteck-10-7st5IO {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-10-9fuHgd {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-10-HxYB8L {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1540-XrKJzx {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1542-XCV9gl {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1548-YHlpH9 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1549-sYEjMl {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1550-hBalxm {
+  background: linear-gradient(229.94deg, #9454e9 0.8%, #c8aaf1 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1554-0Ch82x {
+  background: linear-gradient(229.4deg, #4182e1 0%, #9cdbff 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1557-TxhmFV {
+  background: linear-gradient(229.4deg, #3ebf61 0%, #a1e0b2 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1558-jHSr52 {
+  background: linear-gradient(229.4deg, #f4f43e 0%, #fffdb7 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1559-wluokx {
+  background: linear-gradient(229.4deg, #ffad03 0%, #ffba7e 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1560-JWPUGm {
+  background: linear-gradient(229.4deg, #cf2626 0%, #f97979 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1563-xodXx6 {
+  background: linear-gradient(229.4deg, #fa7fbc 0%, #ffbadd 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1564-WYrB2T {
+  background: linear-gradient(229.4deg, #8a3c28 0%, #d57962 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1565-KWogTD {
+  background: linear-gradient(229.4deg, #393939 0%, #595959 100%);
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1566-mIXknJ {
+  background-color: var(--black);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1567-rZBNPs {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-1682-k787VZ {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-colors .rechteck-48-ZrFNw0 {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
+.guidelines-colors .rechteck-616-05jha3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  height: 462px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
 .guidelines-colors .rechteck-663-05jha3 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
@@ -2054,10 +2228,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 3px;
 }
 .guidelines-colors .red-C61RwL {
-  background: linear-gradient(229.4deg, #cf2626 0%, #f97979 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;
@@ -2079,32 +2250,28 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-colors .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-colors .search-ZrFNw0 {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .guidelines-colors .search-ZrFNw0::placeholder {
@@ -2358,9 +2525,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 300px;
 }
 .guidelines-colors .the603010ratio-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -2500,9 +2665,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 379px;
 }
 .guidelines-colors .white-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -2652,10 +2815,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-colors .yellow-C61RwL {
-  background: linear-gradient(229.4deg, #f4f43e 0%, #fffdb7 100%);
   background-color: transparent;
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
   height: 480px;
   left: 1200px;
   position: absolute;

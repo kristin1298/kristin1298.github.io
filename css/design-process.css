@@ -89,31 +89,25 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .design-process .design-process-IcPKRJ {
   background-color: transparent;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -133,13 +127,20 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .ebene-2-ZrFNw0 {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
+}
+.design-process .ebene-2-xTxS2n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 .design-process .ellipse-402-dRzSpc {
   background-color: var(--chetwode-blue);
@@ -226,9 +227,6 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-1118-BPahYV {
   background-color: transparent;
-  background-image: url(../img/mockup@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
   height: 463px;
   left: 59px;
   position: absolute;
@@ -244,20 +242,12 @@ opacity: 0;transform: translate(0, 25px);
   width: 529px;
 }
 .design-process .gruppe-496-IcPKRJ {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .design-process .gruppe-663-OP2Ti3 {
   background-color: transparent;
@@ -268,8 +258,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 200px;
 }
 .design-process .gruppe-707-C61RwL {
-  background-color: var(--black);
-  border-radius: 20px;
+  background-color: transparent;
   cursor: pointer;
   height: 99px;
   left: 546px;
@@ -287,9 +276,6 @@ opacity: 0;transform: translate(0, 25px);
 }
 .design-process .gruppe-719-OP2Ti3 {
   background-color: transparent;
-  background-image: url(../img/wireframe@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
   height: 463px;
   left: 30px;
   position: absolute;
@@ -297,20 +283,12 @@ opacity: 0;transform: translate(0, 25px);
   width: 441px;
 }
 .design-process .header-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .design-process .komponente-28-1-C61RwL {
   background-color: transparent;
@@ -495,10 +473,11 @@ opacity: 0;transform: translate(0, 25px);
 .design-process .logo-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .design-process .mockup-BPahYV {
@@ -522,6 +501,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 3653px;
   width: 529px;
 opacity: 0;transform: translate(0, 25px);
+}
+.design-process .mockup-yHpVFY {
+  background-color: transparent;
+  height: 463px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 441px;
 }
 .design-process .now-that-you-ha-e-look-and-feel-BPahYV {
   background-color: transparent;
@@ -695,6 +683,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 55px;
   white-space: nowrap;
   width: auto;
+}
+.design-process .rechteck-1-IcPKRJ {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
 }
 .design-process .rechteck-1335-GAuuz0 {
   background-color: var(--white);
@@ -910,19 +907,34 @@ opacity: 0;transform: translate(0, 25px);
   top: 327px;
   width: 26px;
 }
+.design-process .rechteck-1678-zXS1Qu {
+  background-color: var(--black);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.design-process .rechteck-48-ZrFNw0 {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
 .design-process .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -937,18 +949,17 @@ opacity: 0;transform: translate(0, 25px);
   width: 140px;
 }
 .design-process .search-ZrFNw0 {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .design-process .search-ZrFNw0::placeholder {
@@ -1156,6 +1167,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 2352px;
   width: 529px;
 opacity: 0;transform: translate(0, 25px);
+}
+.design-process .wireframe-HHsWED {
+  background-color: transparent;
+  height: 463px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 441px;
 }
 .design-process .wireframe-OP2Ti3 {
   background-color: transparent;

@@ -29,9 +29,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-icons .alignment-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -73,9 +71,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 140px;
 }
 .guidelines-icons .alignmentinbutton-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -163,9 +159,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-icons .circle-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -207,9 +201,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-icons .consistency-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -261,9 +253,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-icons .delete-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -285,32 +275,26 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 200px;
-  min-height: 21px;
-  min-width: 96px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-icons .design-process-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 113px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -328,13 +312,20 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-icons .ebene-2-ZrFNw0 {
   background-color: transparent;
-  background-image: url(../img/ebene-2-10@1x.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  flex-shrink: 1;
   height: 25px;
-  position: relative;
+  left: 24px;
+  position: absolute;
+  top: 11px;
   width: 25px;
+}
+.guidelines-icons .ebene-2-xTxS2n {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
 }
 .guidelines-icons .email-AJcDBt {
   background-color: transparent;
@@ -347,9 +338,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-icons .email-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -407,9 +396,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 58px;
 }
 .guidelines-icons .grid-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -429,9 +416,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 147px;
 }
 .guidelines-icons .gridusage-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -439,36 +424,20 @@ opacity: 0;transform: translate(0, 25px);
   width: 1180px;
 }
 .guidelines-icons .gruppe-496-IcPKRJ {
-  align-items: flex-start;
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
+  background-color: transparent;
   height: 48px;
-  justify-content: flex-start;
-  margin-left: 201px;
-  min-width: 566px;
-  padding: 10px 23px;
-  position: relative;
-  width: auto;
+  left: 514px;
+  position: absolute;
+  top: 21px;
+  width: 566px;
 }
 .guidelines-icons .header-C61RwL {
-  align-items: center;
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
+  background-color: transparent;
   height: 90px;
-  justify-content: flex-end;
   left: 0px;
-  min-width: 1920px;
-  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: auto;
+  width: 1920px;
 }
 .guidelines-icons .height-128px-RxhlYI {
   background-color: transparent;
@@ -529,9 +498,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 274px;
 }
 .guidelines-icons .horizontalrectangle-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -664,9 +631,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 324px;
 }
 .guidelines-icons .iconsizevstextsize-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -709,9 +674,7 @@ opacity: 0;transform: translate(0, 25px);
   width: calc(100.00% + 2px);
 }
 .guidelines-icons .in-page-navigation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 35px #00000029;
+  background-color: transparent;
   display: block;
   height: 584px;
   left: 160px;
@@ -757,9 +720,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 332px;
 }
 .guidelines-icons .keylines-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -906,10 +867,11 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-icons .logo-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: 26px;
+  left: 160px;
   object-fit: cover;
-  position: relative;
+  position: absolute;
+  top: 32px;
   width: 153px;
 }
 .guidelines-icons .make-sure-each-check-your-work-t4Cim5 {
@@ -981,9 +943,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-icons .navigation-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1038,9 +998,7 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-icons .phone-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1069,6 +1027,154 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 88px;
 }
+.guidelines-icons .rechteck-1-IcPKRJ {
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.guidelines-icons .rechteck-10-1Dldzd {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-1009-01tEiA {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-1279-HwtYiC {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-323-xOOvnU {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-326-CiroxW {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-329-ze1M2E {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-332-RxhlYI {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-335-asPrie {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-342-UiolNu {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-352-t4Cim5 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-357-yjpFxk {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-362-x0Q4lz {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-48-ZrFNw0 {
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 566px;
+}
+.guidelines-icons .rechteck-616-05jha3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 35px #00000029;
+  height: 584px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
 .guidelines-icons .rechteck-663-05jha3 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
@@ -1078,19 +1184,96 @@ opacity: 0;transform: translate(0, 25px);
   top: 285px;
   width: 3px;
 }
+.guidelines-icons .rechteck-772-AJcDBt {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-773-kMORow {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-775-Ak6N8f {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-801-LvcNqs {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-802-xjb0Rz {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-803-dZj9Ts {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-874-GtPdP3 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-icons .rechteck-881-tsfnd9 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 30px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .guidelines-icons .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  flex-shrink: 1;
   height: auto;
+  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  margin-bottom: 3.0px;
-  margin-left: 98px;
-  min-height: 21px;
-  min-width: 77px;
-  position: relative;
+  position: absolute;
   text-align: left;
+  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -1107,9 +1290,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 187px;
 }
 .guidelines-icons .samesection-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1127,18 +1308,17 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-icons .search-ZrFNw0 {
-  align-self: center;
   background-color: transparent;
   border: 0;
-  flex-shrink: 1;
   height: 26px;
+  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
-  margin-left: 15px;
   padding: 0;
-  position: relative;
+  position: absolute;
   resize: none;
   text-align: left;
+  top: 12px;
   width: 475px;
 }
 .guidelines-icons .search-ZrFNw0::placeholder {
@@ -1157,9 +1337,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 133px;
 }
 .guidelines-icons .shortcuts-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1177,9 +1355,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-icons .simplicity-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1209,9 +1385,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-icons .space-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1262,9 +1436,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 96px;
 }
 .guidelines-icons .square-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1378,9 +1550,7 @@ opacity: 0;transform: translate(0, 25px);
   width: calc(100.00% + 2px);
 }
 .guidelines-icons .strenghtenmeaning-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -1590,9 +1760,7 @@ opacity: 0;transform: translate(0, 25px);
   width: 239px;
 }
 .guidelines-icons .verticalrectangle-C61RwL {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 2px 30px #00000029;
+  background-color: transparent;
   height: 480px;
   left: 580px;
   position: absolute;
