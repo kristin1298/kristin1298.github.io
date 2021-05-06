@@ -1,19 +1,12 @@
 /* screen - guidelines-buttons */
 
-.animate-enter47 {
-  animation: animate-enter47-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
 .guidelines-buttons {
   background-color: var(--coconut);
-  display: block;
   height: 8099px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-buttons .a-button-is-a-f-ns-and-machines-C61RwL {
   background-color: transparent;
@@ -92,13 +85,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 250px;
 }
-.guidelines-buttons .animate-enter45 {
-  animation: animate-enter45-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter31 {
+  animation: animate-enter31-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-buttons .animate-enter46 {
-  animation: animate-enter46-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter32 {
+  animation: animate-enter32-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1269,18 +1262,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter45-frames {
+@keyframes animate-enter31-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter46-frames {
+@keyframes animate-enter32-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter47-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

@@ -1,21 +1,12 @@
 /* screen - guidelines-layout */
 
-.animate-enter17 {
-  animation: animate-enter17-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;
-transform: translate(0, 25px);
-}
 .guidelines-layout {
   background-color: var(--coconut);
-  display: block;
   height: 6729px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;
-transform: translate(0, 25px);
 }
 .guidelines-layout .a-digital-layou-er-and-the-user-C61RwL {
   background-color: transparent;
@@ -28,16 +19,16 @@ transform: translate(0, 25px);
   top: 425px;
   width: 714px;
 }
-.guidelines-layout .accessibility-05jha3 {
+.guidelines-layout .accessibility-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 30px;
+  left: 190px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 245px;
+  top: 435px;
   white-space: nowrap;
   width: auto;
 }
@@ -53,15 +44,20 @@ transform: translate(0, 25px);
   white-space: nowrap;
   width: 331px;
 }
-.guidelines-layout .animate-enter15 {
-  animation: animate-enter15-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-layout .animate-enter12 {
+  animation: animate-enter12-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-layout .animate-enter16 {
-  animation: animate-enter16-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
+.guidelines-layout .backgroundnavigation-C61RwL {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
+  height: 503px;
+  left: 160px;
+  position: fixed;
+  top: 190px;
+  width: 340px;
 }
 .guidelines-layout .bannerlayout-C61RwL {
   background-color: transparent;
@@ -82,19 +78,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 1158px;
   width: 1180px;
 }
-.guidelines-layout .breakpoints-for-fferent-devices-05jha3 {
-  background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: 122px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-layout .breakpoints-for-fferent-devices-C61RwL {
   background-color: transparent;
   height: auto;
@@ -107,41 +90,54 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .buttons-05jha3 {
+.guidelines-layout .breakpoints-for-fferent-devices-VMr6Om {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 30px;
+  left: 207px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 450px;
+  top: 312px;
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .colors-05jha3 {
+.guidelines-layout .buttons-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 30px;
+  left: 190px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 286px;
+  top: 640px;
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .content-of-this-page-05jha3 {
+.guidelines-layout .colors-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-layout .content-of-this-page-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 30px;
+  left: 190px;
   letter-spacing: 0.00px;
   line-height: 16px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 32px;
+  top: 222px;
   white-space: nowrap;
   width: auto;
 }
@@ -229,16 +225,16 @@ opacity: 0;transform: translate(0, 25px);
   top: 4308px;
   width: 1180px;
 }
-.guidelines-layout .fonts-05jha3 {
+.guidelines-layout .fonts-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 30px;
+  left: 190px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 368px;
+  top: 558px;
   white-space: nowrap;
   width: auto;
 }
@@ -340,13 +336,13 @@ opacity: 0;transform: translate(0, 25px);
   top: 3384px;
   width: 1180px;
 }
-.guidelines-layout .gruppe-1083-05jha3 {
+.guidelines-layout .gruppe-1083-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: 26px;
-  left: 30px;
-  position: absolute;
-  top: 81px;
+  left: 190px;
+  position: fixed;
+  top: 271px;
   width: 67px;
 }
 .guidelines-layout .gruppe-467-CzWTH6 {
@@ -398,28 +394,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 1920px;
 }
-.guidelines-layout .icons-05jha3 {
+.guidelines-layout .icons-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 30px;
+  left: 190px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 409px;
+  top: 599px;
   white-space: nowrap;
   width: auto;
-}
-.guidelines-layout .in-page-navigation-C61RwL {
-  background-color: transparent;
-  display: block;
-  height: 503px;
-  left: 160px;
-  position: sticky;
-  top: 190px;
-  width: 340px;
-opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-layout .in-responsive-d-for-each-device-C61RwL {
   background-color: transparent;
@@ -509,7 +495,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .layout-YycYxH {
+.guidelines-layout .layout-ZAQrEY {
   background-color: transparent;
   height: auto;
   left: 17px;
@@ -734,16 +720,16 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 62px;
 }
-.guidelines-layout .navigation-05jha3 {
+.guidelines-layout .navigation-C61RwL {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 30px;
+  left: 190px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 327px;
+  top: 517px;
   white-space: nowrap;
   width: auto;
 }
@@ -882,17 +868,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.guidelines-layout .rechteck-616-05jha3 {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000029;
-  height: 503px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 340px;
-}
-.guidelines-layout .rechteck-663-YycYxH {
+.guidelines-layout .rechteck-663-ZAQrEY {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
   height: 26px;
@@ -1043,19 +1019,6 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(39.66% - 37px);
   width: 351px;
 }
-.guidelines-layout .usage-of-grids-05jha3 {
-  background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: 163px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-layout .usage-of-grids-C61RwL {
   background-color: transparent;
   height: auto;
@@ -1068,16 +1031,16 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-layout .usage-of-whitespace-05jha3 {
+.guidelines-layout .usage-of-grids-VMr6Om {
   background-color: transparent;
   cursor: pointer;
   height: auto;
-  left: 47px;
+  left: 207px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  position: fixed;
   text-align: left;
-  top: 204px;
+  top: 353px;
   white-space: nowrap;
   width: auto;
 }
@@ -1090,6 +1053,19 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   text-align: left;
   top: 4064px;
+  white-space: nowrap;
+  width: auto;
+}
+.guidelines-layout .usage-of-whitespace-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 207px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: fixed;
+  text-align: left;
+  top: 394px;
   white-space: nowrap;
   width: auto;
 }
@@ -1283,19 +1259,8 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 36px;
 }
-@keyframes animate-enter15-frames {
+@keyframes animate-enter12-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter16-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter17-frames {
-
-from{opacity: 0;
-transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }

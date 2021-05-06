@@ -1,19 +1,12 @@
 /* screen - guidelines-accessibility-2 */
 
-.animate-enter23 {
-  animation: animate-enter23-frames 0.40s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(0, 25px);
-}
 .guidelines-accessibility-2 {
   background-color: var(--coconut);
-  display: block;
   height: 6775px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-accessibility-2 .accessibility-C61RwL {
   background-color: transparent;
@@ -62,13 +55,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-2 .animate-enter21 {
-  animation: animate-enter21-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-2 .animate-enter15 {
+  animation: animate-enter15-frames 0.20s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-2 .animate-enter22 {
-  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-2 .animate-enter16 {
+  animation: animate-enter16-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -1481,18 +1474,13 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter21-frames {
+@keyframes animate-enter15-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter22-frames {
+@keyframes animate-enter16-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
-}
-@keyframes animate-enter23-frames {
-
-from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
