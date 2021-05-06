@@ -37,15 +37,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .apply-what-you-have-learned-fDxNlt {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(22.90% - 9px);
+  top: 30px;
   white-space: nowrap;
-  width: calc(100.00% - 108px);
+  width: auto;
 }
 .homepage .applywhatyouhavelearned-C61RwL {
   background-color: transparent;
@@ -70,59 +70,60 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .design-guide-Ab0iYm {
   background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 0px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
   text-decoration: underline;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 96px;
 }
 .homepage .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: calc(29.82% - 29px);
+  margin-bottom: 3.0px;
+  margin-left: 200px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
-  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: 96px;
+  width: auto;
 }
 .homepage .design-process-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: calc(18.43% - 21px);
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 113px;
+  position: relative;
   text-align: left;
-  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: 113px;
+  width: auto;
 }
 .homepage .ebene-2-ZrFNw0 {
   background-color: transparent;
+  background-image: url(../img/ebene-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex-shrink: 1;
   height: 25px;
-  left: 24px;
-  position: absolute;
-  top: calc(47.83% - 12px);
+  position: relative;
   width: 25px;
-}
-.homepage .ebene-2-xTxS2n {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
 }
 .homepage .ellipse-250-dRzSpc {
   background-color: var(--chetwode-blue);
@@ -130,17 +131,17 @@ opacity: 0;transform: translate(0, 25px);
   height: 57px;
   left: 0px;
   position: absolute;
-  top: calc(50.00% - 28px);
-  width: 100%;
+  top: 585px;
+  width: 57px;
 }
 .homepage .ellipse-250-kNDj2H {
   background-color: var(--chetwode-blue);
   border-radius: 28.5px;
-  bottom: 0px;
   height: 57px;
   left: 0px;
   position: absolute;
-  width: 100%;
+  top: 1170px;
+  width: 57px;
 }
 .homepage .ellipse-250-xvExM8 {
   background-color: var(--chetwode-blue);
@@ -149,7 +150,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: 57px;
 }
 .homepage .get-an-overview-C61RwL {
   background-color: transparent;
@@ -164,75 +165,96 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .homepage .gruppe-496-IcPKRJ {
-  background-color: transparent;
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
   height: 48px;
-  left: calc(37.96% - 215px);
-  position: absolute;
-  top: calc(50.00% - 24px);
-  width: 566px;
+  justify-content: flex-start;
+  margin-left: 201px;
+  min-width: 566px;
+  padding: 10px 23px;
+  position: relative;
+  width: auto;
 }
 .homepage .header-C61RwL {
-  background-color: transparent;
-  height: 90px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1920px;
-}
-.homepage .header-IcPKRJ {
+  align-items: center;
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
-  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 90px;
+  justify-content: flex-end;
   left: 0px;
+  min-width: 1920px;
+  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: 100%;
+  width: auto;
 }
 .homepage .here-5cFxPi {
   background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 0px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-top: -4px;
+  min-height: 21px;
+  min-width: 36px;
+  position: relative;
   text-align: left;
   text-decoration: underline;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: 36px;
 }
 .homepage .improve-your-wo-to-your-designs-fDxNlt {
   background-color: transparent;
-  bottom: calc(25.60% - 12px);
-  height: 45px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 92px);
+  top: 93px;
+  width: 400px;
 }
 .homepage .komponente-3-1-90OO0D {
+  align-items: flex-start;
   background-color: transparent;
-  bottom: calc(30.86% - 6px);
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 19px;
-  left: calc(26.60% - 9px);
+  justify-content: flex-start;
+  left: 133px;
+  min-width: 36px;
   position: absolute;
-  width: 34px;
+  top: 121px;
+  width: auto;
 }
 .homepage .komponente-4-1-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 19px;
+  justify-content: flex-start;
   left: 418px;
+  min-width: 96px;
   position: absolute;
   top: 2749px;
-  width: 96px;
+  width: auto;
 }
 .homepage .learn-design-principles-eu42hV {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 30px;
@@ -240,18 +262,18 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   top: 30px;
   white-space: nowrap;
-  width: 314px;
+  width: auto;
 }
 .homepage .learn-more-abou-he-design-guide-eu42hV {
   background-color: transparent;
-  bottom: 32px;
-  height: 93px;
+  height: auto;
   left: 30px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 92px);
+  top: 93px;
+  width: 352px;
 }
 .homepage .learndesignprinciples-C61RwL {
   background-color: transparent;
@@ -265,8 +287,8 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .linie-393-dRzSpc {
   background-color: transparent;
-  height: calc(100.00% - 55px);
-  left: calc(50.00% - 1px);
+  height: 1172px;
+  left: 28px;
   object-fit: cover;
   position: absolute;
   top: 28px;
@@ -283,11 +305,10 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .logo-IcPKRJ {
   background-color: transparent;
+  flex-shrink: 1;
   height: 26px;
-  left: 160px;
   object-fit: cover;
-  position: absolute;
-  top: calc(50.00% - 13px);
+  position: relative;
   width: 153px;
 }
 .homepage .on-this-website-design-elements-C61RwL {
@@ -312,16 +333,16 @@ opacity: 0;transform: translate(0, 25px);
   left: -22px;
   object-fit: cover;
   position: absolute;
-  top: calc(11.34% - 9px);
+  top: 13px;
   width: 80px;
 }
 .homepage .polygon-5-eu42hV {
   background-color: transparent;
   height: 75px;
+  left: 386px;
   object-fit: cover;
   position: absolute;
-  right: -22px;
-  top: calc(9.44% - 7px);
+  top: 14px;
   width: 80px;
 }
 .homepage .polygon-6-90OO0D {
@@ -330,16 +351,16 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: calc(20.73% - 6px);
+  top: 34px;
   width: 35px;
 }
 .homepage .polygon-6-eu42hV {
   background-color: transparent;
   height: 30px;
+  left: 409px;
   object-fit: cover;
   position: absolute;
-  right: 0px;
-  top: calc(18.09% - 5px);
+  top: 34px;
   width: 35px;
 }
 .homepage .polygon-7-fDxNlt {
@@ -348,7 +369,7 @@ opacity: 0;transform: translate(0, 25px);
   left: -22px;
   object-fit: cover;
   position: absolute;
-  top: calc(14.21% - 11px);
+  top: 13px;
   width: 80px;
 }
 .homepage .polygon-8-fDxNlt {
@@ -357,60 +378,54 @@ opacity: 0;transform: translate(0, 25px);
   left: 0px;
   object-fit: cover;
   position: absolute;
-  top: calc(24.29% - 7px);
+  top: 34px;
   width: 35px;
 }
 .homepage .rechteck-1335-90OO0D {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
+  height: 194px;
   left: 34px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 34px);
+  width: 500px;
 }
 .homepage .rechteck-1335-eu42hV {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
+  height: 218px;
   left: 0px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 34px);
+  width: 410px;
 }
 .homepage .rechteck-1339-fDxNlt {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
-  height: 100%;
+  height: 170px;
   left: 34px;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 34px);
-}
-.homepage .rechteck-48-ZrFNw0 {
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
+  width: 458px;
 }
 .homepage .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
-  height: 21px;
+  flex-shrink: 1;
+  height: auto;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
-  right: 158px;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 77px;
+  position: relative;
   text-align: left;
-  top: calc(47.83% - 10px);
   white-space: nowrap;
-  width: 77px;
+  width: auto;
 }
 .homepage .scrollto-C61RwL {
   background-color: transparent;
@@ -423,18 +438,19 @@ opacity: 0;transform: translate(0, 25px);
   width: 140px;
 }
 .homepage .search-ZrFNw0 {
+  align-self: center;
   background-color: transparent;
   border: 0;
-  bottom: calc(45.45% - 12px);
+  flex-shrink: 1;
   height: 26px;
-  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
+  margin-left: 15px;
   padding: 0;
-  position: absolute;
+  position: relative;
   resize: none;
   text-align: left;
-  width: calc(100.00% - 91px);
+  width: 475px;
 }
 .homepage .search-ZrFNw0::placeholder {
   color: #2021215c;
@@ -479,26 +495,26 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .to-create-an-ap-comes-to-action-90OO0D {
   background-color: transparent;
-  bottom: calc(25.60% - 18px);
-  height: 69px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 88px);
+  top: 93px;
+  width: 446px;
 }
 .homepage .understand-the-design-process-90OO0D {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 64px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(19.35% - 8px);
+  top: 30px;
   white-space: nowrap;
-  width: calc(100.00% - 115px);
+  width: auto;
 }
 .homepage .understandthedesignprocess-C61RwL {
   background-color: transparent;

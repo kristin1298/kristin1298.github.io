@@ -146,26 +146,32 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1280px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 200px;
+  min-height: 21px;
+  min-width: 96px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
 .guidelines-layout .design-process-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1474px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 113px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -183,20 +189,13 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-layout .ebene-2-ZrFNw0 {
   background-color: transparent;
+  background-image: url(../img/ebene-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex-shrink: 1;
   height: 25px;
-  left: 24px;
-  position: absolute;
-  top: 11px;
+  position: relative;
   width: 25px;
-}
-.guidelines-layout .ebene-2-xTxS2n {
-  background-color: transparent;
-  height: 100%;
-  left: 0px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
 }
 .guidelines-layout .equal-distance-1T6w53 {
   background-color: transparent;
@@ -220,7 +219,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 199px;
 }
 .guidelines-layout .equaldistance-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -262,7 +263,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 58px;
 }
 .guidelines-layout .grid-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -312,7 +315,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-layout .gridlayout-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -331,7 +336,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 792px;
 }
 .guidelines-layout .gridusage-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -339,13 +346,19 @@ opacity: 0;transform: translate(0, 25px);
   width: 1180px;
 }
 .guidelines-layout .gruppe-1083-05jha3 {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
   cursor: pointer;
+  display: flex;
+  flex-direction: row;
   height: 26px;
+  justify-content: flex-start;
   left: 30px;
+  min-width: 67px;
   position: absolute;
   top: 81px;
-  width: 67px;
+  width: auto;
 }
 .guidelines-layout .gruppe-467-CzWTH6 {
   background-color: transparent;
@@ -364,15 +377,26 @@ opacity: 0;transform: translate(0, 25px);
   width: 216px;
 }
 .guidelines-layout .gruppe-496-IcPKRJ {
-  background-color: transparent;
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border-radius: 24px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
   height: 48px;
-  left: 514px;
-  position: absolute;
-  top: 21px;
-  width: 566px;
+  justify-content: flex-start;
+  margin-left: 201px;
+  min-width: 566px;
+  padding: 10px 23px;
+  position: relative;
+  width: auto;
 }
 .guidelines-layout .gruppe-725-CzWTH6 {
   background-color: transparent;
+  background-image: url(../img/micro-macro@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
   height: calc(100.00% - 120px);
   position: absolute;
   right: 60px;
@@ -389,12 +413,20 @@ opacity: 0;transform: translate(0, 25px);
   width: 643px;
 }
 .guidelines-layout .header-C61RwL {
-  background-color: transparent;
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 0px 15px #00000019;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
   height: 90px;
+  justify-content: flex-end;
   left: 0px;
+  min-width: 1920px;
+  padding: 0 158px;
   position: absolute;
   top: 0px;
-  width: 1920px;
+  width: auto;
 }
 .guidelines-layout .icons-05jha3 {
   background-color: transparent;
@@ -410,7 +442,9 @@ opacity: 0;transform: translate(0, 25px);
   width: auto;
 }
 .guidelines-layout .in-page-navigation-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 25px #00000029;
   display: block;
   height: 503px;
   left: 160px;
@@ -479,7 +513,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 224px;
 }
 .guidelines-layout .lawofproximity-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -509,13 +545,15 @@ opacity: 0;transform: translate(0, 25px);
 }
 .guidelines-layout .layout-YycYxH {
   background-color: transparent;
+  flex-shrink: 1;
   height: auto;
-  left: 17px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-left: 14px;
+  min-height: 21px;
+  min-width: 50px;
+  position: relative;
   text-align: left;
-  top: 0px;
   white-space: nowrap;
   width: auto;
 }
@@ -612,11 +650,10 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .logo-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: 26px;
-  left: 160px;
   object-fit: cover;
-  position: absolute;
-  top: 32px;
+  position: relative;
   width: 153px;
 }
 .guidelines-layout .macro-and-micro-CzWTH6 {
@@ -644,7 +681,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 94px;
 }
 .guidelines-layout .macroandmicro-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -686,15 +725,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 33px;
   white-space: nowrap;
   width: 94px;
-}
-.guidelines-layout .micro-macro-IYV6ja {
-  background-color: transparent;
-  height: 100%;
-  left: 1px;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 100%;
 }
 .guidelines-layout .micro-space-Egrgt3 {
   background-color: transparent;
@@ -792,111 +822,12 @@ opacity: 0;transform: translate(0, 25px);
   top: 60px;
   width: 643px;
 }
-.guidelines-layout .rechteck-1-IcPKRJ {
-  background-color: var(--white);
-  box-shadow: 0px 0px 15px #00000019;
-  height: 90px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1920px;
-}
-.guidelines-layout .rechteck-10-1Dldzd {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-48-ZrFNw0 {
-  background-color: var(--white-lilac);
-  border-radius: 24px;
-  height: 48px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 566px;
-}
-.guidelines-layout .rechteck-590-eDsgTU {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-594-01tEiA {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-596-1T6w53 {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-598-isvOht {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-602-CzWTH6 {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-604-lfDgga {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 30px #00000019;
-  height: 100%;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 100%;
-}
-.guidelines-layout .rechteck-616-05jha3 {
-  background-color: var(--white);
-  border-radius: 12px;
-  box-shadow: 0px 1px 25px #00000029;
-  height: 503px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 340px;
-}
 .guidelines-layout .rechteck-663-YycYxH {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
+  flex-shrink: 1;
   height: 26px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
+  position: relative;
   width: 3px;
 }
 .guidelines-layout .remember-that-t-is-micro-space-CzWTH6 {
@@ -914,13 +845,16 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-layout .resources-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
+  flex-shrink: 1;
   height: auto;
-  left: 1685px;
   letter-spacing: 0.00px;
   line-height: 24px;
-  position: absolute;
+  margin-bottom: 3.0px;
+  margin-left: 98px;
+  min-height: 21px;
+  min-width: 77px;
+  position: relative;
   text-align: left;
-  top: 33px;
   white-space: nowrap;
   width: auto;
 }
@@ -946,7 +880,9 @@ opacity: 0;transform: translate(0, 25px);
   width: 640px;
 }
 .guidelines-layout .samespacing-C61RwL {
-  background-color: transparent;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 1px 30px #00000019;
   height: 480px;
   left: 580px;
   position: absolute;
@@ -954,17 +890,18 @@ opacity: 0;transform: translate(0, 25px);
   width: 1180px;
 }
 .guidelines-layout .search-ZrFNw0 {
+  align-self: center;
   background-color: transparent;
   border: 0;
+  flex-shrink: 1;
   height: 26px;
-  left: 64px;
   letter-spacing: 0.00px;
   line-height: 20px;
+  margin-left: 15px;
   padding: 0;
-  position: absolute;
+  position: relative;
   resize: none;
   text-align: left;
-  top: 12px;
   width: 475px;
 }
 .guidelines-layout .search-ZrFNw0::placeholder {
