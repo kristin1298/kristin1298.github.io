@@ -188,6 +188,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 163px;
   white-space: nowrap;
   width: auto;
+  scroll-behavior-margin-top: -190px;
 }
 .guidelines-accessibility-1 .color-deficiencies-C61RwL {
   background-color: transparent;
