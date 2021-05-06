@@ -191,7 +191,8 @@ opacity: 0;transform: translate(0, 25px);
 }
 
 .guidelines-accessibility-1 .color-deficiencies-05jha3 {
-  scroll-behavior: -190px;
+  scroll-margin-top: -190px;
+  
 }
 
 }
