@@ -564,13 +564,13 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-accessibility-1 .here-8FwqG5 {
   background-color: transparent;
   height: calc(100.00% + 2px);
-  left: 0px;
+  left: -1px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
   text-decoration: underline;
-  top: -4px;
+  top: -3px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
