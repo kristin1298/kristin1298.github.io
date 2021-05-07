@@ -21,13 +21,13 @@
   white-space: nowrap;
   width: auto;
 }
-.guidelines-fonts .animate-enter27 {
-  animation: animate-enter27-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-fonts .animate-enter33 {
+  animation: animate-enter33-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-fonts .animate-enter28 {
-  animation: animate-enter28-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-fonts .animate-enter34 {
+  animation: animate-enter34-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -541,19 +541,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 60px;
   width: 640px;
 }
-.guidelines-fonts .fonts-05jha3 {
-  background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: 245px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-fonts .fonts-C61RwL {
   background-color: transparent;
   height: auto;
@@ -565,6 +552,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 339px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-fonts .fonts-vlAYmV {
+  background-color: transparent;
+  height: 80.77%;
+  left: 29.82%;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 73.68%;
 }
 .guidelines-fonts .fontstyleitalic-C61RwL {
   background-color: transparent;
@@ -613,6 +612,15 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 2422px;
   width: 410px;
+}
+.guidelines-fonts .gruppe-1159-05jha3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 30px;
+  position: absolute;
+  top: 245px;
+  width: 59px;
 }
 .guidelines-fonts .gruppe-496-IcPKRJ {
   background-color: transparent;
@@ -1210,6 +1218,62 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 1920px;
 }
+.guidelines-fonts .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 723px;
+  width: 539px;
+}
+.guidelines-fonts .rechteck-1728-C61RwL {
+  background-color: transparent;
+  height: 339px;
+  left: 578px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+.guidelines-fonts .rechteck-1730-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 1939px;
+  width: 539px;
+}
+.guidelines-fonts .rechteck-1731-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 3161px;
+  width: 539px;
+}
+.guidelines-fonts .rechteck-1732-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 4395px;
+  width: 539px;
+}
+.guidelines-fonts .rechteck-1733-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 5053px;
+  width: 539px;
+}
+.guidelines-fonts .rechteck-1734-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 9458px;
+  width: 539px;
+}
 .guidelines-fonts .rechteck-342-c6tSla {
   background-color: var(--white);
   border-radius: 12px;
@@ -1269,14 +1333,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 340px;
 }
-.guidelines-fonts .rechteck-663-05jha3 {
+.guidelines-fonts .rechteck-663-vlAYmV {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
-  height: 26px;
-  left: 30px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 245px;
-  width: 3px;
+  top: 0px;
+  width: 5.08%;
 }
 .guidelines-fonts .rechteck-874-YS4HFf {
   background-color: var(--white);
@@ -1962,12 +2026,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter27-frames {
+@keyframes animate-enter33-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter28-frames {
+@keyframes animate-enter34-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

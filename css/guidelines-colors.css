@@ -69,13 +69,13 @@
   white-space: nowrap;
   width: 42px;
 }
-.guidelines-colors .animate-enter23 {
-  animation: animate-enter23-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-colors .animate-enter39 {
+  animation: animate-enter39-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-colors .animate-enter24 {
-  animation: animate-enter24-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-colors .animate-enter40 {
+  animation: animate-enter40-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -441,19 +441,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 60px;
   width: 640px;
 }
-.guidelines-colors .colors-05jha3 {
-  background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: 163px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-colors .colors-C61RwL {
   background-color: transparent;
   height: auto;
@@ -465,6 +452,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 339px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-colors .colors-E8Vg48 {
+  background-color: transparent;
+  height: 80.77%;
+  left: 26.98%;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 76.19%;
 }
 .guidelines-colors .colors-can-spea-connotation-for-C61RwL {
   background-color: transparent;
@@ -955,6 +954,15 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   white-space: nowrap;
   width: 34px;
+}
+.guidelines-colors .gruppe-1158-05jha3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 30px;
+  position: absolute;
+  top: 163px;
+  width: 65px;
 }
 .guidelines-colors .gruppe-496-IcPKRJ {
   background-color: transparent;
@@ -2192,6 +2200,30 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
+.guidelines-colors .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 720px;
+  width: 539px;
+}
+.guidelines-colors .rechteck-1728-C61RwL {
+  background-color: transparent;
+  height: 339px;
+  left: 580px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+.guidelines-colors .rechteck-1732-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 5705px;
+  width: 539px;
+}
 .guidelines-colors .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -2211,14 +2243,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 340px;
 }
-.guidelines-colors .rechteck-663-05jha3 {
+.guidelines-colors .rechteck-663-E8Vg48 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
-  height: 26px;
-  left: 30px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 163px;
-  width: 3px;
+  top: 0px;
+  width: 4.62%;
 }
 .guidelines-colors .red-C61RwL {
   background-color: transparent;
@@ -2839,12 +2871,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 41px;
 }
-@keyframes animate-enter23-frames {
+@keyframes animate-enter39-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter24-frames {
+@keyframes animate-enter40-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

@@ -9,7 +9,7 @@
   width: 1920px;
 }
 .homepage .animate-enter {
-  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -25,6 +25,16 @@ opacity: 0;transform: translate(0, 25px);
 }
 .homepage .animate-enter3 {
   animation: animate-enter3-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter4 {
+  animation: animate-enter4-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.homepage .animate-enter5 {
+  animation: animate-enter5-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -61,19 +71,6 @@ opacity: 0;transform: translate(0, 25px);
   width: 1920px;
 opacity: 0;transform: translate(0, 25px);
 }
-.homepage .design-guide-Ab0iYm {
-  background-color: transparent;
-  bottom: 10.53%;
-  height: 21px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  text-decoration: underline;
-  white-space: nowrap;
-  width: calc(100.00% + 2px);
-}
 .homepage .design-guide-IcPKRJ {
   background-color: transparent;
   cursor: pointer;
@@ -86,6 +83,19 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(47.83% - 10px);
   white-space: nowrap;
   width: 96px;
+}
+.homepage .design-guide-barDzS {
+  background-color: transparent;
+  bottom: 10.53%;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
 }
 .homepage .design-process-IcPKRJ {
   background-color: transparent;
@@ -156,6 +166,16 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
+.homepage .gruppe-1162-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 218px;
+  left: 388px;
+  position: absolute;
+  top: 2580px;
+  width: 444px;
+opacity: 0;transform: translate(0, 25px);
+}
 .homepage .gruppe-496-IcPKRJ {
   background-color: transparent;
   height: 48px;
@@ -214,16 +234,18 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   width: 34px;
 }
-.homepage .komponente-4-1-C61RwL {
+.homepage .komponente-4-1-LBFxKP {
   background-color: transparent;
+  bottom: 30px;
   cursor: pointer;
+  display: block;
   height: 19px;
-  left: 418px;
+  left: 30px;
   position: absolute;
-  top: 2749px;
-  width: 96px;
+  width: 94px;
+opacity: 0;transform: translate(0, 25px);
 }
-.homepage .learn-design-principles-eu42hV {
+.homepage .learn-design-principles-UoaIFR {
   background-color: transparent;
   height: 39px;
   left: 30px;
@@ -235,7 +257,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 314px;
 }
-.homepage .learn-more-abou-he-design-guide-eu42hV {
+.homepage .learn-more-abou-he-design-guide-UoaIFR {
   background-color: transparent;
   bottom: 32px;
   height: 93px;
@@ -246,14 +268,14 @@ opacity: 0;transform: translate(0, 25px);
   text-align: left;
   width: calc(100.00% - 92px);
 }
-.homepage .learndesignprinciples-C61RwL {
+.homepage .learndesignprinciples-LBFxKP {
   background-color: transparent;
   display: block;
-  height: 218px;
-  left: 388px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 2580px;
-  width: 444px;
+  top: 0px;
+  width: 100%;
 opacity: 0;transform: translate(0, 25px);
 }
 .homepage .linie-393-dRzSpc {
@@ -308,7 +330,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(11.34% - 9px);
   width: 80px;
 }
-.homepage .polygon-5-eu42hV {
+.homepage .polygon-5-UoaIFR {
   background-color: transparent;
   height: 75px;
   object-fit: cover;
@@ -326,7 +348,7 @@ opacity: 0;transform: translate(0, 25px);
   top: calc(20.73% - 6px);
   width: 35px;
 }
-.homepage .polygon-6-eu42hV {
+.homepage .polygon-6-UoaIFR {
   background-color: transparent;
   height: 30px;
   object-fit: cover;
@@ -363,7 +385,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: calc(100.00% - 34px);
 }
-.homepage .rechteck-1335-eu42hV {
+.homepage .rechteck-1335-UoaIFR {
   background-color: var(--white);
   border-radius: 6px;
   box-shadow: 0px 2px 25px #00000029;
@@ -382,6 +404,14 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 0px;
   width: calc(100.00% - 34px);
+}
+.homepage .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 691px;
+  position: absolute;
+  top: 910px;
+  width: 539px;
 }
 .homepage .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
@@ -432,22 +462,22 @@ opacity: 0;transform: translate(0, 25px);
 .homepage .search-ZrFNw0::placeholder {
   color: #2021215c;
 }
-.homepage .span0-F6JDN0 {
-
-}
 .homepage .span0-akRfon {
 
 }
-.homepage .span1-F6JDN0 {
+.homepage .span0-i2nAQx {
 
 }
 .homepage .span1-akRfon {
 
 }
-.homepage .span2-F6JDN0 {
+.homepage .span1-i2nAQx {
 
 }
 .homepage .span2-akRfon {
+
+}
+.homepage .span2-i2nAQx {
 
 }
 .homepage .stepbystep-C61RwL {
@@ -528,6 +558,16 @@ from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter3-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter4-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter5-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

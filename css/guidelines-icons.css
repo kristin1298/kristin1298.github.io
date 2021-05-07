@@ -92,13 +92,13 @@
   top: calc(39.53% - 37px);
   width: 337px;
 }
-.guidelines-icons .animate-enter29 {
-  animation: animate-enter29-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-icons .animate-enter35 {
+  animation: animate-enter35-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-icons .animate-enter30 {
-  animation: animate-enter30-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-icons .animate-enter36 {
+  animation: animate-enter36-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -416,6 +416,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 4638px;
   width: 1180px;
 }
+.guidelines-icons .gruppe-1160-05jha3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 30px;
+  position: absolute;
+  top: 285px;
+  width: 58px;
+}
 .guidelines-icons .gruppe-496-IcPKRJ {
   background-color: transparent;
   height: 48px;
@@ -553,19 +562,6 @@ opacity: 0;transform: translate(0, 25px);
   top: 34px;
   width: 347px;
 }
-.guidelines-icons .icons-05jha3 {
-  background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
-  letter-spacing: 0.00px;
-  line-height: 24px;
-  position: absolute;
-  text-align: left;
-  top: 285px;
-  white-space: nowrap;
-  width: auto;
-}
 .guidelines-icons .icons-C61RwL {
   background-color: transparent;
   height: auto;
@@ -577,6 +573,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 339px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-icons .icons-E0x4zg {
+  background-color: transparent;
+  height: 80.77%;
+  left: 30.36%;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 73.21%;
 }
 .guidelines-icons .icons-are-also-e-speech-bubble-dZj9Ts {
   background-color: transparent;
@@ -1020,6 +1028,14 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 88px;
 }
+.guidelines-icons .rechteck-1-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 723px;
+  width: 539px;
+}
 .guidelines-icons .rechteck-1-IcPKRJ {
   background-color: var(--white);
   box-shadow: 0px 0px 15px #00000019;
@@ -1058,6 +1074,31 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 0px;
   width: 100%;
+}
+.guidelines-icons .rechteck-1728-C61RwL {
+  background-color: transparent;
+  height: 339px;
+  left: 580px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+.guidelines-icons .rechteck-2-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 13703px;
+  width: 539px;
+}
+.guidelines-icons .rechteck-3-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 11594px;
+  width: 539px;
 }
 .guidelines-icons .rechteck-323-xOOvnU {
   background-color: var(--white);
@@ -1149,6 +1190,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
+.guidelines-icons .rechteck-4-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 9509px;
+  width: 539px;
+}
 .guidelines-icons .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -1157,6 +1206,14 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 0px;
   width: 566px;
+}
+.guidelines-icons .rechteck-5-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 5128px;
+  width: 539px;
 }
 .guidelines-icons .rechteck-616-05jha3 {
   background-color: var(--white);
@@ -1168,14 +1225,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 340px;
 }
-.guidelines-icons .rechteck-663-05jha3 {
+.guidelines-icons .rechteck-663-E0x4zg {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
-  height: 26px;
-  left: 30px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 285px;
-  width: 3px;
+  top: 0px;
+  width: 5.17%;
 }
 .guidelines-icons .rechteck-772-AJcDBt {
   background-color: var(--white);
@@ -1996,12 +2053,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter29-frames {
+@keyframes animate-enter35-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter30-frames {
+@keyframes animate-enter36-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

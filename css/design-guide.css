@@ -21,8 +21,43 @@
   white-space: nowrap;
   width: auto;
 }
-.design-guide .animate-enter11 {
-  animation: animate-enter11-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.design-guide .animate-enter13 {
+  animation: animate-enter13-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter14 {
+  animation: animate-enter14-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter15 {
+  animation: animate-enter15-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter16 {
+  animation: animate-enter16-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter17 {
+  animation: animate-enter17-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter18 {
+  animation: animate-enter18-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter19 {
+  animation: animate-enter19-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.design-guide .animate-enter20 {
+  animation: animate-enter20-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -663,20 +698,24 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .overviewaccessibillity-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 1680px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewbuttons-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 4581px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewbuttons-Pas6xV {
   background-color: transparent;
@@ -690,11 +729,13 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .overviewcolors-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 2260px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewcolors-aTLXeB {
   background-color: transparent;
@@ -708,11 +749,13 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .overviewfonts-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 3420px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewfonts-CFaScP {
   background-color: transparent;
@@ -726,11 +769,13 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .overviewicons-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 4000px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewicons-VTwxzW {
   background-color: transparent;
@@ -744,11 +789,13 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .overviewlayout-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 1100px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewlayout-zf8gxc {
   background-color: transparent;
@@ -762,11 +809,13 @@ opacity: 0;transform: translate(0, 25px);
 .design-guide .overviewnavigation-C61RwL {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 430px;
   left: 160px;
   position: absolute;
   top: 2840px;
   width: 1600px;
+opacity: 0;transform: translate(0, 25px);
 }
 .design-guide .overviewnavigation-f1s3Ac {
   background-color: transparent;
@@ -1030,6 +1079,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
+.design-guide .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 691px;
+  position: absolute;
+  top: 910px;
+  width: 539px;
+}
 .design-guide .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -1271,7 +1328,42 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% - 15px);
 }
-@keyframes animate-enter11-frames {
+@keyframes animate-enter13-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter14-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter15-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter16-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter17-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter18-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter19-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter20-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

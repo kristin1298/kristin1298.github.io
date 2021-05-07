@@ -20,8 +20,18 @@
   white-space: nowrap;
   width: auto;
 }
-.resources .animate-enter33 {
-  animation: animate-enter33-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.resources .animate-enter43 {
+  animation: animate-enter43-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.resources .animate-enter44 {
+  animation: animate-enter44-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.resources .animate-enter45 {
+  animation: animate-enter45-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -244,6 +254,7 @@ opacity: 0;transform: translate(0, 25px);
 }
 .resources .here-are-the-di-for-this-guide-C61RwL {
   background-color: transparent;
+  display: block;
   height: auto;
   left: 160px;
   letter-spacing: 0.00px;
@@ -253,6 +264,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 446px;
   white-space: nowrap;
   width: auto;
+opacity: 0;transform: translate(0, 25px);
 }
 .resources .icons-C61RwL {
   background-color: transparent;
@@ -266,7 +278,7 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
-.resources .informationsvis-alisierung-book-x9xu4U {
+.resources .informationsvis-erung-avedition-x9xu4U {
   background-color: transparent;
   cursor: pointer;
   height: calc(100.00% + 2px);
@@ -331,7 +343,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 237px;
   position: absolute;
   top: 1781px;
-  width: 303px;
+  width: 328px;
 }
 .resources .komponente-61-1-C61RwL {
   background-color: transparent;
@@ -769,6 +781,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 2072px;
   width: 480px;
 }
+.resources .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 691px;
+  position: absolute;
+  top: 910px;
+  width: 539px;
+}
 .resources .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -780,6 +800,7 @@ opacity: 0;transform: translate(0, 25px);
 }
 .resources .resources-C61RwL {
   background-color: transparent;
+  display: block;
   height: auto;
   left: 160px;
   letter-spacing: 0.00px;
@@ -789,6 +810,7 @@ opacity: 0;transform: translate(0, 25px);
   top: 360px;
   white-space: nowrap;
   width: auto;
+opacity: 0;transform: translate(0, 25px);
 }
 .resources .resources-IcPKRJ {
   background-color: transparent;
@@ -879,7 +901,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
-@keyframes animate-enter33-frames {
+@keyframes animate-enter43-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter44-frames {
+
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
+}
+@keyframes animate-enter45-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

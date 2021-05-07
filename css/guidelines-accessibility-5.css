@@ -55,13 +55,13 @@
   white-space: nowrap;
   width: auto;
 }
-.guidelines-accessibility-5 .animate-enter21 {
-  animation: animate-enter21-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-5 .animate-enter31 {
+  animation: animate-enter31-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-accessibility-5 .animate-enter22 {
-  animation: animate-enter22-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-accessibility-5 .animate-enter32 {
+  animation: animate-enter32-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -353,59 +353,54 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
-.guidelines-accessibility-5 .ellipse-503-C61RwL {
+.guidelines-accessibility-5 .ellipse-503-MfzLxx {
   background-color: var(--white);
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
-  cursor: pointer;
-  height: 17px;
-  left: 802px;
+  height: calc(100.00% - 6px);
+  left: 3px;
   position: absolute;
-  top: 1365px;
+  top: 3px;
   width: 17px;
 }
-.guidelines-accessibility-5 .ellipse-504-C61RwL {
+.guidelines-accessibility-5 .ellipse-504-kclc5r {
   background-color: var(--white);
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
-  cursor: pointer;
-  height: 17px;
-  left: 802px;
+  height: calc(100.00% - 6px);
+  left: 3px;
   position: absolute;
-  top: 1414px;
+  top: 3px;
   width: 17px;
 }
-.guidelines-accessibility-5 .ellipse-505-C61RwL {
+.guidelines-accessibility-5 .ellipse-505-cFJaHG {
   background-color: var(--white);
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
-  cursor: pointer;
-  height: 17px;
-  left: 802px;
+  height: calc(100.00% - 6px);
+  left: 3px;
   position: absolute;
-  top: 1463px;
+  top: 3px;
   width: 17px;
 }
-.guidelines-accessibility-5 .ellipse-506-C61RwL {
+.guidelines-accessibility-5 .ellipse-506-hv1ENr {
   background-color: var(--white);
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
-  cursor: pointer;
-  height: 17px;
-  left: 822px;
+  height: calc(100.00% - 6px);
   position: absolute;
-  top: 1512px;
+  right: 3px;
+  top: 3px;
   width: 17px;
 }
-.guidelines-accessibility-5 .ellipse-507-C61RwL {
+.guidelines-accessibility-5 .ellipse-507-xUhPSV {
   background-color: var(--white);
   border-radius: 8.5px;
   box-shadow: 0px 1px 10px #00000029;
-  cursor: pointer;
-  height: 17px;
-  left: 802px;
+  height: calc(100.00% - 6px);
+  left: 3px;
   position: absolute;
-  top: 1317px;
+  top: 3px;
   width: 17px;
 }
 .guidelines-accessibility-5 .emotional-aspect-zZp18q {
@@ -470,6 +465,51 @@ opacity: 0;transform: translate(0, 25px);
   position: absolute;
   top: 122px;
   width: 108px;
+}
+.guidelines-accessibility-5 .gruppe-1185-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 799px;
+  position: absolute;
+  top: 1509px;
+  width: 43px;
+}
+.guidelines-accessibility-5 .gruppe-1186-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 799px;
+  position: absolute;
+  top: 1460px;
+  width: 43px;
+}
+.guidelines-accessibility-5 .gruppe-1187-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 799px;
+  position: absolute;
+  top: 1411px;
+  width: 43px;
+}
+.guidelines-accessibility-5 .gruppe-1188-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 799px;
+  position: absolute;
+  top: 1362px;
+  width: 43px;
+}
+.guidelines-accessibility-5 .gruppe-1189-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 799px;
+  position: absolute;
+  top: 1314px;
+  width: 43px;
 }
 .guidelines-accessibility-5 .gruppe-496-IcPKRJ {
   background-color: transparent;
@@ -1009,50 +1049,90 @@ opacity: 0;transform: translate(0, 25px);
   top: 1158px;
   width: 1180px;
 }
-.guidelines-accessibility-5 .rechteck-1712-C61RwL {
+.guidelines-accessibility-5 .rechteck-1712-xUhPSV {
   background-color: var(--geyser);
   border-radius: 12px;
-  height: 23px;
-  left: 799px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 1314px;
-  width: 43px;
+  top: 0px;
+  width: 100%;
 }
-.guidelines-accessibility-5 .rechteck-1713-C61RwL {
+.guidelines-accessibility-5 .rechteck-1713-MfzLxx {
   background-color: var(--geyser);
   border-radius: 12px;
-  height: 23px;
-  left: 799px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 1362px;
-  width: 43px;
+  top: 0px;
+  width: 100%;
 }
-.guidelines-accessibility-5 .rechteck-1714-C61RwL {
+.guidelines-accessibility-5 .rechteck-1714-kclc5r {
   background-color: var(--geyser);
   border-radius: 12px;
-  height: 23px;
-  left: 799px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 1411px;
-  width: 43px;
+  top: 0px;
+  width: 100%;
 }
-.guidelines-accessibility-5 .rechteck-1715-C61RwL {
+.guidelines-accessibility-5 .rechteck-1715-cFJaHG {
   background-color: var(--geyser);
   border-radius: 12px;
-  height: 23px;
-  left: 799px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 1460px;
-  width: 43px;
+  top: 0px;
+  width: 100%;
 }
-.guidelines-accessibility-5 .rechteck-1724-C61RwL {
+.guidelines-accessibility-5 .rechteck-1724-hv1ENr {
   background-color: #4a4a4a;
   border-radius: 12px;
-  height: 23px;
-  left: 799px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 1509px;
-  width: 43px;
+  top: 0px;
+  width: 100%;
+}
+.guidelines-accessibility-5 .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 723px;
+  width: 539px;
+}
+.guidelines-accessibility-5 .rechteck-1728-C61RwL {
+  background-color: transparent;
+  height: 339px;
+  left: 580px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+.guidelines-accessibility-5 .rechteck-1735-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 1648px;
+  width: 539px;
+}
+.guidelines-accessibility-5 .rechteck-1736-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 2968px;
+  width: 539px;
+}
+.guidelines-accessibility-5 .rechteck-1737-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 6213px;
+  width: 539px;
 }
 .guidelines-accessibility-5 .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
@@ -1474,12 +1554,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter21-frames {
+@keyframes animate-enter31-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter22-frames {
+@keyframes animate-enter32-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

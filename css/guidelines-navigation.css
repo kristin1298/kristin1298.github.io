@@ -21,13 +21,13 @@
   white-space: nowrap;
   width: auto;
 }
-.guidelines-navigation .animate-enter25 {
-  animation: animate-enter25-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigation .animate-enter37 {
+  animation: animate-enter37-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-navigation .animate-enter26 {
-  animation: animate-enter26-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-navigation .animate-enter38 {
+  animation: animate-enter38-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -892,6 +892,30 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 100%;
 }
+.guidelines-navigation .rechteck-1727-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 723px;
+  width: 539px;
+}
+.guidelines-navigation .rechteck-1728-C61RwL {
+  background-color: transparent;
+  height: 339px;
+  left: 580px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+.guidelines-navigation .rechteck-1732-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 6871px;
+  width: 539px;
+}
 .guidelines-navigation .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -1334,12 +1358,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter25-frames {
+@keyframes animate-enter37-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter26-frames {
+@keyframes animate-enter38-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}

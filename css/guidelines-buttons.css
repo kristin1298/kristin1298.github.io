@@ -85,13 +85,13 @@
   white-space: nowrap;
   width: 250px;
 }
-.guidelines-buttons .animate-enter31 {
-  animation: animate-enter31-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter41 {
+  animation: animate-enter41-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-buttons .animate-enter32 {
-  animation: animate-enter32-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter42 {
+  animation: animate-enter42-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -143,18 +143,17 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 182px;
 }
-.guidelines-buttons .buttons-05jha3 {
+.guidelines-buttons .buttons-2xiMl2 {
   background-color: transparent;
-  cursor: pointer;
-  height: auto;
-  left: 47px;
+  height: 80.77%;
+  left: 23.61%;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 327px;
+  top: 0px;
   white-space: nowrap;
-  width: auto;
+  width: 79.17%;
 }
 .guidelines-buttons .buttons-C61RwL {
   background-color: transparent;
@@ -341,6 +340,15 @@ opacity: 0;transform: translate(0, 25px);
   top: 243px;
   white-space: nowrap;
   width: auto;
+}
+.guidelines-buttons .gruppe-1161-05jha3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 30px;
+  position: absolute;
+  top: 327px;
+  width: 74px;
 }
 .guidelines-buttons .gruppe-496-IcPKRJ {
   background-color: transparent;
@@ -707,6 +715,38 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 1920px;
 }
+.guidelines-buttons .rechteck-10-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 723px;
+  width: 539px;
+}
+.guidelines-buttons .rechteck-11-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 4551px;
+  width: 539px;
+}
+.guidelines-buttons .rechteck-1728-C61RwL {
+  background-color: transparent;
+  height: 339px;
+  left: 580px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+.guidelines-buttons .rechteck-1729-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 580px;
+  position: absolute;
+  top: 7339px;
+  width: 539px;
+}
 .guidelines-buttons .rechteck-48-ZrFNw0 {
   background-color: var(--white-lilac);
   border-radius: 24px;
@@ -776,14 +816,14 @@ opacity: 0;transform: translate(0, 25px);
   top: 0px;
   width: 340px;
 }
-.guidelines-buttons .rechteck-663-05jha3 {
+.guidelines-buttons .rechteck-663-2xiMl2 {
   background-color: var(--chetwode-blue);
   border-radius: 2px;
-  height: 26px;
-  left: 30px;
+  height: 100%;
+  left: 0px;
   position: absolute;
-  top: 327px;
-  width: 3px;
+  top: 0px;
+  width: 4.05%;
 }
 .guidelines-buttons .rechteck-757-qYjIQj {
   background-color: var(--white);
@@ -1262,12 +1302,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter31-frames {
+@keyframes animate-enter41-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter32-frames {
+@keyframes animate-enter42-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
