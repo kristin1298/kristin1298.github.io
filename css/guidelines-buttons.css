@@ -2,7 +2,7 @@
 
 .guidelines-buttons {
   background-color: var(--coconut);
-  height: 8099px;
+  height: 8027px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
@@ -85,13 +85,13 @@
   white-space: nowrap;
   width: 250px;
 }
-.guidelines-buttons .animate-enter41 {
-  animation: animate-enter41-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter {
+  animation: animate-enter-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
-.guidelines-buttons .animate-enter42 {
-  animation: animate-enter42-frames 0.40s ease-in-out 0.00s 1 normal forwards;
+.guidelines-buttons .animate-enter1 {
+  animation: animate-enter1-frames 0.40s ease-in-out 0.00s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
@@ -160,22 +160,10 @@ opacity: 0;transform: translate(0, 25px);
   height: auto;
   left: 580px;
   letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 339px;
-  white-space: nowrap;
-  width: auto;
-}
-.guidelines-buttons .buttons-VMr6Om {
-  background-color: transparent;
-  height: auto;
-  left: 580px;
-  letter-spacing: 0.00px;
   line-height: 16px;
   position: absolute;
   text-align: left;
-  top: 7703px;
+  top: 7631px;
   width: 174px;
 }
 .guidelines-buttons .buttons-are-use-new-upload-etc-C61RwL {
@@ -186,7 +174,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 7738px;
+  top: 7666px;
   width: 401px;
 }
 .guidelines-buttons .buttons-communi-d-links-matters-C61RwL {
@@ -197,7 +185,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 7602px;
+  top: 7530px;
   width: 580px;
 }
 .guidelines-buttons .buttonstates-C61RwL {
@@ -362,7 +350,7 @@ opacity: 0;transform: translate(0, 25px);
   background-color: transparent;
   bottom: 10.53%;
   height: 21px;
-  left: 1px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 24px;
   position: absolute;
@@ -388,7 +376,7 @@ opacity: 0;transform: translate(0, 25px);
   height: 480px;
   left: 580px;
   position: absolute;
-  top: 5106px;
+  top: 5034px;
   width: 1180px;
 }
 .guidelines-buttons .gutenbergprinciple-YzvzO9 {
@@ -412,7 +400,7 @@ opacity: 0;transform: translate(0, 25px);
 .guidelines-buttons .here-LtiwqH {
   background-color: transparent;
   height: calc(100.00% + 2px);
-  left: -48px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 16px;
   position: absolute;
@@ -534,7 +522,7 @@ opacity: 0;transform: translate(0, 25px);
   left: 578px;
   object-fit: cover;
   position: absolute;
-  top: 7574px;
+  top: 7502px;
   width: 44px;
 }
 .guidelines-buttons .links-C61RwL {
@@ -545,7 +533,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 16px;
   position: absolute;
   text-align: left;
-  top: 7817px;
+  top: 7745px;
   width: 174px;
 }
 .guidelines-buttons .links-are-used-ann-profile-etc-C61RwL {
@@ -556,7 +544,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 7852px;
+  top: 7780px;
   width: 401px;
 }
 .guidelines-buttons .logo-IcPKRJ {
@@ -663,7 +651,7 @@ opacity: 0;transform: translate(0, 25px);
   height: 480px;
   left: 580px;
   position: absolute;
-  top: 6266px;
+  top: 6194px;
   width: 1180px;
 }
 .guidelines-buttons .primaryaction1-qYjIQj {
@@ -681,7 +669,7 @@ opacity: 0;transform: translate(0, 25px);
   height: 480px;
   left: 580px;
   position: absolute;
-  top: 6846px;
+  top: 6774px;
   width: 1180px;
 }
 .guidelines-buttons .primaryaction2-UlxaGT {
@@ -744,7 +732,7 @@ opacity: 0;transform: translate(0, 25px);
   height: 190px;
   left: 580px;
   position: absolute;
-  top: 7339px;
+  top: 7267px;
   width: 539px;
 }
 .guidelines-buttons .rechteck-48-ZrFNw0 {
@@ -1017,6 +1005,18 @@ opacity: 0;transform: translate(0, 25px);
   top: 60px;
   width: 640px;
 }
+.guidelines-buttons .title-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  white-space: nowrap;
+  width: auto;
+}
 .guidelines-buttons .top-vs-bottom-BVs0Xn {
   background-color: transparent;
   height: 39px;
@@ -1044,7 +1044,7 @@ opacity: 0;transform: translate(0, 25px);
   height: 480px;
   left: 580px;
   position: absolute;
-  top: 5686px;
+  top: 5614px;
   width: 1180px;
 }
 .guidelines-buttons .understandable-C61RwL {
@@ -1156,7 +1156,7 @@ opacity: 0;transform: translate(0, 25px);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 7529px;
+  top: 7457px;
   white-space: nowrap;
   width: auto;
 }
@@ -1302,12 +1302,12 @@ opacity: 0;transform: translate(0, 25px);
   white-space: nowrap;
   width: 17px;
 }
-@keyframes animate-enter41-frames {
+@keyframes animate-enter-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
-@keyframes animate-enter42-frames {
+@keyframes animate-enter1-frames {
 
 from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
